@@ -1,0 +1,5430 @@
+{
+  "languages": [
+    "American English",
+    "British English",
+    "Français",
+    "한국어",
+    "Deutsche",
+    "Japanese",
+    "Nederlands",
+    "Chinese"
+  ],
+  "lesson Daily use Lesson Pt 1": {
+    "list 1": [
+      {
+        "American English": "Hello / Good Bye",
+        "British English": "Hello",
+        "Français": "Bonjour",
+        "한국어": "안녕하세요",
+        "Deutsche": "Hallo",
+        "Japanese": "こんにちは",
+        "Nederlands": "Hallo",
+        "Chinese": "你好"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "How you (How Are you)",
+        "British English": "How are you",
+        "Français": "Ça va / Comment tu vas ",
+        "한국어": "어떻게 지냈어요?",
+        "Deutsche": "Wie geht es dir ?",
+        "Japanese": "お元気ですか?",
+        "Nederlands": "Hoe gaat het met je",
+        "Chinese": "你好吗"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "What's Up?",
+        "British English": "What’s up?",
+        "Français": "Tu fais quoi?",
+        "한국어": "무슨 일이에요?",
+        "Deutsche": "Was geht ab?",
+        "Japanese": "最近どう？",
+        "Nederlands": "Wat is er?",
+        "Chinese": "怎么了"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Nice (to) Meet You",
+        "British English": "Nice to meet you",
+        "Français": "Ravi(e) de te rencontrer ",
+        "한국어": "만나서 반가워요",
+        "Deutsche": "Freut mich dich kennenzulernen",
+        "Japanese": "はじめまして",
+        "Nederlands": "Leuk je te ontmoeten",
+        "Chinese": "很高兴认识你"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Good",
+        "British English": "Good",
+        "Français": "Bon",
+        "한국어": "좋아요",
+        "Deutsche": "Gut",
+        "Japanese": "良い",
+        "Nederlands": "Goed",
+        "Chinese": "好"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Bad",
+        "British English": "Bad",
+        "Français": "Mauvais",
+        "한국어": "나빠요",
+        "Deutsche": "Schlecht",
+        "Japanese": "悪い",
+        "Nederlands": "Slecht",
+        "Chinese": "坏/不好"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Yes",
+        "British English": "Yes",
+        "Français": "Oui",
+        "한국어": "예 (네)",
+        "Deutsche": "Ja",
+        "Japanese": "はい",
+        "Nederlands": "Ja",
+        "Chinese": "是"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "No",
+        "British English": "No",
+        "Français": "Non",
+        "한국어": "아니요",
+        "Deutsche": "Nein",
+        "Japanese": "いいえ",
+        "Nederlands": "Nee",
+        "Chinese": "否/不是"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "So-So",
+        "British English": "So-So",
+        "Français": "Moyen",
+        "한국어": "그저 그래요",
+        "Deutsche": "so-so",
+        "Japanese": "まあまあ",
+        "Nederlands": "Middelmatig",
+        "Chinese": "一般"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Sick",
+        "British English": "Sick",
+        "Français": "Malade",
+        "한국어": "아프다 (병든)",
+        "Deutsche": "Krank",
+        "Japanese": "気分が悪い",
+        "Nederlands": "Ziek",
+        "Chinese": "生病"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Hurt",
+        "British English": "Hurt",
+        "Français": "Mal",
+        "한국어": "다치다",
+        "Deutsche": "Verletzt",
+        "Japanese": "痛い",
+        "Nederlands": "Pijn",
+        "Chinese": "疼痛/伤害"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Welcome",
+        "British English": "You’re welcome",
+        "Français": "De rien",
+        "한국어": "환영합니다",
+        "Deutsche": "Willkommen",
+        "Japanese": "どういたしまして",
+        "Nederlands": "Je bent welkom",
+        "Chinese": "不客气"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Goodbye / Bye",
+        "British English": "Good bye",
+        "Français": "Au revoir",
+        "한국어": "잘 가요",
+        "Deutsche": "Auf Wiedersehen",
+        "Japanese": "さようなら",
+        "Nederlands": "Goedendag",
+        "Chinese": "再见"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Good morning",
+        "British English": "Good morning",
+        "Français": "Bonjour",
+        "한국어": "좋은 아침",
+        "Deutsche": "Guten Morgen",
+        "Japanese": "おはようございます",
+        "Nederlands": "Goedemorgen",
+        "Chinese": "早安"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Good afternoon",
+        "British English": "Good afternoon",
+        "Français": "Bon après-midi",
+        "한국어": "좋은 점심",
+        "Deutsche": "Guten Tag",
+        "Japanese": "こんにちは",
+        "Nederlands": "Goedemiddag",
+        "Chinese": "下午好"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Good evening",
+        "British English": "Good evening",
+        "Français": "Bonsoir",
+        "한국어": "좋은 저녁",
+        "Deutsche": "Guten Abend",
+        "Japanese": "こんばんは",
+        "Nederlands": "Goedenavond",
+        "Chinese": "晚上好"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Good night",
+        "British English": "Good night",
+        "Français": "Bonne nuit",
+        "한국어": "잘 자요",
+        "Deutsche": "Guten Nacht",
+        "Japanese": "おやすみなさい",
+        "Nederlands": "Goede nacht",
+        "Chinese": "晚安"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "See (You) Later",
+        "British English": "See you later",
+        "Français": "à plus tard",
+        "한국어": "나중에 봐요",
+        "Deutsche": "Bis später",
+        "Japanese": "じゃあまたね",
+        "Nederlands": "Tot ziens",
+        "Chinese": "回头见"
+      }
+    ]
+  },
+  "lesson Daily Use Lesson Pt 2": {
+    "list 1": [
+      {
+        "American English": "Please",
+        "British English": "Please",
+        "Français": "S'il te plaît",
+        "한국어": "제발",
+        "Deutsche": "Bitte",
+        "Japanese": "お願いします",
+        "Nederlands": "Alsjeblieft",
+        "Chinese": "请/拜托"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Sorry",
+        "British English": "Sorry",
+        "Français": "Désolé",
+        "한국어": "미안해요",
+        "Deutsche": "Entschuldigung",
+        "Japanese": "ごめんなさい",
+        "Nederlands": "Het spijt me",
+        "Chinese": "对不起"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Forget",
+        "British English": "Forget",
+        "Français": "Oublier",
+        "한국어": "잊다",
+        "Deutsche": "Vergessen",
+        "Japanese": "忘れる",
+        "Nederlands": "Vergeten",
+        "Chinese": "忘记"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Sleep",
+        "British English": "Sleep",
+        "Français": "Dormir",
+        "한국어": "자다",
+        "Deutsche": "Schlafen",
+        "Japanese": "睡眠",
+        "Nederlands": "Slapen",
+        "Chinese": "睡觉"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Bed",
+        "British English": "Bed",
+        "Français": "Lit",
+        "한국어": "침대",
+        "Deutsche": "Bett",
+        "Japanese": "ベッド",
+        "Nederlands": "Bed",
+        "Chinese": "床"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Change world (VRC version)",
+        "British English": "Change (VRC) World",
+        "Français": "Changer de monde (version VRC)",
+        "한국어": "월드 변경 (VRC 버전)",
+        "Deutsche": "Welt ändern (VRC-Version)",
+        "Japanese": "ワールドを変える",
+        "Nederlands": "Spring / Wissel wereld",
+        "Chinese": "去传送门"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Thank you",
+        "British English": "Thank you",
+        "Français": "Merci",
+        "한국어": "고마워요",
+        "Deutsche": "Vielen Dank",
+        "Japanese": "ありがとう",
+        "Nederlands": "Dank je wel",
+        "Chinese": "谢谢"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "I love you",
+        "British English": "I love you",
+        "Français": "Je t'aime",
+        "한국어": "사랑해요",
+        "Deutsche": "Ich liebe dich",
+        "Japanese": "愛してる",
+        "Nederlands": "Ik hou van je",
+        "Chinese": "我爱你"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Go away",
+        "British English": "Go away",
+        "Français": "va t'en",
+        "한국어": "떠나다",
+        "Deutsche": "Geh weg",
+        "Japanese": "どこかに行って",
+        "Nederlands": "Ga weg",
+        "Chinese": "ILY （我爱你）"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Go-to",
+        "British English": "Go-to",
+        "Français": "Aller",
+        "한국어": "-에 가다",
+        "Deutsche": "Ich gehe zu",
+        "Japanese": "行[く・って]",
+        "Nederlands": "Gaat naar",
+        "Chinese": "走开"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Leave",
+        "British English": "leave",
+        "Français": "laisser",
+        "한국어": "떠나다",
+        "Deutsche": "verlassen",
+        "Japanese": "去る",
+        "Nederlands": "verlaten",
+        "Chinese": "离开"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Follow",
+        "British English": "Follow",
+        "Français": "Suivre",
+        "한국어": "따라가다",
+        "Deutsche": "Folgen",
+        "Japanese": "ついて[くる・きて]",
+        "Nederlands": "Volg me",
+        "Chinese": "去"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Come",
+        "British English": "Come",
+        "Français": "Venir",
+        "한국어": "이리 오다",
+        "Deutsche": "Kommen Sie",
+        "Japanese": "来[る・て]",
+        "Nederlands": "Kom",
+        "Chinese": "跟随"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Write slow",
+        "British English": "Write slow",
+        "Français": "Ecrire lentement",
+        "한국어": "천천히 쓰다",
+        "Deutsche": "Schreib langsam",
+        "Japanese": "ゆっくり書[く・いて]",
+        "Nederlands": "Schrijf langzaam",
+        "Chinese": "哑"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Can't Read",
+        "British English": "Cannot read",
+        "Français": "Ne peut pas lire",
+        "한국어": "읽을 수 없다",
+        "Deutsche": "Kann nicht lesen",
+        "Japanese": "読めない",
+        "Nederlands": "Ik kan niet lezen",
+        "Chinese": "慢写"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Hearing",
+        "British English": "Hearing",
+        "Français": "Entendant",
+        "한국어": "청인",
+        "Deutsche": "Hören",
+        "Japanese": "ヒアリング",
+        "Nederlands": "Hoor",
+        "Chinese": "听力"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Hard of Hearing",
+        "British English": "Hard of Hearing",
+        "Français": "Malentendant",
+        "한국어": "난청인",
+        "Deutsche": "Schwer zu hören (schwerhörig)",
+        "Japanese": "難聴者　(中途失聴)",
+        "Nederlands": "Slechthorend",
+        "Chinese": "耳聋"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Deaf",
+        "British English": "Deaf",
+        "Français": "Sourd",
+        "한국어": "농인",
+        "Deutsche": "Taub (Gehörlos)",
+        "Japanese": "ろう者　(完全失聴)",
+        "Nederlands": "Doof",
+        "Chinese": "耳聪"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "Blind",
+        "British English": "Blind",
+        "Français": "Aveugle",
+        "한국어": "블라인드",
+        "Deutsche": "Blind",
+        "Japanese": "ブラインド",
+        "Nederlands": "Blinde",
+        "Chinese": "盲人"
+      }
+    ],
+    "list 20": [
+      {
+        "American English": "Mute",
+        "British English": "Mute",
+        "Français": "Muet",
+        "한국어": "뮤트 (무언)",
+        "Deutsche": "Stumm",
+        "Japanese": "唖者",
+        "Nederlands": "Zwijgen",
+        "Chinese": "弱听"
+      }
+    ],
+    "list 21": [
+      {
+        "American English": "DeafBlind",
+        "British English": "DeafBlind",
+        "Français": "Aveugle",
+        "한국어": "청각장애인",
+        "Deutsche": "Taubblind",
+        "Japanese": "盲ろう者",
+        "Nederlands": "Doofblind",
+        "Chinese": "聋盲人"
+      }
+    ]
+  },
+  "lesson Common Signs Lesson Pt 1": {
+    "list 1": [
+      {
+        "American English": "Teach",
+        "British English": "Teach",
+        "Français": "Enseigner",
+        "한국어": "가르치다",
+        "Deutsche": "Unterrichten",
+        "Japanese": "教える",
+        "Nederlands": "Leer",
+        "Chinese": "教学"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Learn",
+        "British English": "Learn",
+        "Français": "Apprendre",
+        "한국어": "배우다",
+        "Deutsche": "Lernen",
+        "Japanese": "学ぶ",
+        "Nederlands": "Leren",
+        "Chinese": "学习"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Person",
+        "British English": "Person",
+        "Français": "Personne",
+        "한국어": "사람",
+        "Deutsche": "Person",
+        "Japanese": "人",
+        "Nederlands": "Persoon",
+        "Chinese": "学生"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Student",
+        "British English": "Student",
+        "Français": "Etudiant",
+        "한국어": "학생",
+        "Deutsche": "Student",
+        "Japanese": "生徒",
+        "Nederlands": "Student",
+        "Chinese": "学生"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Teacher",
+        "British English": "Teacher",
+        "Français": "Professeur",
+        "한국어": "선생님",
+        "Deutsche": "Lehrer",
+        "Japanese": "教師",
+        "Nederlands": "Leraar",
+        "Chinese": "教师"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "friend",
+        "British English": "friend",
+        "Français": "Ami",
+        "한국어": "친구",
+        "Deutsche": "Freund",
+        "Japanese": "友人",
+        "Nederlands": "vriend",
+        "Chinese": "朋友"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "sign",
+        "British English": "sign",
+        "Français": "Signer",
+        "한국어": "수화",
+        "Deutsche": "Zeichen",
+        "Japanese": "手話",
+        "Nederlands": "gebaar",
+        "Chinese": "手势"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "language",
+        "British English": "language",
+        "Français": "Langue",
+        "한국어": "언어",
+        "Deutsche": "Sprache",
+        "Japanese": "言語",
+        "Nederlands": "taal",
+        "Chinese": "语言"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "understand",
+        "British English": "understand",
+        "Français": "Comprendre",
+        "한국어": "이해하다",
+        "Deutsche": "verstehen",
+        "Japanese": "理解する",
+        "Nederlands": "begrijpen",
+        "Chinese": "理解"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "know",
+        "British English": "know",
+        "Français": "Savoir",
+        "한국어": "알다",
+        "Deutsche": "wissen",
+        "Japanese": "知っている",
+        "Nederlands": "kennen",
+        "Chinese": "知道"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "don't know",
+        "British English": "don't know",
+        "Français": "Ne pas savoir",
+        "한국어": "모르다",
+        "Deutsche": "weiß nicht",
+        "Japanese": "わからない",
+        "Nederlands": "niet weten",
+        "Chinese": "不知道"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Be Right Back (BRB)",
+        "British English": "Be back soon / (BRB)",
+        "Français": "Revenir",
+        "한국어": "갔다 오다",
+        "Deutsche": "Bin gleich wieder da (BRB)",
+        "Japanese": "ビー・ライト・バック（BRB）",
+        "Nederlands": "Ben zo terug (BRB)",
+        "Chinese": "马上回来 (BRB)"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "accept",
+        "British English": "accept",
+        "Français": "Accepter",
+        "한국어": "승낙하다",
+        "Deutsche": "akzeptieren",
+        "Japanese": "受け入れる",
+        "Nederlands": "accepteren",
+        "Chinese": "接受"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Deny (access)",
+        "British English": "Deny / denied",
+        "Français": "Refuser",
+        "한국어": "거부하다",
+        "Deutsche": "Zugriff (verweigern)",
+        "Japanese": "拒否する",
+        "Nederlands": "Weigeren (toegang)",
+        "Chinese": "拒绝（访问）"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "name",
+        "British English": "name",
+        "Français": "Nom",
+        "한국어": "이름",
+        "Deutsche": "Name",
+        "Japanese": "名前",
+        "Nederlands": "naam",
+        "Chinese": "名称"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "new",
+        "British English": "new",
+        "Français": "Nouveau",
+        "한국어": "새로운",
+        "Deutsche": "neu",
+        "Japanese": "新しい",
+        "Nederlands": "nieuw",
+        "Chinese": "新"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "old",
+        "British English": "old",
+        "Français": "Vieux",
+        "한국어": "늙은",
+        "Deutsche": "alt",
+        "Japanese": "古い",
+        "Nederlands": "oud",
+        "Chinese": "旧"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "very",
+        "British English": "very",
+        "Français": "Très",
+        "한국어": "매우",
+        "Deutsche": "sehr",
+        "Japanese": "とても",
+        "Nederlands": "zeer",
+        "Chinese": "非常"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "joke",
+        "British English": "joke/kidding",
+        "Français": "Blague",
+        "한국어": "농담",
+        "Deutsche": "scherzen",
+        "Japanese": "冗談",
+        "Nederlands": "grap",
+        "Chinese": "笑话"
+      }
+    ],
+    "list 20": [
+      {
+        "American English": "funny",
+        "British English": "funny",
+        "Français": "Drôle",
+        "한국어": "웃기는",
+        "Deutsche": "lustig",
+        "Japanese": "面白い",
+        "Nederlands": "grappig",
+        "Chinese": "搞笑"
+      }
+    ]
+  },
+  "lesson Common Signs Lesson Pt 2": {
+    "list 1": [
+      {
+        "American English": "play",
+        "British English": "play",
+        "Français": "Jouer",
+        "한국어": "놀다",
+        "Deutsche": "spielen",
+        "Japanese": "遊ぶ",
+        "Nederlands": "spelen",
+        "Chinese": "游戏"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "favorite",
+        "British English": "Favourite",
+        "Français": "favori",
+        "한국어": "마음에 들다",
+        "Deutsche": "Favorit",
+        "Japanese": "お気に入り",
+        "Nederlands": "favoriet",
+        "Chinese": "最喜欢"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Draw/Tie (same score)",
+        "British English": "Draw/Tie (same score)",
+        "Français": "Egalité",
+        "한국어": "동점 (같은 점수)",
+        "Deutsche": "Unentschieden (gleiche Punktzahl)",
+        "Japanese": "引き分け／同点",
+        "Nederlands": "Gelijkspel/Tie (zelfde score)",
+        "Chinese": "平局/平手（比分相同）"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "stop",
+        "British English": "stop",
+        "Français": "Stop",
+        "한국어": "멈추다",
+        "Deutsche": "stoppen",
+        "Japanese": "止める",
+        "Nederlands": "stop",
+        "Chinese": "停止"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "read",
+        "British English": "read",
+        "Français": "Lire",
+        "한국어": "읽다",
+        "Deutsche": "lesen",
+        "Japanese": "読む",
+        "Nederlands": "lees",
+        "Chinese": "阅读"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "make",
+        "British English": "make",
+        "Français": "Créer",
+        "한국어": "만들다",
+        "Deutsche": "machen",
+        "Japanese": "作る",
+        "Nederlands": "maken",
+        "Chinese": "做"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "write Slow",
+        "British English": "write Slow",
+        "Français": "Écrire lentement",
+        "한국어": "천천히 쓰다",
+        "Deutsche": "Schreib langsam",
+        "Japanese": "書く ゆっくり",
+        "Nederlands": "schrijven Langzaam",
+        "Chinese": "写 慢"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "again",
+        "British English": "again",
+        "Français": "Encore",
+        "한국어": "다시",
+        "Deutsche": "nochmal",
+        "Japanese": "もう一度",
+        "Nederlands": "opnieuw",
+        "Chinese": "再"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "repeat",
+        "British English": "repeat",
+        "Français": "Repéter",
+        "한국어": "반복하다",
+        "Deutsche": "wiederholen",
+        "Japanese": "繰り返す",
+        "Nederlands": "herhaal",
+        "Chinese": "重复"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "slow",
+        "British English": "slow",
+        "Français": "Doucement",
+        "한국어": "느리다",
+        "Deutsche": "langsam",
+        "Japanese": "遅い",
+        "Nederlands": "langzaam",
+        "Chinese": "慢"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "fast",
+        "British English": "fast",
+        "Français": "Rapide",
+        "한국어": "빠르다",
+        "Deutsche": "schnell",
+        "Japanese": "速く",
+        "Nederlands": "snel",
+        "Chinese": "快"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "rude",
+        "British English": "rude",
+        "Français": "Impoli / Malpoli",
+        "한국어": "예의 없는",
+        "Deutsche": "unhöflich",
+        "Japanese": "無作法",
+        "Nederlands": "onbeleefd",
+        "Chinese": "粗鲁"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "eat",
+        "British English": "eat",
+        "Français": "Manger",
+        "한국어": "먹다",
+        "Deutsche": "essen",
+        "Japanese": "食べる",
+        "Nederlands": "eten",
+        "Chinese": "吃"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "drink",
+        "British English": "drink",
+        "Français": "Boire",
+        "한국어": "마시다",
+        "Deutsche": "trinken",
+        "Japanese": "飲む",
+        "Nederlands": "drinken",
+        "Chinese": "喝"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "watch",
+        "British English": "watch",
+        "Français": "Regarder",
+        "한국어": "보다",
+        "Deutsche": "betrachten / zuschauen / ansehen",
+        "Japanese": "見る",
+        "Nederlands": "kijken",
+        "Chinese": "看"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "work",
+        "British English": "work",
+        "Français": "Travailler",
+        "한국어": "일하다",
+        "Deutsche": "arbeiten",
+        "Japanese": "働く",
+        "Nederlands": "werken",
+        "Chinese": "工作"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "live",
+        "British English": "live",
+        "Français": "Habiter / Vivre",
+        "한국어": "살다",
+        "Deutsche": "live",
+        "Japanese": "生きる",
+        "Nederlands": "leven",
+        "Chinese": "生活"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "play game",
+        "British English": "play game",
+        "Français": "Jouer un jeu",
+        "한국어": "게임하다",
+        "Deutsche": "Spiel spielen",
+        "Japanese": "ゲームをする",
+        "Nederlands": "spel spelen",
+        "Chinese": "玩游戏"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "same",
+        "British English": "same",
+        "Français": "même",
+        "한국어": "똑같다",
+        "Deutsche": "Dasselbe",
+        "Japanese": "同じ",
+        "Nederlands": "dezelfde",
+        "Chinese": "一样"
+      }
+    ],
+    "list 20": [
+      {
+        "American English": "all right",
+        "British English": "all right",
+        "Français": "Très bien",
+        "한국어": "좋아요",
+        "Deutsche": "in Ordnung",
+        "Japanese": "よし",
+        "Nederlands": "goed",
+        "Chinese": "没事"
+      }
+    ],
+    "list 21": [
+      {
+        "American English": "people",
+        "British English": "people",
+        "Français": "Gens / Personne(s)",
+        "한국어": "사람들",
+        "Deutsche": "Menschen",
+        "Japanese": "人々",
+        "Nederlands": "mensen",
+        "Chinese": "人"
+      }
+    ],
+    "list 22": [
+      {
+        "American English": "browsing the internet (look internet)",
+        "British English": "search (the) internet",
+        "Français": "Naviguer sur l'internet",
+        "한국어": "인터넷 검색",
+        "Deutsche": "Surfen im Internet (siehe Internet)",
+        "Japanese": "インターネット閲覧",
+        "Nederlands": "surfen op het internet (kijk internet)",
+        "Chinese": "浏览互联网"
+      }
+    ],
+    "list 23": [
+      {
+        "American English": "movie",
+        "British English": "movie",
+        "Français": "Film",
+        "한국어": "영화",
+        "Deutsche": "Film",
+        "Japanese": "映画",
+        "Nederlands": "film",
+        "Chinese": "电影"
+      }
+    ]
+  },
+  "lesson Colors Lesson": {
+    "list 1": [
+      {
+        "American English": "Color",
+        "British English": "Colour",
+        "Français": "Couleur",
+        "한국어": "색깔",
+        "Deutsche": "Farbe",
+        "Japanese": "カラー",
+        "Nederlands": "Kleur",
+        "Chinese": "色彩"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Colorful",
+        "British English": "Colourful",
+        "Français": "Colorée",
+        "한국어": "다채로운",
+        "Deutsche": "Bunt",
+        "Japanese": "カラフル",
+        "Nederlands": "Kleurrijk",
+        "Chinese": "多彩"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "White",
+        "British English": "White",
+        "Français": "Blanc",
+        "한국어": "하양",
+        "Deutsche": "Weiss",
+        "Japanese": "白",
+        "Nederlands": "Wit",
+        "Chinese": "白色"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Black",
+        "British English": "Black",
+        "Français": "Noir",
+        "한국어": "검정",
+        "Deutsche": "Schwarz",
+        "Japanese": "黒",
+        "Nederlands": "Zwart",
+        "Chinese": "黑"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Red",
+        "British English": "Red",
+        "Français": "Rouge",
+        "한국어": "빨강",
+        "Deutsche": "Rot",
+        "Japanese": "レッド",
+        "Nederlands": "Rood",
+        "Chinese": "红色"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Orange (Color)",
+        "British English": "Orange (Color)",
+        "Français": "Orange",
+        "한국어": "주황",
+        "Deutsche": "Orange Farbe)",
+        "Japanese": "オレンジ",
+        "Nederlands": "Oranje (Kleur)",
+        "Chinese": "橙色（彩色）"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Yellow",
+        "British English": "Yellow",
+        "Français": "Jaune",
+        "한국어": "노랑",
+        "Deutsche": "Gelb",
+        "Japanese": "黄色",
+        "Nederlands": "Geel",
+        "Chinese": "黄"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Green",
+        "British English": "Green",
+        "Français": "Vert",
+        "한국어": "초록",
+        "Deutsche": "Grün",
+        "Japanese": "緑",
+        "Nederlands": "Groen",
+        "Chinese": "绿"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Blue",
+        "British English": "Blue",
+        "Français": "Blue",
+        "한국어": "파랑",
+        "Deutsche": "Blau",
+        "Japanese": "青",
+        "Nederlands": "Blauw",
+        "Chinese": "蓝"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Purple",
+        "British English": "Purple",
+        "Français": "Violet",
+        "한국어": "보라",
+        "Deutsche": "Lila",
+        "Japanese": "紫",
+        "Nederlands": "Paars",
+        "Chinese": "紫色"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Pink",
+        "British English": "Pink",
+        "Français": "Rose",
+        "한국어": "분홍",
+        "Deutsche": "Rosa",
+        "Japanese": "ピンク",
+        "Nederlands": "Roze",
+        "Chinese": "粉红"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Rainbow",
+        "British English": "Rainbow ",
+        "Français": "Arc-en-ciel",
+        "한국어": "무지개",
+        "Deutsche": "Regenbogen",
+        "Japanese": "虹色",
+        "Nederlands": "Regenboog",
+        "Chinese": "彩虹色"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Brown",
+        "British English": "Brown",
+        "Français": "Marron",
+        "한국어": "갈색",
+        "Deutsche": "Braun",
+        "Japanese": "茶色",
+        "Nederlands": "Bruin",
+        "Chinese": "棕色"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Gray",
+        "British English": "Grey",
+        "Français": "Gris",
+        "한국어": "회색",
+        "Deutsche": "Grau",
+        "Japanese": "グレー",
+        "Nederlands": "Grijs",
+        "Chinese": "灰"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Gold",
+        "British English": "Gold",
+        "Français": "Or",
+        "한국어": "금색",
+        "Deutsche": "Gold",
+        "Japanese": "ゴールド",
+        "Nederlands": "Goud",
+        "Chinese": "金色"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Bronze",
+        "British English": "Bronze (color)",
+        "Français": "Bronze",
+        "한국어": "동색",
+        "Deutsche": "Bronze (Farbe)",
+        "Japanese": "ブロンズ",
+        "Nederlands": "Brons",
+        "Chinese": "青铜色"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Silver (color)",
+        "British English": "Silver (color)",
+        "Français": "Argent",
+        "한국어": "은색",
+        "Deutsche": "Silber (farbe)",
+        "Japanese": "シルバー",
+        "Nederlands": "Zilver (kleur)",
+        "Chinese": "银色（颜色）"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Light (color)",
+        "British English": "Light (color)",
+        "Français": "Clair",
+        "한국어": "밝은색",
+        "Deutsche": "Helle (Farbe)",
+        "Japanese": "ライト（カラー）",
+        "Nederlands": "Licht (kleur)",
+        "Chinese": "浅（颜色）"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "Dark (color)",
+        "British English": "Dark (color)",
+        "Français": "Foncé",
+        "한국어": "어두운색",
+        "Deutsche": "Dunkle (Farbe)",
+        "Japanese": "ダーク",
+        "Nederlands": "Donker (kleur)",
+        "Chinese": "深（颜色）"
+      }
+    ]
+  },
+  "lesson Food Lesson: Fruits & Vegetables Pt 1": {
+    "list 1": [
+      {
+        "American English": "Fruit",
+        "British English": "Fruit",
+        "Français": "Fruit",
+        "한국어": "과일",
+        "Deutsche": "Frucht",
+        "Japanese": "フルーツ",
+        "Nederlands": "Fruit",
+        "Chinese": "水果"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Apple",
+        "British English": "Apple",
+        "Français": "Pomme",
+        "한국어": "사과",
+        "Deutsche": "Apfel",
+        "Japanese": "りんご",
+        "Nederlands": "Appel",
+        "Chinese": "苹果"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Banana",
+        "British English": "Banana",
+        "Français": "Banane",
+        "한국어": "바나나",
+        "Deutsche": "Banane",
+        "Japanese": "バナナ",
+        "Nederlands": "Banaan",
+        "Chinese": "香蕉"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Blackberry (Fruit)",
+        "British English": "Blackberry (Fruit)",
+        "Français": "Mûre",
+        "한국어": "블랙베리",
+        "Deutsche": "Brombeere)",
+        "Japanese": "ブラックベリー",
+        "Nederlands": "Braam (Fruit)",
+        "Chinese": "黑莓（水果）"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Blueberry",
+        "British English": "Blueberry",
+        "Français": "Myrtille",
+        "한국어": "블루베리",
+        "Deutsche": "Blaubeere",
+        "Japanese": "ブルーベリー",
+        "Nederlands": "Bosbes",
+        "Chinese": "蓝莓"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Cherry",
+        "British English": "Cherry",
+        "Français": "Cerise",
+        "한국어": "체리",
+        "Deutsche": "Kirsche",
+        "Japanese": "チェリー",
+        "Nederlands": "Kers",
+        "Chinese": "樱桃"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Coconut",
+        "British English": "Coconut",
+        "Français": "Noix de coco",
+        "한국어": "코코넛",
+        "Deutsche": "Kokosnuss",
+        "Japanese": "ココナッツ",
+        "Nederlands": "Kokosnoot",
+        "Chinese": "椰子"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Grapefruit",
+        "British English": "Grapefruit",
+        "Français": "Pamplemousse",
+        "한국어": "자몽",
+        "Deutsche": "Grapefruit",
+        "Japanese": "グレープフルーツ",
+        "Nederlands": "Grapefruit",
+        "Chinese": "葡萄柚"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Grape",
+        "British English": "Grape",
+        "Français": "Raisin",
+        "한국어": "포도",
+        "Deutsche": "Traube",
+        "Japanese": "グレープ",
+        "Nederlands": "Druif",
+        "Chinese": "葡萄"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Lemon",
+        "British English": "Lemon",
+        "Français": "Citron",
+        "한국어": "레몬",
+        "Deutsche": "Zitrone",
+        "Japanese": "レモン",
+        "Nederlands": "Citroen",
+        "Chinese": "柠檬"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Melon/Pumpkin",
+        "British English": "Melon/Pumpkin",
+        "Français": "Melon/Citrouille",
+        "한국어": "멜론/호박",
+        "Deutsche": "Melone/Kürbis",
+        "Japanese": "メロン／パンプキン",
+        "Nederlands": "Meloen/pompoen",
+        "Chinese": "甜瓜/南瓜"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Orange (fruit)",
+        "British English": "Orange (fruit)",
+        "Français": "Orange (Fruit)",
+        "한국어": "오렌지",
+        "Deutsche": "Orange (Obst)",
+        "Japanese": "オレンジ",
+        "Nederlands": "Sinaasappel (fruit)",
+        "Chinese": "橙子（水果）"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Peach",
+        "British English": "Peach",
+        "Français": "La pêche",
+        "한국어": "복숭아",
+        "Deutsche": "Pfirsich",
+        "Japanese": "ピーチ",
+        "Nederlands": "Perzik",
+        "Chinese": "桃子"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Pear",
+        "British English": "Pear",
+        "Français": "Poire",
+        "한국어": "배",
+        "Deutsche": "Birne",
+        "Japanese": "洋ナシ",
+        "Nederlands": "Peer",
+        "Chinese": "梨"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Pineapple",
+        "British English": "Pineapple",
+        "Français": "Ananas",
+        "한국어": "파인애플",
+        "Deutsche": "Ananas",
+        "Japanese": "パイナップル",
+        "Nederlands": "Ananas",
+        "Chinese": "菠萝"
+      }
+    ]
+  },
+  "lesson Food Lesson: Fruits & Vegetables Pt 2": {
+    "list 1": [
+      {
+        "American English": "Strawberry",
+        "British English": "Strawberry",
+        "Français": "Fraise",
+        "한국어": "딸기",
+        "Deutsche": "Erdbeere",
+        "Japanese": "ストロベリー",
+        "Nederlands": "Aardbei",
+        "Chinese": "草莓"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Watermelon",
+        "British English": "Watermelon",
+        "Français": "Pastèque",
+        "한국어": "수박",
+        "Deutsche": "Wassermelone",
+        "Japanese": "スイカ",
+        "Nederlands": "Watermeloen",
+        "Chinese": "西瓜"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Tomato",
+        "British English": "Tomato",
+        "Français": "Tomate",
+        "한국어": "토마토",
+        "Deutsche": "Tomate",
+        "Japanese": "トマト",
+        "Nederlands": "Tomaat",
+        "Chinese": "番茄"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Vegetable",
+        "British English": "Vegetable",
+        "Français": "Légume",
+        "한국어": "채소",
+        "Deutsche": "Gemüse",
+        "Japanese": "野菜",
+        "Nederlands": "Groente",
+        "Chinese": "蔬菜"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Broccoli",
+        "British English": "Broccoli",
+        "Français": "Brocoli",
+        "한국어": "브로콜리",
+        "Deutsche": "Brokkoli",
+        "Japanese": "ブロッコリー",
+        "Nederlands": "Broccoli",
+        "Chinese": "西兰花"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Cabbage",
+        "British English": "Cabbage",
+        "Français": "Chou",
+        "한국어": "양배추",
+        "Deutsche": "Kohl",
+        "Japanese": "キャベツ",
+        "Nederlands": "Kool",
+        "Chinese": "卷心菜"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Carrot",
+        "British English": "Carrot",
+        "Français": "Carotte",
+        "한국어": "당근",
+        "Deutsche": "Karotte",
+        "Japanese": "ニンジン",
+        "Nederlands": "Wortel",
+        "Chinese": "胡萝卜"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Cauliflower",
+        "British English": "Cauliflower",
+        "Français": "Chou-fleur",
+        "한국어": "꽃양배추",
+        "Deutsche": "Blumenkohl",
+        "Japanese": "カリフラワー",
+        "Nederlands": "Bloemkool",
+        "Chinese": "花椰菜"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Corns",
+        "British English": "Corns",
+        "Français": "Maïs",
+        "한국어": "옥수수",
+        "Deutsche": "Hühneraugen",
+        "Japanese": "トウモロコシ",
+        "Nederlands": "Maïs",
+        "Chinese": "玉米"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Lettuce",
+        "British English": "Lettuce",
+        "Français": "Salade",
+        "한국어": "상추",
+        "Deutsche": "Kopfsalat",
+        "Japanese": "レタス",
+        "Nederlands": "Sla",
+        "Chinese": "生菜"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Mushroom",
+        "British English": "Mushroom",
+        "Français": "Champignon",
+        "한국어": "버섯",
+        "Deutsche": "Pilz",
+        "Japanese": "マッシュルーム",
+        "Nederlands": "Champignon",
+        "Chinese": "蘑菇"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Onion",
+        "British English": "Onion",
+        "Français": "Oignon",
+        "한국어": "양파",
+        "Deutsche": "Zwiebel",
+        "Japanese": "タマネギ",
+        "Nederlands": "Ui",
+        "Chinese": "洋葱"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Peas",
+        "British English": "Peas",
+        "Français": "Petit pois",
+        "한국어": "콩",
+        "Deutsche": "Erbsen",
+        "Japanese": "エンドウ豆",
+        "Nederlands": "Erwten",
+        "Chinese": "豌豆"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Pepper",
+        "British English": "Pepper",
+        "Français": "Poivre",
+        "한국어": "피망",
+        "Deutsche": "Pfeffer",
+        "Japanese": "ピーマン",
+        "Nederlands": "Peper",
+        "Chinese": "辣椒"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Tomato",
+        "British English": "Tomato",
+        "Français": "Tomate",
+        "한국어": "토마토",
+        "Deutsche": "Tomate",
+        "Japanese": "トマト",
+        "Nederlands": "Tomaat",
+        "Chinese": "番茄"
+      }
+    ]
+  },
+  "lesson Materials Lesson": {
+    "list 1": [
+      {
+        "American English": "Air",
+        "British English": "Air",
+        "Français": "Air",
+        "한국어": "공기",
+        "Deutsche": "Luft",
+        "Japanese": "空気",
+        "Nederlands": "Lucht",
+        "Chinese": "空气"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Clay",
+        "British English": "Clay",
+        "Français": "Argile",
+        "한국어": "점토",
+        "Deutsche": "Ton",
+        "Japanese": "粘土",
+        "Nederlands": "Klei",
+        "Chinese": "粘土"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Fabric/cloth",
+        "British English": "Fabric/cloth",
+        "Français": "Tissu/Chiffon",
+        "한국어": "섬유/천",
+        "Deutsche": "Stoff/Stoff",
+        "Japanese": "布",
+        "Nederlands": "Stof/Doek",
+        "Chinese": "织物/布料"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Gas",
+        "British English": "Gas",
+        "Français": "Gaz",
+        "한국어": "기체",
+        "Deutsche": "Gas",
+        "Japanese": "ガス",
+        "Nederlands": "Gas",
+        "Chinese": "气体"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Gel",
+        "British English": "Gel",
+        "Français": "Gel",
+        "한국어": "젤",
+        "Deutsche": "Gel",
+        "Japanese": "ゲル",
+        "Nederlands": "Gel",
+        "Chinese": "凝胶"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Glass",
+        "British English": "Glass",
+        "Français": "Verre",
+        "한국어": "유리",
+        "Deutsche": "Glas",
+        "Japanese": "ガラス",
+        "Nederlands": "Glas",
+        "Chinese": "玻璃"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Metal",
+        "British English": "Metal",
+        "Français": "Métal",
+        "한국어": "금속",
+        "Deutsche": "Metall",
+        "Japanese": "金属",
+        "Nederlands": "Metaal",
+        "Chinese": "金属"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Oil",
+        "British English": "Oil",
+        "Français": "Huile",
+        "한국어": "기름",
+        "Deutsche": "Öl",
+        "Japanese": "オイル",
+        "Nederlands": "Olie",
+        "Chinese": "油类"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Paper",
+        "British English": "Paper",
+        "Français": "Papier",
+        "한국어": "종이",
+        "Deutsche": "Papier",
+        "Japanese": "紙",
+        "Nederlands": "Papier",
+        "Chinese": "纸张"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Plastic",
+        "British English": "Plastic",
+        "Français": "Plastique",
+        "한국어": "플라스틱",
+        "Deutsche": "Plastik",
+        "Japanese": "プラスチック",
+        "Nederlands": "Plastic",
+        "Chinese": "塑料"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Rope",
+        "British English": "Rope",
+        "Français": "Corde",
+        "한국어": "밧줄",
+        "Deutsche": "Seil",
+        "Japanese": "ロープ",
+        "Nederlands": "Touw",
+        "Chinese": "绳索"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Rubber",
+        "British English": " Elastic Band",
+        "Français": "Caoutchouc",
+        "한국어": "고무",
+        "Deutsche": "Gummi",
+        "Japanese": "ゴム",
+        "Nederlands": "Rubber",
+        "Chinese": "橡胶"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Sticker",
+        "British English": "Sticker",
+        "Français": "Autocollants",
+        "한국어": "스티커",
+        "Deutsche": "Aufkleber",
+        "Japanese": "ステッカー",
+        "Nederlands": "Sticker",
+        "Chinese": "贴纸"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Water",
+        "British English": "Water",
+        "Français": "Eau",
+        "한국어": "물",
+        "Deutsche": "Wasser",
+        "Japanese": "水",
+        "Nederlands": "Water",
+        "Chinese": "水"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Wire",
+        "British English": "Wire",
+        "Français": "Fil métallique",
+        "한국어": "철사",
+        "Deutsche": "Kabel",
+        "Japanese": "ワイヤー",
+        "Nederlands": "Draad",
+        "Chinese": "电线"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Wood",
+        "British English": "Wood",
+        "Français": "Bois",
+        "한국어": "나무",
+        "Deutsche": "Holz",
+        "Japanese": "木材",
+        "Nederlands": "Hout",
+        "Chinese": "木材"
+      }
+    ]
+  },
+  "lesson Food & Drinks Lesson pt 1": {
+    "list 1": [
+      {
+        "American English": "Apple Juice",
+        "British English": "Apple Juice",
+        "Français": "Jus de pomme",
+        "한국어": "과일 주스",
+        "Deutsche": "Apfelsaft",
+        "Japanese": "アップルジュース",
+        "Nederlands": "Appelsap",
+        "Chinese": "苹果汁"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Beer",
+        "British English": "Beer",
+        "Français": "Bière",
+        "한국어": "맥주",
+        "Deutsche": "Bier",
+        "Japanese": "ビール",
+        "Nederlands": "Bier",
+        "Chinese": "啤酒"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bread",
+        "British English": "Bread",
+        "Français": "Pain",
+        "한국어": "빵",
+        "Deutsche": "Brot",
+        "Japanese": "パン",
+        "Nederlands": "Brood",
+        "Chinese": "面包"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Butter",
+        "British English": "Butter",
+        "Français": "Beurre",
+        "한국어": "버터",
+        "Deutsche": "Butter",
+        "Japanese": "バター",
+        "Nederlands": "Boter",
+        "Chinese": "黄油"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Cake",
+        "British English": "Cake",
+        "Français": "Gâteau",
+        "한국어": "케이크",
+        "Deutsche": "Kuchen",
+        "Japanese": "ケーキ",
+        "Nederlands": "Cake",
+        "Chinese": "蛋糕"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Champagne",
+        "British English": "Champagne",
+        "Français": "Champagne",
+        "한국어": "샴페인",
+        "Deutsche": "Sekt",
+        "Japanese": "シャンパン",
+        "Nederlands": "Champagne",
+        "Chinese": "香槟酒"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Cheese",
+        "British English": "Cheese",
+        "Français": "Du fromage",
+        "한국어": "치즈",
+        "Deutsche": "Käse",
+        "Japanese": "チーズ",
+        "Nederlands": "Kaas",
+        "Chinese": "奶酪"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Chocolate",
+        "British English": "Chocolate",
+        "Français": "Chocolat",
+        "한국어": "초콜릿",
+        "Deutsche": "Schokolade",
+        "Japanese": "チョコレート",
+        "Nederlands": "Chocolade",
+        "Chinese": "巧克力"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Chocolate Milk",
+        "British English": "Milk Chocolate",
+        "Français": "Chocolat au lait",
+        "한국어": "초콜릿 우유",
+        "Deutsche": "Schokoladenmilch",
+        "Japanese": "チョコレートミルク",
+        "Nederlands": "Chocolademelk",
+        "Chinese": "牛奶巧克力"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Coffee",
+        "British English": "Coffee",
+        "Français": "Café",
+        "한국어": "커피",
+        "Deutsche": "Kaffee",
+        "Japanese": "コーヒー",
+        "Nederlands": "Koffie",
+        "Chinese": "咖啡"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Cookie",
+        "British English": "Cookie/Biscuit",
+        "Français": "Biscuit/Biscuit",
+        "한국어": "쿠키",
+        "Deutsche": "Plätzchen",
+        "Japanese": "クッキー",
+        "Nederlands": "Koekje",
+        "Chinese": "饼干"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Drink",
+        "British English": "Drink",
+        "Français": "Boire",
+        "한국어": "마시다",
+        "Deutsche": "Trinken",
+        "Japanese": "飲み物",
+        "Nederlands": "Drinken",
+        "Chinese": "饮料"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Eat/Food",
+        "British English": "Eat/Food",
+        "Français": "Manger/nourriture",
+        "한국어": "먹다/음식",
+        "Deutsche": "Essen essen",
+        "Japanese": "食べる/食べ物",
+        "Nederlands": "Eten",
+        "Chinese": "吃/食物"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Eggs",
+        "British English": "Eggs",
+        "Français": "Œufs",
+        "한국어": "달걀",
+        "Deutsche": "Eier",
+        "Japanese": "卵",
+        "Nederlands": "Eieren",
+        "Chinese": "鸡蛋"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Fish (meat)",
+        "British English": "Fish (meat)",
+        "Français": "Poisson (viande)",
+        "한국어": "생선",
+        "Deutsche": "Fisch (Fleisch)",
+        "Japanese": "魚（肉）",
+        "Nederlands": "Vis (vlees)",
+        "Chinese": "鱼（肉）"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Hamburger",
+        "British English": "Burger",
+        "Français": "Hamburger",
+        "한국어": "햄버거",
+        "Deutsche": "Hamburger",
+        "Japanese": "ハンバーガー",
+        "Nederlands": "Hamburger",
+        "Chinese": "汉堡"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Hot Chocolate (Hot cocoa)",
+        "British English": "Hot Chocolate (Hot cocoa)",
+        "Français": "Chocolat chaud (Cacao chaud)",
+        "한국어": "핫초코",
+        "Deutsche": "Heiße Schokolade (Heißer Kakao)",
+        "Japanese": "ホットチョコレート",
+        "Nederlands": "Warme Chocolade (Warme Cacao)",
+        "Chinese": "热巧克力（热可可）"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Hot Dog",
+        "British English": "Hot Dog",
+        "Français": "Hot-dog",
+        "한국어": "핫도그",
+        "Deutsche": "Hotdog",
+        "Japanese": "ホットドッグ",
+        "Nederlands": "Hotdog",
+        "Chinese": "热狗"
+      }
+    ]
+  },
+  "lesson Food & Drinks Lesson Pt 2": {
+    "list 1": [
+      {
+        "American English": "Ice Cream",
+        "British English": "Ice Cream",
+        "Français": "Crème glacée / Glace",
+        "한국어": "아이스크림",
+        "Deutsche": "Eiscreme",
+        "Japanese": "アイスクリーム",
+        "Nederlands": "Ijs",
+        "Chinese": "冰淇淋"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Juice",
+        "British English": "Juice",
+        "Français": "Jus",
+        "한국어": "주스",
+        "Deutsche": "Saft",
+        "Japanese": "ジュース",
+        "Nederlands": "Sap",
+        "Chinese": "果汁"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Meat",
+        "British English": "Meat",
+        "Français": "Viande",
+        "한국어": "고기",
+        "Deutsche": "Fleisch",
+        "Japanese": "肉類",
+        "Nederlands": "Vlees",
+        "Chinese": "肉类"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Milk",
+        "British English": "Milk",
+        "Français": "Du lait",
+        "한국어": "우유",
+        "Deutsche": "Milch",
+        "Japanese": "牛乳",
+        "Nederlands": "Melk",
+        "Chinese": "牛奶"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Noodles",
+        "British English": "Noodles",
+        "Français": "Nouilles",
+        "한국어": "국수",
+        "Deutsche": "Nudeln",
+        "Japanese": "麺類",
+        "Nederlands": "Noedels",
+        "Chinese": "面条"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Nuts/Peanuts",
+        "British English": "Nuts/Peanuts",
+        "Français": "Noix/Cacahuètes",
+        "한국어": "견과류",
+        "Deutsche": "Nüsse/Erdnüsse",
+        "Japanese": "ナッツ/ピーナッツ",
+        "Nederlands": "Noten/pinda's",
+        "Chinese": "坚果/花生"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Pie",
+        "British English": "Pie",
+        "Français": "Tarte",
+        "한국어": "파이",
+        "Deutsche": "Kuchen",
+        "Japanese": "パイ",
+        "Nederlands": "Taart",
+        "Chinese": "派"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Pizza",
+        "British English": "Pizza",
+        "Français": "Pizza",
+        "한국어": "피자",
+        "Deutsche": "Pizza",
+        "Japanese": "ピザ",
+        "Nederlands": "Pizza",
+        "Chinese": "披萨"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Pop/Soda",
+        "British English": "fizzy drink/soft drink",
+        "Français": "boisson gazeuse / boisson gazeuse",
+        "한국어": "탄산음료",
+        "Deutsche": "Pop/Soda",
+        "Japanese": "ポップ/ソーダ",
+        "Nederlands": "Pop/Soda",
+        "Chinese": "汽水"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Salt",
+        "British English": "Salt",
+        "Français": "sel",
+        "한국어": "소금",
+        "Deutsche": "Salz",
+        "Japanese": "塩",
+        "Nederlands": "Zout",
+        "Chinese": "盐"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Sandwich",
+        "British English": "Sandwich",
+        "Français": "Sandwich",
+        "한국어": "샌드위치",
+        "Deutsche": "Sandwich",
+        "Japanese": "サンドイッチ",
+        "Nederlands": "Sandwich",
+        "Chinese": "三明治"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Spaghetti",
+        "British English": "Spaghetti",
+        "Français": "Spaghetti",
+        "한국어": "스파게티",
+        "Deutsche": "Spaghetti",
+        "Japanese": "スパゲッティ",
+        "Nederlands": "Spaghetti",
+        "Chinese": "意大利面"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Sugar",
+        "British English": "Sugar",
+        "Français": "Du sucre",
+        "한국어": "설탕",
+        "Deutsche": "Zucker",
+        "Japanese": "砂糖",
+        "Nederlands": "Suiker",
+        "Chinese": "糖"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Sushi",
+        "British English": "Sushi",
+        "Français": "Sushi",
+        "한국어": "초밥",
+        "Deutsche": "Sushi",
+        "Japanese": "寿司",
+        "Nederlands": "Sushi",
+        "Chinese": "寿司"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Taco",
+        "British English": "Taco",
+        "Français": "Tacos",
+        "한국어": "타코",
+        "Deutsche": "Taco",
+        "Japanese": "タコス",
+        "Nederlands": "Taco",
+        "Chinese": "玉米卷"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Turkey (meat)",
+        "British English": "Turkey (meat)",
+        "Français": "Viande de dinde",
+        "한국어": "칠면조",
+        "Deutsche": "Putenfleisch",
+        "Japanese": "ターキー（肉）",
+        "Nederlands": "Kalkoen (vlees)",
+        "Chinese": "火鸡肉（肉类）"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Water",
+        "British English": "Water",
+        "Français": "Eau",
+        "한국어": "물",
+        "Deutsche": "Wasser",
+        "Japanese": "水",
+        "Nederlands": "Water",
+        "Chinese": "水"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Wine",
+        "British English": "Wine",
+        "Français": "Vin",
+        "한국어": "와인",
+        "Deutsche": "Wein",
+        "Japanese": "ワイン",
+        "Nederlands": "Wijn",
+        "Chinese": "葡萄酒"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "Yogurt",
+        "British English": "Yogurt",
+        "Français": "Yaourt",
+        "한국어": "요거트",
+        "Deutsche": "Joghurt",
+        "Japanese": "ヨーグルト",
+        "Nederlands": "Yoghurt",
+        "Chinese": "酸奶"
+      }
+    ]
+  },
+  "lesson Animals Lesson: Wild Animals Pt 1": {
+    "list 1": [
+      {
+        "American English": "Wild Animal",
+        "British English": "Wild Animal",
+        "Français": "Animal sauvage",
+        "한국어": "야생 동물",
+        "Deutsche": "Wildes Tier",
+        "Japanese": "野生動物",
+        "Nederlands": "Wild dier",
+        "Chinese": "野生动物"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Bear",
+        "British English": "Bear",
+        "Français": "Ours",
+        "한국어": "곰",
+        "Deutsche": "Tragen",
+        "Japanese": "クマ",
+        "Nederlands": "Beer",
+        "Chinese": "熊"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Camel",
+        "British English": "Camel",
+        "Français": "chameau",
+        "한국어": "낙타",
+        "Deutsche": "Kamel",
+        "Japanese": "ラクダ",
+        "Nederlands": "Kameel",
+        "Chinese": "骆驼"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Chimpanzee (chimp)/Monkey",
+        "British English": "Chimpanzee (chimp)/Monkey",
+        "Français": "Chimpanzé/Singe",
+        "한국어": "침팬지/원숭이",
+        "Deutsche": "Schimpanse (Schimpanse)/Affe",
+        "Japanese": "チンパンジー・サル",
+        "Nederlands": "Chimpansee (chimpansee)/Aap",
+        "Chinese": "黑猩猩/猴子"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Crab/Lobster",
+        "British English": "Crab/Lobster",
+        "Français": "Crabe/Homard",
+        "한국어": "게/가재",
+        "Deutsche": "Krabben/Hummer",
+        "Japanese": "カニ／ロブスター",
+        "Nederlands": "Krab",
+        "Chinese": "螃蟹/龙虾"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Dolphin",
+        "British English": "Dolphin",
+        "Français": "Dauphin",
+        "한국어": "돌고래",
+        "Deutsche": "Delfin",
+        "Japanese": "イルカ",
+        "Nederlands": "Dolfijn",
+        "Chinese": "海豚"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Flamingo",
+        "British English": "Flamingo",
+        "Français": "Flamant",
+        "한국어": "홍학",
+        "Deutsche": "Flamingo",
+        "Japanese": "フラミンゴ",
+        "Nederlands": "Flamingo",
+        "Chinese": "火烈鸟"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Fox",
+        "British English": "Fox",
+        "Français": "Renard",
+        "한국어": "여우",
+        "Deutsche": "Fuchs",
+        "Japanese": "キツネ",
+        "Nederlands": "Vos",
+        "Chinese": "狐狸"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Giraffe",
+        "British English": "Giraffe",
+        "Français": "Girafe",
+        "한국어": "기린",
+        "Deutsche": "Giraffe",
+        "Japanese": "キリン",
+        "Nederlands": "Giraffe",
+        "Chinese": "长颈鹿"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Gorilla",
+        "British English": "Gorilla",
+        "Français": "Gorille",
+        "한국어": "고릴라",
+        "Deutsche": "Gorilla",
+        "Japanese": "ゴリラ",
+        "Nederlands": "Gorilla",
+        "Chinese": "大猩猩"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Kangaroo",
+        "British English": "Kangaroo",
+        "Français": "Kangourou",
+        "한국어": "캥거루",
+        "Deutsche": "Känguru",
+        "Japanese": "カンガルー",
+        "Nederlands": "Kangoeroe",
+        "Chinese": "袋鼠"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Lion",
+        "British English": "Lion",
+        "Français": "Lion",
+        "한국어": "사자",
+        "Deutsche": "Löwe",
+        "Japanese": "ライオン",
+        "Nederlands": "Leeuw",
+        "Chinese": "狮子"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Ostrich",
+        "British English": "Ostrich",
+        "Français": "Autruche",
+        "한국어": "타조",
+        "Deutsche": "Strauß",
+        "Japanese": "ダチョウ",
+        "Nederlands": "Struisvogel",
+        "Chinese": "鸵鸟"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Owl",
+        "British English": "Owl",
+        "Français": "Hibou",
+        "한국어": "올빼미/부엉이",
+        "Deutsche": "Eule",
+        "Japanese": "フクロウ",
+        "Nederlands": "Uil",
+        "Chinese": "猫头鹰"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Parrot",
+        "British English": "Parrot",
+        "Français": "Perroquet",
+        "한국어": "앵무새",
+        "Deutsche": "Papagei",
+        "Japanese": "オウム",
+        "Nederlands": "Papegaai",
+        "Chinese": "鹦鹉"
+      }
+    ]
+  },
+  "lesson Animals Lesson: Wild Animals Pt 2": {
+    "list 1": [
+      {
+        "American English": "Porcupine",
+        "British English": "Hedgehog",
+        "Français": "Hérisson",
+        "한국어": "호저",
+        "Deutsche": "Stachelschwein",
+        "Japanese": "ヤマアラシ",
+        "Nederlands": "Stekelvarken",
+        "Chinese": "豪猪"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Rabbit/Bunny",
+        "British English": "Rabbit/Bunny/Hare",
+        "Français": "Lapin/Lapin/Lièvre",
+        "한국어": "토끼",
+        "Deutsche": "Hase",
+        "Japanese": "ウサギ/ウサギ",
+        "Nederlands": "Konijn",
+        "Chinese": "兔/兔子"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Raccoon",
+        "British English": "Raccoon",
+        "Français": "Raton laveur",
+        "한국어": "너구리",
+        "Deutsche": "Waschbär",
+        "Japanese": "アライグマ",
+        "Nederlands": "Wasbeer",
+        "Chinese": "浣熊"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Seal (Aquatic mammal)",
+        "British English": "Seal (Aquatic mammal)",
+        "Français": "Phoque",
+        "한국어": "물개",
+        "Deutsche": "Robbe (Wassersäugetier)",
+        "Japanese": "アザラシ（水生哺乳類）",
+        "Nederlands": "Zeehond (waterzoogdier)",
+        "Chinese": "海豹（水生哺乳动物）"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Shark",
+        "British English": "Shark",
+        "Français": "Requin",
+        "한국어": "상어",
+        "Deutsche": "Hai",
+        "Japanese": "サメ",
+        "Nederlands": "Haai",
+        "Chinese": "鲨鱼"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Skunk",
+        "British English": "Skunk",
+        "Français": "Moufette",
+        "한국어": "스컹크",
+        "Deutsche": "Skunk",
+        "Japanese": "スカンク",
+        "Nederlands": "Stinkdier",
+        "Chinese": "臭鼬"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Stork",
+        "British English": "Stork",
+        "Français": "Cigogne",
+        "한국어": "황새",
+        "Deutsche": "Storch",
+        "Japanese": "コウノトリ",
+        "Nederlands": "Ooievaar",
+        "Chinese": "鹳"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Turtle",
+        "British English": "Turtle",
+        "Français": "Tortue",
+        "한국어": "거북이",
+        "Deutsche": "Schildkröte",
+        "Japanese": "カメ",
+        "Nederlands": "Schildpad",
+        "Chinese": "乌龟"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Whale",
+        "British English": "Whale",
+        "Français": "Baleine",
+        "한국어": "고래",
+        "Deutsche": "Wal",
+        "Japanese": "クジラ",
+        "Nederlands": "Walvis",
+        "Chinese": "鲸"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Wolf",
+        "British English": "Wolf",
+        "Français": "Loup",
+        "한국어": "늑대",
+        "Deutsche": "Wolf",
+        "Japanese": "オオカミ",
+        "Nederlands": "Wolf",
+        "Chinese": "狼"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Zebra",
+        "British English": "Zebra",
+        "Français": "Zèbre",
+        "한국어": "얼룩말",
+        "Deutsche": "Zebra",
+        "Japanese": "シマウマ",
+        "Nederlands": "Zebra",
+        "Chinese": "斑马"
+      }
+    ]
+  },
+  "lesson Animals Lesson: Common & Farm": {
+    "list 1": [
+      {
+        "American English": "Animal",
+        "British English": "Animal",
+        "Français": "Animal",
+        "한국어": "동물",
+        "Deutsche": "Tier",
+        "Japanese": "動物",
+        "Nederlands": "Dier",
+        "Chinese": "动物"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Ant",
+        "British English": "Ant",
+        "Français": "Fourmi",
+        "한국어": "개미",
+        "Deutsche": "Ameise",
+        "Japanese": "アリ",
+        "Nederlands": "Mier",
+        "Chinese": "蚂蚁"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bee",
+        "British English": "Bee",
+        "Français": "Abeille",
+        "한국어": "벌",
+        "Deutsche": "Biene",
+        "Japanese": "蜂",
+        "Nederlands": "Bij",
+        "Chinese": "蜂"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Bird",
+        "British English": "Bird",
+        "Français": "Oiseau",
+        "한국어": "새",
+        "Deutsche": "Vogel",
+        "Japanese": "鳥",
+        "Nederlands": "Vogel",
+        "Chinese": "鸟类"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Cat",
+        "British English": "Cat",
+        "Français": "Chat",
+        "한국어": "고양이",
+        "Deutsche": "Katze",
+        "Japanese": "猫",
+        "Nederlands": "Kat",
+        "Chinese": "猫"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Dog",
+        "British English": "Dog",
+        "Français": "Chien",
+        "한국어": "개",
+        "Deutsche": "Hund",
+        "Japanese": "犬",
+        "Nederlands": "Hond",
+        "Chinese": "狗"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Duck",
+        "British English": "Duck",
+        "Français": "Canard",
+        "한국어": "오리",
+        "Deutsche": "Ente",
+        "Japanese": "鴨",
+        "Nederlands": "Eend",
+        "Chinese": "鸭"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Fish",
+        "British English": "Fish",
+        "Français": "Poisson",
+        "한국어": "물고기",
+        "Deutsche": "Fisch",
+        "Japanese": "魚",
+        "Nederlands": "Vis",
+        "Chinese": "鱼"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Fly (insect)",
+        "British English": "Fly (insect)",
+        "Français": "Mouche",
+        "한국어": "파리",
+        "Deutsche": "Fliege (Insekt)",
+        "Japanese": "ハエ",
+        "Nederlands": "Vlieg (insect)",
+        "Chinese": "苍蝇（昆虫）"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Frog",
+        "British English": "Frog",
+        "Français": "La grenouille",
+        "한국어": "개구리",
+        "Deutsche": "Frosch",
+        "Japanese": "カエル",
+        "Nederlands": "Kikker",
+        "Chinese": "青蛙"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Snake",
+        "British English": "Snake",
+        "Français": "Serpent",
+        "한국어": "뱀",
+        "Deutsche": "Schlange",
+        "Japanese": "ヘビ",
+        "Nederlands": "Slang",
+        "Chinese": "蛇"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Spider",
+        "British English": "Spider",
+        "Français": "Araignée",
+        "한국어": "거미",
+        "Deutsche": "Spinne",
+        "Japanese": "クモ",
+        "Nederlands": "Spin",
+        "Chinese": "蜘蛛"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Farm (place)",
+        "British English": "Farm (place)",
+        "Français": "Ferme (lieu)",
+        "한국어": "농장",
+        "Deutsche": "Bauernhof (Ort)",
+        "Japanese": "農場",
+        "Nederlands": "Boerderij (plaats)",
+        "Chinese": "农场"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Chicken",
+        "British English": "Chicken",
+        "Français": "Poulet",
+        "한국어": "닭",
+        "Deutsche": "Huhn",
+        "Japanese": "鶏",
+        "Nederlands": "Kip",
+        "Chinese": "鸡"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Cow",
+        "British English": "Cow",
+        "Français": "Vache",
+        "한국어": "소",
+        "Deutsche": "Kuh",
+        "Japanese": "牛",
+        "Nederlands": "Koe",
+        "Chinese": "牛"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Donkey",
+        "British English": "Donkey",
+        "Français": "Âne",
+        "한국어": "당나귀",
+        "Deutsche": "Esel",
+        "Japanese": "ロバ",
+        "Nederlands": "Ezel",
+        "Chinese": "驴"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Goat",
+        "British English": "Goat",
+        "Français": "Chèvre",
+        "한국어": "염소",
+        "Deutsche": "Ziege",
+        "Japanese": "ヤギ",
+        "Nederlands": "Geit",
+        "Chinese": "山羊"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Horse",
+        "British English": "Horse",
+        "Français": "Cheval",
+        "한국어": "말",
+        "Deutsche": "Pferd",
+        "Japanese": "馬",
+        "Nederlands": "Paard",
+        "Chinese": "马"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "Pig",
+        "British English": "Pig",
+        "Français": "Porc",
+        "한국어": "돼지",
+        "Deutsche": "Schwein",
+        "Japanese": "豚",
+        "Nederlands": "Varken",
+        "Chinese": "猪"
+      }
+    ],
+    "list 20": [
+      {
+        "American English": "Pony (young horse)",
+        "British English": "Pony (small horse)",
+        "Français": "Poney",
+        "한국어": "조랑말",
+        "Deutsche": "Pony (junges Pferd)",
+        "Japanese": "ポニー（若馬）",
+        "Nederlands": "Pony (jong paard)",
+        "Chinese": "小马（幼马）"
+      }
+    ],
+    "list 21": [
+      {
+        "American English": "Sheep",
+        "British English": "Sheep",
+        "Français": "Le mouton",
+        "한국어": "양",
+        "Deutsche": "Schaf",
+        "Japanese": "羊",
+        "Nederlands": "Schaap",
+        "Chinese": "绵羊"
+      }
+    ],
+    "list 22": [
+      {
+        "American English": "Turkey (Bird)",
+        "British English": "Turkey (Bird)",
+        "Français": "Dinde",
+        "한국어": "칠면조",
+        "Deutsche": "Truthahn (Vogel)",
+        "Japanese": "七面鳥",
+        "Nederlands": "Kalkoen (vogel)",
+        "Chinese": "火鸡（鸟类）"
+      }
+    ]
+  },
+  "lesson Anatomy Lesson": {
+    "list 1": [
+      {
+        "American English": "Head",
+        "British English": "Head",
+        "Français": "Tête",
+        "한국어": "머리",
+        "Deutsche": "Kopf",
+        "Japanese": "ヘッド",
+        "Nederlands": "Hoofd",
+        "Chinese": "头部"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Shoulder",
+        "British English": "Shoulder",
+        "Français": "Épaule",
+        "한국어": "어깨",
+        "Deutsche": "Schulter",
+        "Japanese": "肩",
+        "Nederlands": "Schouder",
+        "Chinese": "肩部"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Arm",
+        "British English": "Arm",
+        "Français": "Bras",
+        "한국어": "팔",
+        "Deutsche": "Arm",
+        "Japanese": "腕",
+        "Nederlands": "Arm",
+        "Chinese": "手臂"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Hand",
+        "British English": "Hand",
+        "Français": "Main",
+        "한국어": "손",
+        "Deutsche": "Hand",
+        "Japanese": "手",
+        "Nederlands": "Hand",
+        "Chinese": "手部"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Fingers",
+        "British English": "Fingers",
+        "Français": "Des doigts",
+        "한국어": "손가락",
+        "Deutsche": "Finger",
+        "Japanese": "指",
+        "Nederlands": "Vingers",
+        "Chinese": "手指"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Eyes",
+        "British English": "Eyes",
+        "Français": "Les yeux",
+        "한국어": "눈",
+        "Deutsche": "Augen",
+        "Japanese": "目",
+        "Nederlands": "Ogen",
+        "Chinese": "眼睛"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Nose",
+        "British English": "Nose",
+        "Français": "Nez",
+        "한국어": "코",
+        "Deutsche": "Nase",
+        "Japanese": "鼻",
+        "Nederlands": "Neus",
+        "Chinese": "鼻"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Mouth",
+        "British English": "Mouth",
+        "Français": "Bouche",
+        "한국어": "입",
+        "Deutsche": "Mund",
+        "Japanese": "口",
+        "Nederlands": "Mond",
+        "Chinese": "嘴"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Chest",
+        "British English": "Chest",
+        "Français": "Poitrine / Torse",
+        "한국어": "가슴",
+        "Deutsche": "Brust",
+        "Japanese": "胸",
+        "Nederlands": "Borst",
+        "Chinese": "胸部"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Belly/Stomach",
+        "British English": "Belly/Tummy (stomach)",
+        "Français": "Ventre",
+        "한국어": "허리",
+        "Deutsche": "Bauch/Magen",
+        "Japanese": "腹/胃",
+        "Nederlands": "Buik/maag",
+        "Chinese": "腹部/胃部"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Elbow",
+        "British English": "Elbow",
+        "Français": "Coude",
+        "한국어": "팔꿈치",
+        "Deutsche": "Ellbogen",
+        "Japanese": "肘",
+        "Nederlands": "Elleboog",
+        "Chinese": "肘部"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Foot (anatomy)",
+        "British English": "Foot (anatomy)",
+        "Français": "Pied",
+        "한국어": "발",
+        "Deutsche": "Fuß (Anatomie)",
+        "Japanese": "足（解剖学）",
+        "Nederlands": "Voet (anatomie)",
+        "Chinese": "足部（解剖）"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Feet (anatomy)",
+        "British English": "Feet (anatomy)",
+        "Français": "Pied",
+        "한국어": "발",
+        "Deutsche": "Füße (Anatomie)",
+        "Japanese": "足（解剖学）",
+        "Nederlands": "Voeten (anatomie)",
+        "Chinese": "脚（解剖）"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Leg",
+        "British English": "Leg",
+        "Français": "Jambe",
+        "한국어": "다리",
+        "Deutsche": "Bein",
+        "Japanese": "足",
+        "Nederlands": "Been",
+        "Chinese": "腿部"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Knees",
+        "British English": "Knees",
+        "Français": "Genoux",
+        "한국어": "무릎",
+        "Deutsche": "Knie",
+        "Japanese": "膝",
+        "Nederlands": "Knieën",
+        "Chinese": "膝盖"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Toes",
+        "British English": "Toes",
+        "Français": "Orteils",
+        "한국어": "발가락",
+        "Deutsche": "Zehen",
+        "Japanese": "足指",
+        "Nederlands": "Tenen",
+        "Chinese": "脚趾"
+      }
+    ]
+  },
+  "lesson Beach Lesson": {
+    "list 1": [
+      {
+        "American English": "Beach",
+        "British English": "Beach",
+        "Français": "Plage",
+        "한국어": "해변",
+        "Deutsche": "Strand",
+        "Japanese": "ビーチ",
+        "Nederlands": "Strand",
+        "Chinese": "海滩"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Drown",
+        "British English": "Drown",
+        "Français": "Noyer",
+        "한국어": "익사",
+        "Deutsche": "Ertrinken",
+        "Japanese": "溺れる",
+        "Nederlands": "Verdrink",
+        "Chinese": "溺水"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Lifeguard",
+        "British English": "Lifeguard",
+        "Français": "Sauveteur",
+        "한국어": "안전 요원",
+        "Deutsche": "Rettungsschwimmer",
+        "Japanese": "ライフガード",
+        "Nederlands": "Badmeester",
+        "Chinese": "救生员"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Ocean",
+        "British English": "Ocean",
+        "Français": "Océan",
+        "한국어": "해양",
+        "Deutsche": "Ozean",
+        "Japanese": "海",
+        "Nederlands": "Oceaan",
+        "Chinese": "海洋"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Rescue",
+        "British English": "Rescue",
+        "Français": "Sauvetage",
+        "한국어": "구조",
+        "Deutsche": "Rettung",
+        "Japanese": "救助",
+        "Nederlands": "Redding",
+        "Chinese": "救援"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Sand",
+        "British English": "Sand",
+        "Français": "Sable",
+        "한국어": "모래",
+        "Deutsche": "Sand",
+        "Japanese": "砂",
+        "Nederlands": "Zand",
+        "Chinese": "沙滩"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Sandcastle",
+        "British English": "Sandcastle",
+        "Français": "Château de sable",
+        "한국어": "모래성",
+        "Deutsche": "Sandburg",
+        "Japanese": "砂の城",
+        "Nederlands": "Zandkasteel",
+        "Chinese": "沙堡"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Surf",
+        "British English": "Surf",
+        "Français": "Le surf",
+        "한국어": "파도타기",
+        "Deutsche": "Surfen",
+        "Japanese": "サーフィン",
+        "Nederlands": "Surf",
+        "Chinese": "冲浪"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Swim",
+        "British English": "Swim",
+        "Français": "Nager",
+        "한국어": "수영",
+        "Deutsche": "Schwimmen",
+        "Japanese": "水泳",
+        "Nederlands": "Zwemmen",
+        "Chinese": "游泳"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Swimsuit",
+        "British English": "Swimsuit",
+        "Français": "Maillot de bain",
+        "한국어": "수영복",
+        "Deutsche": "Badeanzug",
+        "Japanese": "水着",
+        "Nederlands": "Badpak",
+        "Chinese": "泳衣"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Towel",
+        "British English": "Towel",
+        "Français": "Serviette",
+        "한국어": "수건",
+        "Deutsche": "Handtuch",
+        "Japanese": "タオル",
+        "Nederlands": "Handdoek",
+        "Chinese": "毛巾"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Water",
+        "British English": "Water",
+        "Français": "Eau",
+        "한국어": "물",
+        "Deutsche": "Wasser",
+        "Japanese": "水",
+        "Nederlands": "Water",
+        "Chinese": "水"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Wave",
+        "British English": "Wave",
+        "Français": "Vague",
+        "한국어": "파도",
+        "Deutsche": "Welle",
+        "Japanese": "波",
+        "Nederlands": "Golf",
+        "Chinese": "波浪"
+      }
+    ]
+  },
+  "lesson Camp Lesson": {
+    "list 1": [
+      {
+        "American English": "Backpack",
+        "British English": "Backpack",
+        "Français": "Sac à dos",
+        "한국어": "배낭",
+        "Deutsche": "Rucksack",
+        "Japanese": "バックパック",
+        "Nederlands": "Rugzak",
+        "Chinese": "背包"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Bonfire",
+        "British English": "Bonfire",
+        "Français": "Feu",
+        "한국어": "모닥불",
+        "Deutsche": "Lagerfeuer",
+        "Japanese": "かがり火",
+        "Nederlands": "Vreugdevuur",
+        "Chinese": "篝火"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bug repellent (insect body spray)",
+        "British English": "Bug-Killer (spray)",
+        "Français": "Insecticide",
+        "한국어": "살충제",
+        "Deutsche": "Insektenschutzmittel (Insekten-Körperspray)",
+        "Japanese": "虫除けスプレー",
+        "Nederlands": "Insectenspray (bodyspray voor insecten)",
+        "Chinese": "驱虫剂（防虫喷雾）"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Camp",
+        "British English": "Camp",
+        "Français": "Camp",
+        "한국어": "야영",
+        "Deutsche": "Lager",
+        "Japanese": "キャンプ",
+        "Nederlands": "Kamp",
+        "Chinese": "营地"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Campfire",
+        "British English": "Campfire",
+        "Français": "Feu de camp",
+        "한국어": "모닥불",
+        "Deutsche": "Lagerfeuer",
+        "Japanese": "キャンプファイヤー",
+        "Nederlands": "Kampvuur",
+        "Chinese": "篝火"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Fishing",
+        "British English": "Fishing",
+        "Français": "Faire de la pêche",
+        "한국어": "낚시",
+        "Deutsche": "Angeln",
+        "Japanese": "釣り",
+        "Nederlands": "Vissen",
+        "Chinese": "钓鱼"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Flashlight",
+        "British English": "Torch (Flashlight)",
+        "Français": "Torche (lampe de poche)",
+        "한국어": "손전등",
+        "Deutsche": "Taschenlampe",
+        "Japanese": "懐中電灯",
+        "Nederlands": "Zaklamp",
+        "Chinese": "手电筒"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Forest",
+        "British English": "Forest",
+        "Français": "Forêt",
+        "한국어": "숲",
+        "Deutsche": "Wald",
+        "Japanese": "森林",
+        "Nederlands": "Bos",
+        "Chinese": "森林"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Firewood",
+        "British English": "Firewood",
+        "Français": "Bois de chauffage",
+        "한국어": "장작",
+        "Deutsche": "Brennholz",
+        "Japanese": "薪",
+        "Nederlands": "Brandhout",
+        "Chinese": "柴火"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Hike",
+        "British English": "Hike",
+        "Français": "Une randonnée",
+        "한국어": "도보",
+        "Deutsche": "Wanderung",
+        "Japanese": "ハイキング",
+        "Nederlands": "Wandeling",
+        "Chinese": "远足"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Lake",
+        "British English": "Lake",
+        "Français": "Lac",
+        "한국어": "호수",
+        "Deutsche": "See",
+        "Japanese": "湖",
+        "Nederlands": "Meer",
+        "Chinese": "湖泊"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Lighter",
+        "British English": "Lighter",
+        "Français": "Plus léger",
+        "한국어": "라이터",
+        "Deutsche": "Feuerzeug",
+        "Japanese": "ライター",
+        "Nederlands": "Aansteker",
+        "Chinese": "打火机"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Logs",
+        "British English": "Woods (logs)",
+        "Français": "Bois (grumes)",
+        "한국어": "통나무",
+        "Deutsche": "Protokolle",
+        "Japanese": "丸太",
+        "Nederlands": "Stammen",
+        "Chinese": "原木"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Matchstick",
+        "British English": "Matchstick (Matches)",
+        "Français": "Allumettes (allumettes)",
+        "한국어": "성냥개비",
+        "Deutsche": "Streichholz",
+        "Japanese": "マッチ棒",
+        "Nederlands": "Lucifers",
+        "Chinese": "火柴杆"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "River/stream",
+        "British English": "River/stream",
+        "Français": "Rivière/ruisseau",
+        "한국어": "강/개울",
+        "Deutsche": "Fluss/Bach",
+        "Japanese": "川",
+        "Nederlands": "Rivier/stroom",
+        "Chinese": "河流/溪流"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Sleeping Bag",
+        "British English": "Sleeping Bag",
+        "Français": "Sac de couchage",
+        "한국어": "침낭",
+        "Deutsche": "Schlafsack",
+        "Japanese": "寝袋",
+        "Nederlands": "Slaapzak",
+        "Chinese": "睡袋"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Tent",
+        "British English": "Tent",
+        "Français": "Tente",
+        "한국어": "천막",
+        "Deutsche": "Zelt",
+        "Japanese": "テント",
+        "Nederlands": "Tent",
+        "Chinese": "帐篷"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "waterfall",
+        "British English": "waterfall",
+        "Français": "cascade",
+        "한국어": "폭포",
+        "Deutsche": "Wasserfall",
+        "Japanese": "滝",
+        "Nederlands": "waterval",
+        "Chinese": "瀑布"
+      }
+    ]
+  },
+  "lesson College Lesson": {
+    "list 1": [
+      {
+        "American English": "Academic Advisor",
+        "British English": "Academic Advisor",
+        "Français": "Conseiller académique",
+        "한국어": "지도 교수",
+        "Deutsche": "Akademischer Berater",
+        "Japanese": "アカデミックアドバイザー",
+        "Nederlands": "Academisch Adviseur",
+        "Chinese": "学术顾问"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Attend",
+        "British English": "Attendance / attend",
+        "Français": "Présence / assister",
+        "한국어": "출석",
+        "Deutsche": "Teilnehmen",
+        "Japanese": "出席",
+        "Nederlands": "Ga naar",
+        "Chinese": "参加"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Campus",
+        "British English": "Campus / Dorm",
+        "Français": "Campus / Dortoir",
+        "한국어": "교정",
+        "Deutsche": "Campus",
+        "Japanese": "キャンパス",
+        "Nederlands": "Campus",
+        "Chinese": "校园"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Course",
+        "British English": "Course (Class)",
+        "Français": "Cours (Classe)",
+        "한국어": "강의",
+        "Deutsche": "Kurs",
+        "Japanese": "コース",
+        "Nederlands": "Cursus",
+        "Chinese": "课程"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Credit (grade)",
+        "British English": "Student Loans",
+        "Français": "Prêts étudiants",
+        "한국어": "학점",
+        "Deutsche": "Kredit (Note)",
+        "Japanese": "単位",
+        "Nederlands": "Studiepunten (cijfer)",
+        "Chinese": "学分（年级）"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Degree (College)",
+        "British English": "Degree (university)",
+        "Français": "Diplôme",
+        "한국어": "학위",
+        "Deutsche": "Abschluss (Hochschule)",
+        "Japanese": "学位（カレッジ）",
+        "Nederlands": "Graad (College)",
+        "Chinese": "学位（学院）"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Dorm / Dormitory",
+        "British English": "Dorm/Dormitory",
+        "Français": "",
+        "한국어": "기숙사",
+        "Deutsche": "Schlafsaal / Schlafsaal",
+        "Japanese": "寮・ドミトリー",
+        "Nederlands": "Slaapzaal",
+        "Chinese": "宿舍"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Enroll",
+        "British English": "Enroll (register)",
+        "Français": "S'inscrire",
+        "한국어": "학적",
+        "Deutsche": "Einschreiben",
+        "Japanese": "在籍",
+        "Nederlands": "Inschrijven",
+        "Chinese": "注册时间"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Full Time",
+        "British English": "Full Time (Job)",
+        "Français": "Travail à plein temps",
+        "한국어": "풀타임",
+        "Deutsche": "Vollzeit",
+        "Japanese": "フルタイム",
+        "Nederlands": "Voltijd",
+        "Chinese": "全日制"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Major (degree)",
+        "British English": "Major (degree)",
+        "Français": "Diplôme d'études supérieures",
+        "한국어": "전공",
+        "Deutsche": "Hauptfach (Abschluss)",
+        "Japanese": "専攻（学位）",
+        "Nederlands": "Hoofdvak (graad)",
+        "Chinese": "主修（学位）"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Minor (degree)",
+        "British English": "Minor (degree)",
+        "Français": "Mineure (diplôme)",
+        "한국어": "부전공",
+        "Deutsche": "Nebenfach (Abschluss)",
+        "Japanese": "マイナー（学位）",
+        "Nederlands": "Minor (graad)",
+        "Chinese": "辅修（学位）"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Part time",
+        "British English": "Part time (Job)",
+        "Français": "Travail à temps partiel",
+        "한국어": "파트타임",
+        "Deutsche": "Teilzeit",
+        "Japanese": "パートタイム",
+        "Nederlands": "Deeltijd",
+        "Chinese": "非全日制"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Professor",
+        "British English": "Professor",
+        "Français": "Professeur",
+        "한국어": "교수",
+        "Deutsche": "Professor",
+        "Japanese": "教授",
+        "Nederlands": "Hoogleraar",
+        "Chinese": "教授"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Instructor/Tutor",
+        "British English": "Instructor/Tutor",
+        "Français": "Instructeur/Tuteur",
+        "한국어": "강사",
+        "Deutsche": "Ausbilder/Lehrer",
+        "Japanese": "インストラクター/講師",
+        "Nederlands": "Docent",
+        "Chinese": "讲师/导师"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Register",
+        "British English": "Register",
+        "Français": "Enregistrer",
+        "한국어": "출석부",
+        "Deutsche": "Registrieren",
+        "Japanese": "登録",
+        "Nederlands": "Registreren",
+        "Chinese": "注册"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Scholarship",
+        "British English": "Scholarship / Apprenticeship",
+        "Français": "Bourse / Apprentissage",
+        "한국어": "장학금",
+        "Deutsche": "Stipendium",
+        "Japanese": "奨学金",
+        "Nederlands": "Beurs",
+        "Chinese": "奖学金"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Semester",
+        "British English": "Semester",
+        "Français": "Semestre",
+        "한국어": "학기",
+        "Deutsche": "Semester",
+        "Japanese": "学期",
+        "Nederlands": "Semester",
+        "Chinese": "学期"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Withdraw",
+        "British English": "Withdraw",
+        "Français": "Retirer",
+        "한국어": "자퇴",
+        "Deutsche": "Zurückziehen",
+        "Japanese": "退学",
+        "Nederlands": "Terugtrekken",
+        "Chinese": "退学"
+      }
+    ]
+  },
+  "lesson Court Lesson": {
+    "list 1": [
+      {
+        "American English": "Arrest / Under Arrest",
+        "British English": "Arrest / Under Arrest",
+        "Français": "Arrestation / En état d'arrestation",
+        "한국어": "체포하다",
+        "Deutsche": "Festnahme / Unter Arrest",
+        "Japanese": "逮捕／逮捕中",
+        "Nederlands": "Arrestatie / onder arrest",
+        "Chinese": "逮捕 / 被捕"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Deny (Court)",
+        "British English": "Deny (Court)",
+        "Français": "Refuser (tribunal)",
+        "한국어": "부인하다",
+        "Deutsche": "Verweigern (Gericht)",
+        "Japanese": "否認（裁判所）",
+        "Nederlands": "Weigeren (rechtbank)",
+        "Chinese": "拒绝（法院）"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Charge (court)",
+        "British English": "Charge (court)",
+        "Français": "Accusation (tribunal)",
+        "한국어": "기소하다",
+        "Deutsche": "Anklage (Gericht)",
+        "Japanese": "起訴（裁判所）",
+        "Nederlands": "Aanklacht (rechtbank)",
+        "Chinese": "指控（法院）"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Fine (Penalty)",
+        "British English": "Fine (Penalty)",
+        "Français": "Amende (pénalité)",
+        "한국어": "벌금",
+        "Deutsche": "Geldstrafe (Strafe)",
+        "Japanese": "罰金（刑罰）",
+        "Nederlands": "Boete (straf)",
+        "Chinese": "罚款（处罚）"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Guilty",
+        "British English": "Guilty",
+        "Français": "Coupable",
+        "한국어": "유죄",
+        "Deutsche": "Schuldig",
+        "Japanese": "有罪",
+        "Nederlands": "Schuldig",
+        "Chinese": "有罪"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Handcuffs",
+        "British English": "Handcuffs",
+        "Français": "Menottes",
+        "한국어": "수갑",
+        "Deutsche": "Handschellen",
+        "Japanese": "手錠",
+        "Nederlands": "Handboeien",
+        "Chinese": "手铐"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Innocent",
+        "British English": "Innocent",
+        "Français": "Innocent",
+        "한국어": "무죄",
+        "Deutsche": "Unschuldig",
+        "Japanese": "無罪",
+        "Nederlands": "Onschuldig",
+        "Chinese": "无罪"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Jail/prison",
+        "British English": "Jail/prison",
+        "Français": "Prison de prison",
+        "한국어": "감옥",
+        "Deutsche": "Gefängnis Gefängnis",
+        "Japanese": "刑務所",
+        "Nederlands": "Gevangenis",
+        "Chinese": "监狱"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Judge (person)",
+        "British English": "Judge (person)",
+        "Français": "Juge (personne)",
+        "한국어": "판사",
+        "Deutsche": "Richter (Person)",
+        "Japanese": "裁判官",
+        "Nederlands": "Rechter (persoon)",
+        "Chinese": "法官（人）"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Jury",
+        "British English": "Jury",
+        "Français": "Jury",
+        "한국어": "배심원",
+        "Deutsche": "Jury",
+        "Japanese": "陪審員",
+        "Nederlands": "Jury",
+        "Chinese": "陪审团"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Lawyer (attorney)",
+        "British English": "Lawyer (attorney)",
+        "Français": "Avocat (avocat)",
+        "한국어": "변호사",
+        "Deutsche": "Anwalt, Rechtsanwalt",
+        "Japanese": "弁護士",
+        "Nederlands": "Advocaat",
+        "Chinese": "律师"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Police/Cop",
+        "British English": "Police officer",
+        "Français": "Officier de police",
+        "한국어": "경찰",
+        "Deutsche": "Polizei/Polizist",
+        "Japanese": "警察／警官",
+        "Nederlands": "Politie/agent",
+        "Chinese": "警察/协警"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Sentence (Court)",
+        "British English": "Sentence (Court)",
+        "Français": "Sentence (tribunal)",
+        "한국어": "선고하다",
+        "Deutsche": "Satz (Gericht)",
+        "Japanese": "判決（裁判所）",
+        "Nederlands": "Vonnis (rechtbank)",
+        "Chinese": "判决（法院）"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Sheriff",
+        "British English": "police inspector",
+        "Français": "inspecteur de police",
+        "한국어": "보안관",
+        "Deutsche": "Sheriff",
+        "Japanese": "保安官",
+        "Nederlands": "Sheriff",
+        "Chinese": "警长"
+      }
+    ]
+  },
+  "lesson Desserts Lesson": {
+    "list 1": [
+      {
+        "American English": "Cake",
+        "British English": "Cake",
+        "Français": "Gâteau",
+        "한국어": "케이크",
+        "Deutsche": "Kuchen",
+        "Japanese": "ケーキ",
+        "Nederlands": "Taart",
+        "Chinese": "蛋糕"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Candy",
+        "British English": "candy/sweet",
+        "Français": "Bonbon",
+        "한국어": "사탕",
+        "Deutsche": "Süssigkeit",
+        "Japanese": "キャンディ",
+        "Nederlands": "Snoep",
+        "Chinese": "糖果"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Chocolate",
+        "British English": "Chocolate",
+        "Français": "Chocolat",
+        "한국어": "초콜릿",
+        "Deutsche": "Schokolade",
+        "Japanese": "チョコレート",
+        "Nederlands": "Chocolade",
+        "Chinese": "巧克力"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Cookie",
+        "British English": "Cookie",
+        "Français": "Biscuit",
+        "한국어": "쿠키",
+        "Deutsche": "Plätzchen",
+        "Japanese": "クッキー",
+        "Nederlands": "Koekje",
+        "Chinese": "饼干"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Delicious",
+        "British English": "Delicious",
+        "Français": "Délicieux",
+        "한국어": "맛있는",
+        "Deutsche": "Lecker",
+        "Japanese": "おいしい",
+        "Nederlands": "Heerlijk",
+        "Chinese": "美味可口"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Dessert",
+        "British English": "Dessert",
+        "Français": "Dessert",
+        "한국어": "후식",
+        "Deutsche": "Nachtisch",
+        "Japanese": "デザート",
+        "Nederlands": "Dessert",
+        "Chinese": "甜点"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Ice cream",
+        "British English": "Ice cream",
+        "Français": "Crème glacée",
+        "한국어": "아이스크림",
+        "Deutsche": "Eiscreme",
+        "Japanese": "アイスクリーム",
+        "Nederlands": "Ijs",
+        "Chinese": "冰淇淋"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Jelly",
+        "British English": "jam",
+        "Français": "confiture",
+        "한국어": "젤리",
+        "Deutsche": "Gelee",
+        "Japanese": "ゼリー",
+        "Nederlands": "Gelei",
+        "Chinese": "果冻"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Jello",
+        "British English": "jelly",
+        "Français": "gelée",
+        "한국어": "푸딩",
+        "Deutsche": "Wackelpudding",
+        "Japanese": "ゼリー",
+        "Nederlands": "Jello",
+        "Chinese": "果冻"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Pie",
+        "British English": "Pie",
+        "Français": "Tarte",
+        "한국어": "파이",
+        "Deutsche": "Kuchen",
+        "Japanese": "パイ",
+        "Nederlands": "Taart",
+        "Chinese": "派"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Sweet",
+        "British English": "",
+        "Français": "Sucré",
+        "한국어": "단 것",
+        "Deutsche": "Süss",
+        "Japanese": "スイート",
+        "Nederlands": "Zoet",
+        "Chinese": "甜点"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Syrup",
+        "British English": "Syrup",
+        "Français": "Sirop",
+        "한국어": "시럽",
+        "Deutsche": "Sirup",
+        "Japanese": "シロップ",
+        "Nederlands": "Stroop",
+        "Chinese": "糖浆"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Vanilla",
+        "British English": "Vanilla",
+        "Français": "Vanille",
+        "한국어": "바닐라",
+        "Deutsche": "Vanille",
+        "Japanese": "バニラ",
+        "Nederlands": "Vanille",
+        "Chinese": "香草"
+      }
+    ]
+  },
+  "lesson Disability Lesson": {
+    "list 1": [
+      {
+        "American English": "Ableism",
+        "British English": "Ableism",
+        "Français": "capacitisme",
+        "한국어": "장애인 차별",
+        "Deutsche": "Ableismus",
+        "Japanese": "エイビリズム",
+        "Nederlands": "Ableïsme",
+        "Chinese": "残疾主义"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Accessible/Accessibilty",
+        "British English": "accessible/accessibility",
+        "Français": "Accessible/Accessibilité",
+        "한국어": "접근성",
+        "Deutsche": "Zugänglich/Zugänglichkeit",
+        "Japanese": "アクセシブル／アクセシビリティ",
+        "Nederlands": "Toegankelijk/Toegankelijkheid",
+        "Chinese": "无障碍/无障碍"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Advocate",
+        "British English": "Advocate",
+        "Français": "Avocat",
+        "한국어": "지지하다",
+        "Deutsche": "Fürsprecher",
+        "Japanese": "擁護者",
+        "Nederlands": "Voorstander",
+        "Chinese": "倡导者"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Advocator",
+        "British English": "Advocator",
+        "Français": "Défenseur",
+        "한국어": "지지자",
+        "Deutsche": "Fürsprecher",
+        "Japanese": "擁護者",
+        "Nederlands": "Voorstander",
+        "Chinese": "倡导者"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Against",
+        "British English": "Against",
+        "Français": "contre",
+        "한국어": "반대하다",
+        "Deutsche": "Gegen",
+        "Japanese": "反対",
+        "Nederlands": "Tegen",
+        "Chinese": "反对"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Ally",
+        "British English": "Ally",
+        "Français": "allié",
+        "한국어": "동맹하다",
+        "Deutsche": "Verbündete",
+        "Japanese": "味方",
+        "Nederlands": "Bondgenoot",
+        "Chinese": "盟友"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Audism (audio)",
+        "British English": "Audism (audio)",
+        "Français": "Audisme",
+        "한국어": "오디즘",
+        "Deutsche": "Audiismus (Audio)",
+        "Japanese": "オーディズム",
+        "Nederlands": "Audisme (audio)",
+        "Chinese": "听觉（音频）"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Deprivation",
+        "British English": "Deprivation",
+        "Français": "Privation",
+        "한국어": "박탈",
+        "Deutsche": "Entbehrung",
+        "Japanese": "剥奪",
+        "Nederlands": "Ontbering",
+        "Chinese": "剥夺"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Disabled/Disability",
+        "British English": "Disabled/Disability",
+        "Français": "handicapé/handicap",
+        "한국어": "장애인/장애",
+        "Deutsche": "Behinderte/Behinderung",
+        "Japanese": "障害者",
+        "Nederlands": "Gehandicapten",
+        "Chinese": "残疾人/残疾"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Discrimination",
+        "British English": "Discrimination",
+        "Français": "discrimination",
+        "한국어": "차별",
+        "Deutsche": "Diskriminierung",
+        "Japanese": "差別",
+        "Nederlands": "Discriminatie",
+        "Chinese": "歧视"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Language",
+        "British English": "Language",
+        "Français": "Langue",
+        "한국어": "언어",
+        "Deutsche": "Sprache",
+        "Japanese": "言語",
+        "Nederlands": "Taal",
+        "Chinese": "语言"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Oppression/Oppressive",
+        "British English": "Oppression/Oppressive",
+        "Français": "oppression / oppressant",
+        "한국어": "억압/억압하다",
+        "Deutsche": "Unterdrückung/Unterdrückung",
+        "Japanese": "抑圧／圧迫",
+        "Nederlands": "Onderdrukking/onderdrukking",
+        "Chinese": "压迫/压迫性"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Prejudice",
+        "British English": "",
+        "Français": "Préjudice",
+        "한국어": "편견",
+        "Deutsche": "Vorurteil",
+        "Japanese": "偏見",
+        "Nederlands": "Vooroordelen",
+        "Chinese": "偏见"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Rights",
+        "British English": "Rights",
+        "Français": "Droits",
+        "한국어": "권리",
+        "Deutsche": "Rechte",
+        "Japanese": "権利",
+        "Nederlands": "Rechten",
+        "Chinese": "权利"
+      }
+    ]
+  },
+  "lesson Fire Drill Lesson": {
+    "list 1": [
+      {
+        "American English": "Alarm",
+        "British English": "Alarm",
+        "Français": "Alarme",
+        "한국어": "경보",
+        "Deutsche": "Alarm",
+        "Japanese": "アラーム",
+        "Nederlands": "Alarm",
+        "Chinese": "警报"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "burn",
+        "British English": "burn",
+        "Français": "brûler",
+        "한국어": "타오르다",
+        "Deutsche": "brennen",
+        "Japanese": "火傷",
+        "Nederlands": "brandwond",
+        "Chinese": "烧伤"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "damage",
+        "British English": "damage",
+        "Français": "endommager",
+        "한국어": "화상",
+        "Deutsche": "Schaden",
+        "Japanese": "損傷",
+        "Nederlands": "schade",
+        "Chinese": "损坏"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "emergency contact",
+        "British English": "emergency contact",
+        "Français": "personne à contacter en cas d'urgence",
+        "한국어": "비상 연락",
+        "Deutsche": "Notfallkontakt",
+        "Japanese": "緊急連絡先",
+        "Nederlands": "noodcontact",
+        "Chinese": "紧急联系"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "exit",
+        "British English": "exit",
+        "Français": "sortir",
+        "한국어": "출구",
+        "Deutsche": "Ausfahrt",
+        "Japanese": "出口",
+        "Nederlands": "uitgang",
+        "Chinese": "出口"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "fire",
+        "British English": "fire",
+        "Français": "Feu",
+        "한국어": "불",
+        "Deutsche": "Feuer",
+        "Japanese": "火災",
+        "Nederlands": "brand",
+        "Chinese": "火灾"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "fire drill",
+        "British English": "fire drill",
+        "Français": "exercice d'incendie",
+        "한국어": "소방",
+        "Deutsche": "Feuerübung",
+        "Japanese": "防火訓練",
+        "Nederlands": "brandoefening",
+        "Chinese": "消防演习"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "fire extinguisher",
+        "British English": "fire extinguisher",
+        "Français": "extincteur d'incendie",
+        "한국어": "소화기",
+        "Deutsche": "Feuerlöscher",
+        "Japanese": "消火器",
+        "Nederlands": "brandblusser",
+        "Chinese": "灭火器"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "fire hydrant",
+        "British English": "",
+        "Français": "bouche d'incendie",
+        "한국어": "소화전",
+        "Deutsche": "Feuerhydrant",
+        "Japanese": "消火栓",
+        "Nederlands": "brandkraan",
+        "Chinese": "消防栓"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "fire truck",
+        "British English": "fire engine",
+        "Français": "camion de pompier",
+        "한국어": "소방차",
+        "Deutsche": "Feuerwehrauto",
+        "Japanese": "消防車",
+        "Nederlands": "brandweerwagen",
+        "Chinese": "消防车"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "firefighter",
+        "British English": "fireman",
+        "Français": "sapeur pompier",
+        "한국어": "소방관",
+        "Deutsche": "Feuerwehrmann",
+        "Japanese": "消防士",
+        "Nederlands": "brandweer",
+        "Chinese": "消防员"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "safety",
+        "British English": "safety",
+        "Français": "sécurité",
+        "한국어": "안전",
+        "Deutsche": "Sicherheit",
+        "Japanese": "安全",
+        "Nederlands": "veiligheid",
+        "Chinese": "安全"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "smoke",
+        "British English": "smoke",
+        "Français": "fumée",
+        "한국어": "연기",
+        "Deutsche": "Rauch",
+        "Japanese": "煙",
+        "Nederlands": "rook",
+        "Chinese": "烟雾"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "stop, drop, and roll",
+        "British English": "stop, drop, and roll",
+        "Français": "arrêter, tomber, rouler",
+        "한국어": "멈추고 누워서 구른다",
+        "Deutsche": "anhalten, fallen lassen und rollen",
+        "Japanese": "ストップ、ドロップ、ロール",
+        "Nederlands": "stoppen, vallen en rollen",
+        "Chinese": "停、降、滚"
+      }
+    ]
+  },
+  "lesson Grocery Store Lesson": {
+    "list 1": [
+      {
+        "American English": "Aisle",
+        "British English": "Aisle",
+        "Français": "Allée",
+        "한국어": "통로",
+        "Deutsche": "Gang",
+        "Japanese": "通路",
+        "Nederlands": "Gangpad",
+        "Chinese": "过道"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Basket",
+        "British English": "Basket",
+        "Français": "Panier",
+        "한국어": "바구니",
+        "Deutsche": "Korb",
+        "Japanese": "バスケット",
+        "Nederlands": "Mand",
+        "Chinese": "篮子"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bottle",
+        "British English": "Bottle",
+        "Français": "Bouteille",
+        "한국어": "병",
+        "Deutsche": "Flasche",
+        "Japanese": "ボトル",
+        "Nederlands": "Fles",
+        "Chinese": "瓶子"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Can (canned food)",
+        "British English": "Can (canned food)",
+        "Français": "Canette (aliments en conserve)",
+        "한국어": "통조림",
+        "Deutsche": "Dose (Konserven)",
+        "Japanese": "缶詰",
+        "Nederlands": "Blik (ingeblikt voedsel)",
+        "Chinese": "罐头（罐装食品）"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Cart",
+        "British English": "shopping trolly",
+        "Français": "caddie",
+        "한국어": "카트",
+        "Deutsche": "Wagen",
+        "Japanese": "カート",
+        "Nederlands": "Kar",
+        "Chinese": "手推车"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Cashier",
+        "British English": "Cashier",
+        "Français": "La caissière",
+        "한국어": "출납원",
+        "Deutsche": "Kassierer",
+        "Japanese": "レジ",
+        "Nederlands": "Kassa",
+        "Chinese": "收银员"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "food store/market",
+        "British English": "indoor market",
+        "Français": "marché couvert",
+        "한국어": "식료품점",
+        "Deutsche": "Lebensmittelgeschäft/Markt",
+        "Japanese": "食品店/マーケット",
+        "Nederlands": "levensmiddelenwinkel/markt",
+        "Chinese": "食品店/市场"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "frozen food",
+        "British English": "frozen food",
+        "Français": "des surgelés",
+        "한국어": "냉동음식",
+        "Deutsche": "gefrorenes Essen",
+        "Japanese": "冷凍食品",
+        "Nederlands": "bevroren voedsel",
+        "Chinese": "冷冻食品"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "fruit",
+        "British English": "fruit",
+        "Français": "fruit",
+        "한국어": "과일",
+        "Deutsche": "Frucht",
+        "Japanese": "果物",
+        "Nederlands": "fruit",
+        "Chinese": "水果"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "meat",
+        "British English": "meat",
+        "Français": "Viande",
+        "한국어": "고기",
+        "Deutsche": "Fleisch",
+        "Japanese": "肉",
+        "Nederlands": "vlees",
+        "Chinese": "肉类"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "medicine",
+        "British English": "medicine",
+        "Français": "Médicament",
+        "한국어": "약",
+        "Deutsche": "Medizin",
+        "Japanese": "薬品",
+        "Nederlands": "medicijnen",
+        "Chinese": "药品"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "shelf",
+        "British English": "shelf",
+        "Français": "étagère",
+        "한국어": "선반",
+        "Deutsche": "Regal",
+        "Japanese": "棚",
+        "Nederlands": "schap",
+        "Chinese": "货架"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "soap",
+        "British English": "soap",
+        "Français": "du savon",
+        "한국어": "비누",
+        "Deutsche": "Seife",
+        "Japanese": "石鹸",
+        "Nederlands": "zeep",
+        "Chinese": "肥皂"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "toothbrush",
+        "British English": "toothbrush",
+        "Français": "brosse à dents",
+        "한국어": "칫솔",
+        "Deutsche": "Zahnbürste",
+        "Japanese": "歯ブラシ",
+        "Nederlands": "tandenborstel",
+        "Chinese": "牙刷"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "toothpaste",
+        "British English": "toothpaste",
+        "Français": "dentifrice",
+        "한국어": "치약",
+        "Deutsche": "Zahnpasta",
+        "Japanese": "歯磨き粉",
+        "Nederlands": "tandpasta",
+        "Chinese": "牙膏"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "vegetable",
+        "British English": "vegetable",
+        "Français": "légume",
+        "한국어": "채소",
+        "Deutsche": "Gemüse",
+        "Japanese": "野菜",
+        "Nederlands": "plantaardig",
+        "Chinese": "蔬菜"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "vitamin",
+        "British English": "vitamin",
+        "Français": "vitamine",
+        "한국어": "비타민",
+        "Deutsche": "Vitamin",
+        "Japanese": "ビタミン",
+        "Nederlands": "vitamine",
+        "Chinese": "维生素"
+      }
+    ]
+  },
+  "lesson Hospital Lesson": {
+    "list 1": [
+      {
+        "American English": "Ambulance",
+        "British English": "Ambulance",
+        "Français": "Ambulance",
+        "한국어": "구급차",
+        "Deutsche": "Krankenwagen",
+        "Japanese": "救急車",
+        "Nederlands": "Ambulance",
+        "Chinese": "救护车"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Bandage",
+        "British English": "Bandage / cast",
+        "Français": "Bandage",
+        "한국어": "붕대",
+        "Deutsche": "Bandage",
+        "Japanese": "包帯",
+        "Nederlands": "Verband",
+        "Chinese": "绷带"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bleed",
+        "British English": "Bleed",
+        "Français": "Saigner",
+        "한국어": "출혈",
+        "Deutsche": "Bluten",
+        "Japanese": "出血",
+        "Nederlands": "Bloeding",
+        "Chinese": "出血"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Blood",
+        "British English": "Blood",
+        "Français": "Du sang",
+        "한국어": "피",
+        "Deutsche": "Blut",
+        "Japanese": "血液",
+        "Nederlands": "Bloed",
+        "Chinese": "血液"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Cast (hospital)",
+        "British English": "Cast (hospital)",
+        "Français": "Casting (hôpital)",
+        "한국어": "깁스",
+        "Deutsche": "Besetzung (Krankenhaus)",
+        "Japanese": "ギプス（病院）",
+        "Nederlands": "Gipsverband (ziekenhuis)",
+        "Chinese": "石膏（医院）"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Crutches",
+        "British English": "Crutches",
+        "Français": "Béquilles",
+        "한국어": "목발",
+        "Deutsche": "Krücken",
+        "Japanese": "松葉杖",
+        "Nederlands": "Krukken",
+        "Chinese": "拐杖"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Doctor",
+        "British English": "Doctor",
+        "Français": "Docteur",
+        "한국어": "의사",
+        "Deutsche": "Arzt",
+        "Japanese": "医師",
+        "Nederlands": "Dokter",
+        "Chinese": "医生"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Emergency Room (ER)",
+        "British English": "Accident and Emergency (A&E)",
+        "Français": "Salle d'urgence",
+        "한국어": "응급실",
+        "Deutsche": "Notaufnahme (ER)",
+        "Japanese": "緊急治療室（ER）",
+        "Nederlands": "Eerste Hulp",
+        "Chinese": "急诊室"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Hurt/Injury/Pain",
+        "British English": "Hurt/Injury/Pain",
+        "Français": "Blessure/Blessure/Douleur",
+        "한국어": "상처/부상/고통",
+        "Deutsche": "Verletzung/Verletzung/Schmerz",
+        "Japanese": "怪我・痛み",
+        "Nederlands": "Pijn",
+        "Chinese": "受伤/疼痛"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Medical",
+        "British English": "Medical",
+        "Français": "Médical",
+        "한국어": "의료",
+        "Deutsche": "Medizinisch",
+        "Japanese": "医療",
+        "Nederlands": "Medisch",
+        "Chinese": "医疗"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Medicine",
+        "British English": "Medicine",
+        "Français": "Médecine",
+        "한국어": "약",
+        "Deutsche": "Medizin/Pille",
+        "Japanese": "薬",
+        "Nederlands": "Medicijnen",
+        "Chinese": "药物"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Pill",
+        "British English": "Pill",
+        "Français": "Pill",
+        "한국어": "알약",
+        "Deutsche": "Pille / Tablette",
+        "Japanese": "ピル",
+        "Nederlands": "Pill",
+        "Chinese": "药片"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Nurse",
+        "British English": "Nurse",
+        "Français": "Infirmière",
+        "한국어": "간호사",
+        "Deutsche": "Krankenschwester",
+        "Japanese": "看護師",
+        "Nederlands": "Verpleegkundige",
+        "Chinese": "护士"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Patient",
+        "British English": "Patient",
+        "Français": "Patient",
+        "한국어": "환자",
+        "Deutsche": "Geduldig",
+        "Japanese": "患者",
+        "Nederlands": "Patiënt",
+        "Chinese": "病人"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Surgery",
+        "British English": "Surgery",
+        "Français": "Opération",
+        "한국어": "수술",
+        "Deutsche": "Operation",
+        "Japanese": "手術",
+        "Nederlands": "Chirurgie",
+        "Chinese": "手术"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Vaccine Shot",
+        "British English": "Vaccine",
+        "Français": "Vaccin",
+        "한국어": "백신",
+        "Deutsche": "Impfstoff",
+        "Japanese": "ワクチン注射",
+        "Nederlands": "Vaccin",
+        "Chinese": "疫苗注射"
+      }
+    ],
+    "list 17": [
+      {
+        "American English": "Injection",
+        "British English": "Injection",
+        "Français": "Injection",
+        "한국어": "주사",
+        "Deutsche": "Injektion",
+        "Japanese": "注射",
+        "Nederlands": "Injectie",
+        "Chinese": "注射"
+      }
+    ],
+    "list 18": [
+      {
+        "American English": "Waiting Room",
+        "British English": "Waiting Room",
+        "Français": "Salle d'attente",
+        "한국어": "대기실",
+        "Deutsche": "Wartezimmer",
+        "Japanese": "待合室",
+        "Nederlands": "Wachtkamer",
+        "Chinese": "候诊室"
+      }
+    ],
+    "list 19": [
+      {
+        "American English": "Wheelchair",
+        "British English": "Wheelchair",
+        "Français": "Fauteuil roulant",
+        "한국어": "휠체어",
+        "Deutsche": "Rollstuhl",
+        "Japanese": "車椅子",
+        "Nederlands": "Rolstoel",
+        "Chinese": "轮椅"
+      }
+    ]
+  },
+  "lesson Journey Lesson": {
+    "list 1": [
+      {
+        "American English": "Adventure",
+        "British English": "Adventure",
+        "Français": "Aventure",
+        "한국어": "모험",
+        "Deutsche": "Abenteuer",
+        "Japanese": "アドベンチャー",
+        "Nederlands": "Avontuur",
+        "Chinese": "探险"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Camera",
+        "British English": "Camera",
+        "Français": "Caméra",
+        "한국어": "카메라",
+        "Deutsche": "Nocken",
+        "Japanese": "カメラ",
+        "Nederlands": "Camera",
+        "Chinese": "照相机"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Explore",
+        "British English": "Explore",
+        "Français": "Explorer",
+        "한국어": "탐험하다",
+        "Deutsche": "Erkunden",
+        "Japanese": "探検",
+        "Nederlands": "Verken",
+        "Chinese": "探险"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Group picture",
+        "British English": "Group picture",
+        "Français": "Photo de groupe",
+        "한국어": "단체 사진",
+        "Deutsche": "Gruppenbild",
+        "Japanese": "集合写真",
+        "Nederlands": "Groepsfoto",
+        "Chinese": "合影"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Loading",
+        "British English": "Loading",
+        "Français": "Chargement",
+        "한국어": "짐",
+        "Deutsche": "Wird geladen",
+        "Japanese": "読み込み",
+        "Nederlands": "Laden",
+        "Chinese": "加载中"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Picture/photo",
+        "British English": "Picture/photo",
+        "Français": "Image photo",
+        "한국어": "사진",
+        "Deutsche": "Bild Foto",
+        "Japanese": "写真",
+        "Nederlands": "Foto",
+        "Chinese": "图片/照片"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Portal",
+        "British English": "Portal (VR)",
+        "Français": "Portail",
+        "한국어": "포탈",
+        "Deutsche": "Portal",
+        "Japanese": "ポータル",
+        "Nederlands": "Portaal",
+        "Chinese": "门户网站"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Private",
+        "British English": "Private",
+        "Français": "Privé",
+        "한국어": "개인",
+        "Deutsche": "Privatgelände",
+        "Japanese": "プライベート",
+        "Nederlands": "Privé",
+        "Chinese": "私人"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Public",
+        "British English": "Public",
+        "Français": "Public",
+        "한국어": "공용",
+        "Deutsche": "Öffentlich",
+        "Japanese": "公開",
+        "Nederlands": "Openbaar",
+        "Chinese": "公开"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Respawn",
+        "British English": "Respawn (VR)",
+        "Français": "Réapparition",
+        "한국어": "리스폰",
+        "Deutsche": "respawnen",
+        "Japanese": "リスポーン",
+        "Nederlands": "Vergroten",
+        "Chinese": "重生"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Search",
+        "British English": "Search",
+        "Français": "Chercher",
+        "한국어": "검색",
+        "Deutsche": "Suchen",
+        "Japanese": "検索",
+        "Nederlands": "Zoeken",
+        "Chinese": "搜索"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Take (a) picture",
+        "British English": "Take (a) Picture",
+        "Français": "Prendre une photo",
+        "한국어": "사진을 찍다",
+        "Deutsche": "Machen Sie ein Foto",
+        "Japanese": "写真を撮る",
+        "Nederlands": "Maak (een) foto",
+        "Chinese": "拍照"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "World hopping",
+        "British English": "World traveling (IRL)",
+        "Français": "Tour du monde",
+        "한국어": "세계일주",
+        "Deutsche": "Welthüpfen (IRL)",
+        "Japanese": "ワールドホッピング",
+        "Nederlands": "Wereld hoppen",
+        "Chinese": "跳转世界"
+      }
+    ]
+  },
+  "lesson Kitchen Lesson": {
+    "list 1": [
+      {
+        "American English": "Apron",
+        "British English": "Apron",
+        "Français": "Tablier",
+        "한국어": "앞치마",
+        "Deutsche": "Schürze",
+        "Japanese": "エプロン",
+        "Nederlands": "Schort",
+        "Chinese": "围裙"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Bake",
+        "British English": "Bake",
+        "Français": "Cuire",
+        "한국어": "굽다",
+        "Deutsche": "Backen",
+        "Japanese": "焼く",
+        "Nederlands": "Bak",
+        "Chinese": "烤箱"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Bowl",
+        "British English": "Bowl",
+        "Français": "Bol",
+        "한국어": "그릇",
+        "Deutsche": "Schüssel",
+        "Japanese": "ボウル",
+        "Nederlands": "Kom",
+        "Chinese": "碗"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Cook",
+        "British English": "Cook",
+        "Français": "Cuisiner",
+        "한국어": "요리하다",
+        "Deutsche": "Kochen",
+        "Japanese": "クック",
+        "Nederlands": "Kook",
+        "Chinese": "炊具"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Fork",
+        "British English": "Fork",
+        "Français": "Fourchette",
+        "한국어": "포크",
+        "Deutsche": "Gabel",
+        "Japanese": "フォーク",
+        "Nederlands": "Vork",
+        "Chinese": "叉子"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Kitchen",
+        "British English": "Kitchen",
+        "Français": "Cuisine",
+        "한국어": "부엌/주방",
+        "Deutsche": "Küche",
+        "Japanese": "キッチン",
+        "Nederlands": "Keuken",
+        "Chinese": "厨房"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Knife",
+        "British English": "Knife",
+        "Français": "Couteau",
+        "한국어": "칼",
+        "Deutsche": "Messer",
+        "Japanese": "ナイフ",
+        "Nederlands": "Mes",
+        "Chinese": "刀"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Microwave",
+        "British English": "Microwave",
+        "Français": "Four micro onde",
+        "한국어": "전자레인지",
+        "Deutsche": "Mikrowelle",
+        "Japanese": "電子レンジ",
+        "Nederlands": "Magnetron",
+        "Chinese": "微波炉"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Napkin",
+        "British English": "Napkin",
+        "Français": "Serviette",
+        "한국어": "냅킨",
+        "Deutsche": "Serviette",
+        "Japanese": "ナプキン",
+        "Nederlands": "Servet",
+        "Chinese": "餐巾纸"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Oven",
+        "British English": "Oven",
+        "Français": "Four",
+        "한국어": "오븐",
+        "Deutsche": "Ofen",
+        "Japanese": "オーブン",
+        "Nederlands": "Oven",
+        "Chinese": "烤箱"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Plate",
+        "British English": "Plate",
+        "Français": "Plaque",
+        "한국어": "접시",
+        "Deutsche": "Platte",
+        "Japanese": "皿",
+        "Nederlands": "Bord",
+        "Chinese": "盘子"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Spoon",
+        "British English": "Spoon",
+        "Français": "Cuillère",
+        "한국어": "숟가락",
+        "Deutsche": "Löffel",
+        "Japanese": "スプーン",
+        "Nederlands": "Lepel",
+        "Chinese": "汤匙"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Stove",
+        "British English": "Stove",
+        "Français": "Poêle",
+        "한국어": "가스레인지",
+        "Deutsche": "Herd",
+        "Japanese": "コンロ",
+        "Nederlands": "Fornuis",
+        "Chinese": "炉灶"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Toaster",
+        "British English": "Toaster",
+        "Français": "Grille-pain",
+        "한국어": "토스터",
+        "Deutsche": "Toaster",
+        "Japanese": "トースター",
+        "Nederlands": "Broodrooster",
+        "Chinese": "烤面包机"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Tray",
+        "British English": "Tray",
+        "Français": "Plateau",
+        "한국어": "쟁반",
+        "Deutsche": "Tablett",
+        "Japanese": "トレイ",
+        "Nederlands": "Dienblad",
+        "Chinese": "托盘"
+      }
+    ]
+  },
+  "lesson LGBT": {
+    "list 1": [
+      {
+        "American English": "Ally",
+        "British English": "Ally",
+        "Français": "Allié",
+        "한국어": "동맹하다",
+        "Deutsche": "Verbündete",
+        "Japanese": "アリー",
+        "Nederlands": "Bondgenoot",
+        "Chinese": "盟友"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Asexual",
+        "British English": "Asexual",
+        "Français": "Asexué",
+        "한국어": "무성애자",
+        "Deutsche": "Asexuell",
+        "Japanese": "アセクシュアル",
+        "Nederlands": "Aseksueel",
+        "Chinese": "无性恋"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Awareness",
+        "British English": "Awareness",
+        "Français": "Conscience",
+        "한국어": "의식",
+        "Deutsche": "Bewusstsein",
+        "Japanese": "アウェアネス",
+        "Nederlands": "Bewustzijn",
+        "Chinese": "意识"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Banner",
+        "British English": "Banner (Sign)",
+        "Français": "Bannière",
+        "한국어": "현수막",
+        "Deutsche": "Banner",
+        "Japanese": "バナー",
+        "Nederlands": "Banner",
+        "Chinese": "旗帜"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Bisexual",
+        "British English": "Bisexual",
+        "Français": "Bisexuel",
+        "한국어": "양성애자",
+        "Deutsche": "Bisexuell",
+        "Japanese": "バイセクシュアル",
+        "Nederlands": "Biseksueel",
+        "Chinese": "双性恋"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Flag",
+        "British English": "Flag",
+        "Français": "Drapeau",
+        "한국어": "깃발",
+        "Deutsche": "Flagge",
+        "Japanese": "フラッグ",
+        "Nederlands": "Vlag",
+        "Chinese": "旗帜"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Gay",
+        "British English": "Gay",
+        "Français": "Homosexuel",
+        "한국어": "남자 동성애자",
+        "Deutsche": "Fröhlich",
+        "Japanese": "ゲイ",
+        "Nederlands": "Homo",
+        "Chinese": "同性恋"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "History",
+        "British English": "History",
+        "Français": "L'histoire",
+        "한국어": "역사",
+        "Deutsche": "Geschichte",
+        "Japanese": "歴史",
+        "Nederlands": "Geschiedenis",
+        "Chinese": "历史"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Intersex",
+        "British English": "Intersex",
+        "Français": "Intersexe",
+        "한국어": "중성애자",
+        "Deutsche": "Intersexuell",
+        "Japanese": "インターセックス",
+        "Nederlands": "Interseks",
+        "Chinese": "双性恋"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Lesbian",
+        "British English": "Lesbian",
+        "Français": "Lesbienne",
+        "한국어": "여자 동성애자",
+        "Deutsche": "Lesbisch",
+        "Japanese": "レズビアン",
+        "Nederlands": "Lesbisch",
+        "Chinese": "女同性恋"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Pansexual",
+        "British English": "Pansexual",
+        "Français": "Pansexuel",
+        "한국어": "범성애자",
+        "Deutsche": "Pansexuell",
+        "Japanese": "パンセクシャル",
+        "Nederlands": "Panseksueel",
+        "Chinese": "泛双性恋"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Parade",
+        "British English": "Parade",
+        "Français": "Parade",
+        "한국어": "행진",
+        "Deutsche": "Parade",
+        "Japanese": "パレード",
+        "Nederlands": "Parade",
+        "Chinese": "游行"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Pride",
+        "British English": "Pride",
+        "Français": "Fierté",
+        "한국어": "자랑, 자부심",
+        "Deutsche": "Stolz",
+        "Japanese": "プライド",
+        "Nederlands": "Trots",
+        "Chinese": "骄傲"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Queer",
+        "British English": "Queer",
+        "Français": "Queer",
+        "한국어": "성소수자",
+        "Deutsche": "Seltsam",
+        "Japanese": "クィア",
+        "Nederlands": "Queer",
+        "Chinese": "同性恋"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Rainbow",
+        "British English": "Rainbow",
+        "Français": "Arc-en-ciel",
+        "한국어": "6색 무지개",
+        "Deutsche": "Regenbogen",
+        "Japanese": "レインボー",
+        "Nederlands": "Regenboog",
+        "Chinese": "彩虹"
+      }
+    ],
+    "list 16": [
+      {
+        "American English": "Transgender",
+        "British English": "Transgender",
+        "Français": "transgenres",
+        "한국어": "성전환자",
+        "Deutsche": "Transgender",
+        "Japanese": "トランスジェンダー",
+        "Nederlands": "Transgender",
+        "Chinese": "变性人"
+      }
+    ]
+  },
+  "lesson Literature Lesson": {
+    "list 1": [
+      {
+        "American English": "Book",
+        "British English": "Book",
+        "Français": "Livre",
+        "한국어": "책",
+        "Deutsche": "Buch",
+        "Japanese": "書籍",
+        "Nederlands": "Boek",
+        "Chinese": "书籍"
+      }
+    ],
+    "list 2": [
+      {
+        "American English": "Chapter",
+        "British English": "Chapter",
+        "Français": "Chapitre",
+        "한국어": "(책의) 장",
+        "Deutsche": "Kapitel",
+        "Japanese": "チャプター",
+        "Nederlands": "Hoofdstuk",
+        "Chinese": "章节"
+      }
+    ],
+    "list 3": [
+      {
+        "American English": "Comprehension",
+        "British English": "Comprehension",
+        "Français": "Compréhension",
+        "한국어": "습득력",
+        "Deutsche": "Verständnis",
+        "Japanese": "理解度",
+        "Nederlands": "Begrip",
+        "Chinese": "理解"
+      }
+    ],
+    "list 4": [
+      {
+        "American English": "Conclusion",
+        "British English": "Conclusion",
+        "Français": "Conclusion",
+        "한국어": "결말",
+        "Deutsche": "Abschluss",
+        "Japanese": "結論",
+        "Nederlands": "Conclusie",
+        "Chinese": "结论"
+      }
+    ],
+    "list 5": [
+      {
+        "American English": "Dictionary",
+        "British English": "Dictionary",
+        "Français": "Dictionnaire",
+        "한국어": "사전",
+        "Deutsche": "Wörterbuch",
+        "Japanese": "辞書",
+        "Nederlands": "Woordenboek",
+        "Chinese": "词典"
+      }
+    ],
+    "list 6": [
+      {
+        "American English": "Grammar",
+        "British English": "Grammar",
+        "Français": "Grammaire",
+        "한국어": "문법",
+        "Deutsche": "Grammatik",
+        "Japanese": "文法",
+        "Nederlands": "Grammatica",
+        "Chinese": "语法"
+      }
+    ],
+    "list 7": [
+      {
+        "American English": "Introduction",
+        "British English": "Introduction",
+        "Français": "Introduction",
+        "한국어": "소개",
+        "Deutsche": "Einführung",
+        "Japanese": "はじめに",
+        "Nederlands": "Inleiding",
+        "Chinese": "简介"
+      }
+    ],
+    "list 8": [
+      {
+        "American English": "Knowledge",
+        "British English": "Knowledge",
+        "Français": "Connaissance",
+        "한국어": "지식",
+        "Deutsche": "Wissen",
+        "Japanese": "知識",
+        "Nederlands": "Kennis",
+        "Chinese": "知识"
+      }
+    ],
+    "list 9": [
+      {
+        "American English": "Paragraph",
+        "British English": "Paragraph",
+        "Français": "Paragraphe",
+        "한국어": "단락, 절",
+        "Deutsche": "Absatz",
+        "Japanese": "パラグラフ",
+        "Nederlands": "Alinea",
+        "Chinese": "段落"
+      }
+    ],
+    "list 10": [
+      {
+        "American English": "Revise",
+        "British English": "Revise",
+        "Français": "Réviser",
+        "한국어": "개정",
+        "Deutsche": "Überarbeiten",
+        "Japanese": "復習",
+        "Nederlands": "Herhalen",
+        "Chinese": "复习"
+      }
+    ],
+    "list 11": [
+      {
+        "American English": "Sentence",
+        "British English": "Sentence",
+        "Français": "Phrase",
+        "한국어": "문장",
+        "Deutsche": "Satz",
+        "Japanese": "文章",
+        "Nederlands": "Zin",
+        "Chinese": "句子"
+      }
+    ],
+    "list 12": [
+      {
+        "American English": "Story",
+        "British English": "Story",
+        "Français": "Histoire",
+        "한국어": "이야기",
+        "Deutsche": "Geschichte",
+        "Japanese": "ストーリー",
+        "Nederlands": "Verhaal",
+        "Chinese": "故事"
+      }
+    ],
+    "list 13": [
+      {
+        "American English": "Thesaurus",
+        "British English": "Thesaurus",
+        "Français": "Thésaurus",
+        "한국어": "유의어 사전",
+        "Deutsche": "Thesaurus",
+        "Japanese": "類語辞典",
+        "Nederlands": "Thesaurus",
+        "Chinese": "词库"
+      }
+    ],
+    "list 14": [
+      {
+        "American English": "Vocabulary",
+        "British English": "Vocabulary",
+        "Français": "Vocabulaire",
+        "한국어": "어휘, 용어",
+        "Deutsche": "Wortschatz",
+        "Japanese": "語彙",
+        "Nederlands": "Woordenschat",
+        "Chinese": "词汇"
+      }
+    ],
+    "list 15": [
+      {
+        "American English": "Word",
+        "British English": "Word",
+        "Français": "Mot",
+        "한국어": "단어",
+        "Deutsche": "Wort",
+        "Japanese": "単語",
+        "Nederlands": "Woord",
+        "Chinese": "单词"
+      }
+    ]
+  }
+}
