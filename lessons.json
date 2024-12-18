@@ -1162,6 +1162,200 @@
         }
       ]
     },
+    "Christmas Lesson": {
+      "01/16": [
+        {
+          "American English": "Christmas",
+          "British English": "Christmas",
+          "Chinese": "圣诞节",
+          "Deutsche": "Weihnachten",
+          "Français": "Noël",
+          "Japanese": "クリスマス",
+          "Nederlands": "Kerstmis",
+          "한국어": "크리스마스"
+        }
+      ],
+      "02/16": [
+        {
+          "American English": "Christmas Tree",
+          "British English": "Christmas Tree",
+          "Chinese": "圣诞树",
+          "Deutsche": "Weihnachtsbaum",
+          "Français": "Sapin de Noël",
+          "Japanese": "クリスマスツリー",
+          "Nederlands": "Kerstboom",
+          "한국어": "크리스마스트리"
+        }
+      ],
+      "03/16": [
+        {
+          "American English": "Gift",
+          "British English": "Gift",
+          "Chinese": "礼物",
+          "Deutsche": "Geschenk",
+          "Français": "Cadeau",
+          "Japanese": "プレゼント",
+          "Nederlands": "Cadeau",
+          "한국어": "선물"
+        }
+      ],
+      "04/16": [
+        {
+          "American English": "Family",
+          "British English": "Family",
+          "Chinese": "家人",
+          "Deutsche": "Familie",
+          "Français": "Famille",
+          "Japanese": "家族",
+          "Nederlands": "Familie",
+          "한국어": "가족"
+        }
+      ],
+      "05/16": [
+        {
+          "American English": "Yule Log (cake)",
+          "British English": "Yule Log (cake)",
+          "Chinese": "圣诞树干蛋糕",
+          "Deutsche": "Weihnachtsbaumkuchen",
+          "Français": "Bûche de Noël",
+          "Japanese": "ビュッシュ・ド・ノエル",
+          "Nederlands": "Kerststronk",
+          "한국어": "뷔슈 드 노엘"
+        }
+      ],
+      "06/16": [
+        {
+          "American English": "Turkey (bird)",
+          "British English": "Turkey (bird)",
+          "Chinese": "火鸡",
+          "Deutsche": "Truthahn",
+          "Français": "Dinde",
+          "Japanese": "七面鳥",
+          "Nederlands": "Kalkoen",
+          "한국어": "칠면조"
+        }
+      ],
+      "07/16": [
+        {
+          "American English": "Santa Claus",
+          "British English": "Santa Claus",
+          "Chinese": "圣诞老人",
+          "Deutsche": "Weihnachtsmann",
+          "Français": "Père Noël",
+          "Japanese": "サンタクロース",
+          "Nederlands": "Kerstman",
+          "한국어": "산타클로스"
+        }
+      ],
+      "08/16": [
+        {
+          "American English": "To decorate",
+          "British English": "To decorate",
+          "Chinese": "装饰",
+          "Deutsche": "Dekorieren",
+          "Français": "Décorer",
+          "Japanese": "飾る",
+          "Nederlands": "Versieren",
+          "한국어": "장식하다"
+        }
+      ],
+      "09/16": [
+        {
+          "American English": "Star",
+          "British English": "Star",
+          "Chinese": "星星",
+          "Deutsche": "Stern",
+          "Français": "Étoile",
+          "Japanese": "星",
+          "Nederlands": "Ster",
+          "한국어": "별"
+        }
+      ],
+      "10/16": [
+        {
+          "American English": "Garland / Christmas tree light",
+          "British English": "Garland / Christmas tree light",
+          "Chinese": "彩灯 / 花环",
+          "Deutsche": "Girlande / Lichterkette",
+          "Français": "Guirlande / Guirlande électrique",
+          "Japanese": "電飾",
+          "Nederlands": "Slinger / Kerstverlichting",
+          "한국어": "전구 / 전구 장식"
+        }
+      ],
+      "11/16": [
+        {
+          "American English": "Mistletoe",
+          "British English": "Mistletoe",
+          "Chinese": "槲寄生",
+          "Deutsche": "Mistelzweig",
+          "Français": "Gui",
+          "Japanese": "ヤドリギ",
+          "Nederlands": "Maretak",
+          "한국어": "겨우살이"
+        }
+      ],
+      "12/16": [
+        {
+          "American English": "Christmas Ball Ornaments",
+          "British English": "Christmas Ball Ornaments",
+          "Chinese": "圣诞球饰",
+          "Deutsche": "Christbaumkugeln",
+          "Français": "Boule de Noël",
+          "Japanese": "クリスマスボール",
+          "Nederlands": "Kerstbal",
+          "한국어": "크리스마스 장식"
+        }
+      ],
+      "13/16": [
+        {
+          "American English": "Reindeer",
+          "British English": "Reindeer",
+          "Chinese": "驯鹿",
+          "Deutsche": "Rentier",
+          "Français": "Renne",
+          "Japanese": "トナカイ",
+          "Nederlands": "Rendier",
+          "한국어": "순록"
+        }
+      ],
+      "14/16": [
+        {
+          "American English": "Snowman",
+          "British English": "Snowman",
+          "Chinese": "雪人",
+          "Deutsche": "Schneemann",
+          "Français": "Bonhomme de neige",
+          "Japanese": "雪だるま",
+          "Nederlands": "Sneeuwpop",
+          "한국어": "눈사람"
+        }
+      ],
+      "15/16": [
+        {
+          "American English": "Carols",
+          "British English": "Carols",
+          "Chinese": "圣诞颂歌",
+          "Deutsche": "Weihnachtslieder",
+          "Français": "Chants de Noël",
+          "Japanese": "クリスマスキャロル",
+          "Nederlands": "Kerstliederen",
+          "한국어": "크리스마스 캐럴"
+        }
+      ],
+      "16/16": [
+        {
+          "American English": "Snow",
+          "British English": "Snow",
+          "Chinese": "雪",
+          "Deutsche": "Schnee",
+          "Français": "Neige",
+          "Japanese": "雪",
+          "Nederlands": "Sneeuw",
+          "한국어": "눈"
+        }
+      ]
+    },
     "College Lesson": {
       "01/18": [
         {
