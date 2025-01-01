@@ -10,6 +10,20 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "Bonne Année",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -5825,6 +5839,20 @@
           "Japanese": "引く",
           "Nederlands": "",
           "한국어": "뺄셈"
+        }
+      ]
+    },
+    "New Year Lesson": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "Nouvel An",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
         }
       ]
     },
