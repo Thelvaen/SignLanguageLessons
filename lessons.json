@@ -11,13 +11,37 @@
   ],
   "lessons": {
     "": {
-      "01/01": [
+      "01/03": [
         {
           "American English": "",
-          "British English": "Bonne Année",
+          "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "",
+          "Français": "Bonne Année",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/03": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonne Santé",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "03/03": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Feu Artifice",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
@@ -5846,10 +5870,10 @@
       "01/01": [
         {
           "American English": "",
-          "British English": "Nouvel An",
+          "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "",
+          "Français": "Nouvel An",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
