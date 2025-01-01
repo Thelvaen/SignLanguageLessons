@@ -10,20 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/01": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Champagne",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -5843,10 +5829,10 @@
       ]
     },
     "New Year Lesson": {
-      "01/10": [
+      "01/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "New Year",
+          "British English": "New Year",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Nouvel an",
@@ -5855,10 +5841,10 @@
           "한국어": ""
         }
       ],
-      "02/10": [
+      "02/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Happy New Year",
+          "British English": "Happy New Year",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Bonne année",
@@ -5867,7 +5853,7 @@
           "한국어": ""
         }
       ],
-      "03/10": [
+      "03/11": [
         {
           "American English": "",
           "British English": "",
@@ -5879,7 +5865,7 @@
           "한국어": ""
         }
       ],
-      "04/10": [
+      "04/11": [
         {
           "American English": "",
           "British English": "",
@@ -5891,7 +5877,7 @@
           "한국어": ""
         }
       ],
-      "05/10": [
+      "05/11": [
         {
           "American English": "",
           "British English": "",
@@ -5903,7 +5889,7 @@
           "한국어": ""
         }
       ],
-      "06/10": [
+      "06/11": [
         {
           "American English": "",
           "British English": "",
@@ -5915,31 +5901,7 @@
           "한국어": ""
         }
       ],
-      "07/10": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Étrennes",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "08/10": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Galette des rois",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "09/10": [
+      "07/11": [
         {
           "American English": "",
           "British English": "",
@@ -5951,13 +5913,49 @@
           "한국어": ""
         }
       ],
-      "10/10": [
+      "08/11": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Fin d'année",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/11": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Étrennes",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/11": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Champagne",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "11/11": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Galette des rois",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
