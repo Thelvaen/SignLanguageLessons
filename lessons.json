@@ -10,68 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Compte à rebours",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Minuit",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "03/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Confetti",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "04/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Toast",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "05/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Célébrations",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -5891,7 +5829,7 @@
       ]
     },
     "New Year Lesson": {
-      "01/11": [
+      "01/16": [
         {
           "American English": "New Year",
           "British English": "New Year",
@@ -5903,7 +5841,7 @@
           "한국어": "새해"
         }
       ],
-      "02/11": [
+      "02/16": [
         {
           "American English": "Happy New Year",
           "British English": "Happy New Year",
@@ -5915,7 +5853,7 @@
           "한국어": "새해 복 많이 받으세요"
         }
       ],
-      "03/11": [
+      "03/16": [
         {
           "American English": "Good health",
           "British English": "Good health",
@@ -5927,7 +5865,7 @@
           "한국어": "건강하세요"
         }
       ],
-      "04/11": [
+      "04/16": [
         {
           "American English": "Happy holidays",
           "British English": "Happy holidays",
@@ -5939,7 +5877,7 @@
           "한국어": "즐거운 휴일 보내세요"
         }
       ],
-      "05/11": [
+      "05/16": [
         {
           "American English": "Good resolutions",
           "British English": "Good resolutions",
@@ -5951,7 +5889,7 @@
           "한국어": "좋은 결심"
         }
       ],
-      "06/11": [
+      "06/16": [
         {
           "American English": "Best wishes",
           "British English": "Best wishes",
@@ -5963,7 +5901,7 @@
           "한국어": "최고의 소원"
         }
       ],
-      "07/11": [
+      "07/16": [
         {
           "American English": "Fireworks",
           "British English": "Fireworks",
@@ -5975,7 +5913,7 @@
           "한국어": "불꽃놀이"
         }
       ],
-      "08/11": [
+      "08/16": [
         {
           "American English": "End of the year",
           "British English": "End of the year",
@@ -5987,7 +5925,7 @@
           "한국어": "연말"
         }
       ],
-      "09/11": [
+      "09/16": [
         {
           "American English": "New Year's gifts",
           "British English": "New Year's gifts",
@@ -5999,7 +5937,7 @@
           "한국어": "세뱃돈"
         }
       ],
-      "10/11": [
+      "10/16": [
         {
           "American English": "Champagne",
           "British English": "Champagne",
@@ -6011,7 +5949,7 @@
           "한국어": "샴페인"
         }
       ],
-      "11/11": [
+      "11/16": [
         {
           "American English": "King's cake/Epiphany cake",
           "British English": "King's cake/Epiphany cake",
@@ -6021,6 +5959,66 @@
           "Japanese": "ガレット・デ・ロワ",
           "Nederlands": "Driekoningentaart",
           "한국어": "갈레트 데 루아"
+        }
+      ],
+      "12/16": [
+        {
+          "American English": "Countdown",
+          "British English": "Countdown",
+          "Chinese": "倒计时",
+          "Deutsche": "Countdown",
+          "Français": "Compte à rebours",
+          "Japanese": "カウントダウン",
+          "Nederlands": "Aftellen",
+          "한국어": "카운트다운"
+        }
+      ],
+      "13/16": [
+        {
+          "American English": "Midnight",
+          "British English": "Midnight",
+          "Chinese": "午夜",
+          "Deutsche": "Mitternacht",
+          "Français": "Minuit",
+          "Japanese": "真夜中",
+          "Nederlands": "Middernacht",
+          "한국어": "자정"
+        }
+      ],
+      "14/16": [
+        {
+          "American English": "Confetti",
+          "British English": "Confetti",
+          "Chinese": "五彩纸屑",
+          "Deutsche": "Konfetti",
+          "Français": "Confettis",
+          "Japanese": "紙吹雪",
+          "Nederlands": "Confetti",
+          "한국어": "종이 조각"
+        }
+      ],
+      "15/16": [
+        {
+          "American English": "Toast",
+          "British English": "Toast",
+          "Chinese": "敬酒",
+          "Deutsche": "Trinkspruch",
+          "Français": "Toast",
+          "Japanese": "乾杯",
+          "Nederlands": "Toast",
+          "한국어": "건배"
+        }
+      ],
+      "16/16": [
+        {
+          "American English": "Celebration",
+          "British English": "Celebration",
+          "Chinese": "庆祝",
+          "Deutsche": "Feier",
+          "Français": "Célébration",
+          "Japanese": "お祝い",
+          "Nederlands": "Viering",
+          "한국어": "축하"
         }
       ]
     },
