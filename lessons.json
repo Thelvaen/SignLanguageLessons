@@ -10,6 +10,20 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/01": [
+        {
+          "American English": "King's cake/Epiphany cake",
+          "British English": "King's cake/Epiphany cake",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Galette des rois",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -5927,6 +5941,18 @@
       ],
       "09/11": [
         {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Faire la fête",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/11": [
+        {
           "American English": "New Year's gifts",
           "British English": "New Year's gifts",
           "Chinese": "",
@@ -5937,25 +5963,13 @@
           "한국어": ""
         }
       ],
-      "10/11": [
+      "11/11": [
         {
           "American English": "Champagne",
           "British English": "Champagne",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Champagne",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "11/11": [
-        {
-          "American English": "King's cake/Epiphany cake",
-          "British English": "King's cake/Epiphany cake",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Galette des rois",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
