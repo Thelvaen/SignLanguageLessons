@@ -10,6 +10,20 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Champagne",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -5829,7 +5843,7 @@
       ]
     },
     "New Year Lesson": {
-      "01/08": [
+      "01/10": [
         {
           "American English": "",
           "British English": "",
@@ -5841,7 +5855,7 @@
           "한국어": ""
         }
       ],
-      "02/08": [
+      "02/10": [
         {
           "American English": "",
           "British English": "",
@@ -5853,7 +5867,7 @@
           "한국어": ""
         }
       ],
-      "03/08": [
+      "03/10": [
         {
           "American English": "",
           "British English": "",
@@ -5865,7 +5879,7 @@
           "한국어": ""
         }
       ],
-      "04/08": [
+      "04/10": [
         {
           "American English": "",
           "British English": "",
@@ -5877,7 +5891,7 @@
           "한국어": ""
         }
       ],
-      "05/08": [
+      "05/10": [
         {
           "American English": "",
           "British English": "",
@@ -5889,19 +5903,19 @@
           "한국어": ""
         }
       ],
-      "06/08": [
+      "06/10": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "Voeux",
+          "Français": "Meilleur voeux",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
         }
       ],
-      "07/08": [
+      "07/10": [
         {
           "American English": "",
           "British English": "",
@@ -5913,13 +5927,37 @@
           "한국어": ""
         }
       ],
-      "08/08": [
+      "08/10": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Galette des rois",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonne fêtes",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Fin d'année",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
