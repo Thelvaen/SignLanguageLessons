@@ -11,7 +11,7 @@
   ],
   "lessons": {
     "": {
-      "01/04": [
+      "01/06": [
         {
           "American English": "",
           "British English": "",
@@ -23,7 +23,7 @@
           "한국어": ""
         }
       ],
-      "02/04": [
+      "02/06": [
         {
           "American English": "",
           "British English": "",
@@ -35,7 +35,7 @@
           "한국어": ""
         }
       ],
-      "03/04": [
+      "03/06": [
         {
           "American English": "",
           "British English": "",
@@ -47,13 +47,37 @@
           "한국어": ""
         }
       ],
-      "04/04": [
+      "04/06": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Bonne résolution",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "05/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Voeux",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Etrennes",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
