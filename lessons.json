@@ -5842,80 +5842,8 @@
         }
       ]
     },
-    "New Year Lesson": {
-      "01/11": [
-        {
-          "American English": "New Year",
-          "British English": "New Year",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Nouvel an",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/11": [
-        {
-          "American English": "Happy New Year",
-          "British English": "Happy New Year",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Bonne année",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "03/11": [
-        {
-          "American English": "Good health",
-          "British English": "Good health",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Bonne santé",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "04/11": [
-        {
-          "American English": "Happy holidays",
-          "British English": "Happy holidays",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Bonne fêtes",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "05/11": [
-        {
-          "American English": "Good resolutions",
-          "British English": "Good resolutions",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Bonnes résolutions",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "06/11": [
-        {
-          "American English": "Best wishes",
-          "British English": "Best wishes",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Meilleurs voeux",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "07/11": [
+    "New Year Lesson;Best wishes;Best wishes;Meilleurs voeux;최고의 소원;Beste Wünsche;良い願い;Beste wensen;最好的祝愿": {
+      "01/01": [
         {
           "American English": "Fireworks",
           "British English": "Fireworks",
@@ -5926,32 +5854,10 @@
           "Nederlands": "",
           "한국어": ""
         }
-      ],
-      "08/11": [
-        {
-          "American English": "End of the year",
-          "British English": "End of the year",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Fin d'année",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "09/11": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Faire la fête",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "10/11": [
+      ]
+    },
+    "New Year Lesson;Champagne;Champagne;Champagne;샴페인;Champagner;シャンパン;Champagne;香槟": {
+      "01/01": [
         {
           "American English": "New Year's gifts",
           "British English": "New Year's gifts",
@@ -5962,14 +5868,128 @@
           "Nederlands": "",
           "한국어": ""
         }
-      ],
-      "11/11": [
+      ]
+    },
+    "New Year Lesson;End of the year;End of the year;Fin d'année;연말;Jahresende;年末;Einde van het jaar;年终": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Faire la fête",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;Fireworks;Fireworks;Feu artifice;불꽃놀이;Feuerwerk;花火;Vuurwerk;烟花": {
+      "01/01": [
+        {
+          "American English": "End of the year",
+          "British English": "End of the year",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Fin d'année",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;Good health;Good health;Bonne santé;건강하세요;Gesundheit;健康;Goede gezondheid;身体健康": {
+      "01/01": [
+        {
+          "American English": "Happy holidays",
+          "British English": "Happy holidays",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonne fêtes",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;Good resolutions;Good resolutions;Bonnes résolutions;좋은 결심;Gute Vorsätze;良い決意;Goede voornemens;好的决心": {
+      "01/01": [
+        {
+          "American English": "Best wishes",
+          "British English": "Best wishes",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Meilleurs voeux",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;Happy New Year;Happy New Year;Bonne année;새해 복 많이 받으세요;Frohes Neues Jahr;明けましておめでとうございます;Gelukkig Nieuwjaar;新年快乐": {
+      "01/01": [
+        {
+          "American English": "Good health",
+          "British English": "Good health",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonne santé",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;Happy holidays;Happy holidays;Bonne fêtes;즐거운 휴일 보내세요;Schöne Feiertage;楽しい休日を;Fijne feestdagen;节日快乐": {
+      "01/01": [
+        {
+          "American English": "Good resolutions",
+          "British English": "Good resolutions",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonnes résolutions",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;King's cake/Epiphany cake;King's cake/Epiphany cake;Galette des rois;갈레트 데 루아;Dreikönigskuchen;ガレット・デ・ロワ;Driekoningentaart;国王蛋糕": {
+      "01/01": [
         {
           "American English": "Champagne",
           "British English": "Champagne",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Champagne",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;New Year's gifts;New Year's gifts;Étrennes;세뱃돈;Neujahrsgeschenke;お年玉;Nieuwjaarsgeschenken;新年礼物": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Minuit",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
+    "New Year Lesson;New Year;New Year;Nouvel an;새해;Neujahr;新年;Nieuwjaar;新年": {
+      "01/01": [
+        {
+          "American English": "Happy New Year",
+          "British English": "Happy New Year",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bonne année",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
@@ -6639,6 +6659,20 @@
           "Japanese": "",
           "Nederlands": "",
           "한국어": "겨울"
+        }
+      ]
+    },
+    "lesson;American English;British English;Français;한국어;Deutsche;Japanese;Nederlands;Chinese": {
+      "01/01": [
+        {
+          "American English": "New Year",
+          "British English": "New Year",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Nouvel an",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
         }
       ]
     }
