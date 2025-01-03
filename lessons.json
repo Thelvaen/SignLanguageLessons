@@ -2966,6 +2966,188 @@
         }
       ]
     },
+    "Day-to-Day Stores": {
+      "01/15": [
+        {
+          "American English": "Bakery",
+          "British English": "Bakery",
+          "Chinese": "面包店 (miànbāo diàn)",
+          "Deutsche": "Bäckerei",
+          "Français": "Boulangerie",
+          "Japanese": "パン屋 (panya)",
+          "Nederlands": "Bakkerij",
+          "한국어": "빵집"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Post Office",
+          "British English": "Post Office",
+          "Chinese": "邮局 (yóujú)",
+          "Deutsche": "Postamt",
+          "Français": "Poste",
+          "Japanese": "郵便局 (yūbinkyoku)",
+          "Nederlands": "Postkantoor",
+          "한국어": "우체국"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Bank",
+          "British English": "Bank",
+          "Chinese": "银行 (yínháng)",
+          "Deutsche": "Bank",
+          "Français": "Banque",
+          "Japanese": "銀行 (ginkō)",
+          "Nederlands": "Bank",
+          "한국어": "은행"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Pharmacy",
+          "British English": "Pharmacy",
+          "Chinese": "药店 (yàodiàn)",
+          "Deutsche": "Apotheke",
+          "Français": "Pharmacie",
+          "Japanese": "薬局 (yakkyoku)",
+          "Nederlands": "Apotheek",
+          "한국어": "약국"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Supermarket",
+          "British English": "Supermarket",
+          "Chinese": "超市 (chāoshì)",
+          "Deutsche": "Supermarkt",
+          "Français": "Supermarché",
+          "Japanese": "スーパーマーケット (sūpāmāketto)",
+          "Nederlands": "Supermarkt",
+          "한국어": "슈퍼마켓"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Library",
+          "British English": "Library",
+          "Chinese": "图书馆 (túshūguǎn)",
+          "Deutsche": "Bibliothek",
+          "Français": "Bibliothèque",
+          "Japanese": "図書館 (toshokan)",
+          "Nederlands": "Bibliotheek",
+          "한국어": "도서관"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Clothing Store",
+          "British English": "Clothes Shop",
+          "Chinese": "服装店 (fúzhuāng diàn)",
+          "Deutsche": "Bekleidungsgeschäft",
+          "Français": "Magasin de vêtements",
+          "Japanese": "洋服店 (yōfukuten)",
+          "Nederlands": "Kledingwinkel",
+          "한국어": "옷가게"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Bookstore",
+          "British English": "Bookshop",
+          "Chinese": "书店 (shūdiàn)",
+          "Deutsche": "Buchladen",
+          "Français": "Librairie",
+          "Japanese": "書店 (shoten)",
+          "Nederlands": "Boekhandel",
+          "한국어": "서점"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Butcher",
+          "British English": "Butcher",
+          "Chinese": "肉店 (ròudiàn)",
+          "Deutsche": "Metzgerei",
+          "Français": "Boucherie",
+          "Japanese": "肉屋 (nikuya)",
+          "Nederlands": "Slagerij",
+          "한국어": "정육점"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Grocery Store",
+          "British English": "Grocery Store",
+          "Chinese": "杂货店 (záhuò diàn)",
+          "Deutsche": "Lebensmittelgeschäft",
+          "Français": "Épicerie",
+          "Japanese": "食料品店 (shokuryōhinten)",
+          "Nederlands": "Kruidenierswinkel",
+          "한국어": "식료품점"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Flower Shop",
+          "British English": "Florist",
+          "Chinese": "花店 (huādiàn)",
+          "Deutsche": "Blumenladen",
+          "Français": "Fleuriste",
+          "Japanese": "花屋 (hanaya)",
+          "Nederlands": "Bloemenwinkel",
+          "한국어": "꽃가게"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Toy Store",
+          "British English": "Toy Shop",
+          "Chinese": "玩具店 (wánjù diàn)",
+          "Deutsche": "Spielzeugladen",
+          "Français": "Magasin de jouets",
+          "Japanese": "おもちゃ屋 (omochaya)",
+          "Nederlands": "Speelgoedwinkel",
+          "한국어": "장난감 가게"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Barber Shop",
+          "British English": "Barbers",
+          "Chinese": "理发店 (lǐfà diàn)",
+          "Deutsche": "Friseursalon",
+          "Français": "Salon de coiffure",
+          "Japanese": "床屋 (tokoya)",
+          "Nederlands": "Kapperszaak",
+          "한국어": "이발소"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Coffee Shop",
+          "British English": "Coffee Shop",
+          "Chinese": "咖啡店 (kāfēi diàn)",
+          "Deutsche": "Café",
+          "Français": "Café",
+          "Japanese": "喫茶店 (kissaten)",
+          "Nederlands": "Koffiewinkel",
+          "한국어": "커피숍"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Restaurant",
+          "British English": "Restaurant",
+          "Chinese": "餐厅 (cāntīng)",
+          "Deutsche": "Restaurant",
+          "Français": "Restaurant",
+          "Japanese": "レストラン (resutoran)",
+          "Nederlands": "Restaurant",
+          "한국어": "레스토랑"
+        }
+      ]
+    },
     "Desserts Lesson": {
       "01/13": [
         {
