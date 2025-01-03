@@ -3476,6 +3476,200 @@
         }
       ]
     },
+    "Family Lesson": {
+      "01/16": [
+        {
+          "American English": "Family",
+          "British English": "Family",
+          "Chinese": "家庭 (jiātíng)",
+          "Deutsche": "Familie",
+          "Français": "Famille",
+          "Japanese": "家族 (kazoku)",
+          "Nederlands": "Familie",
+          "한국어": "가족"
+        }
+      ],
+      "02/16": [
+        {
+          "American English": "Father",
+          "British English": "Father",
+          "Chinese": "父亲 (fùqīn)",
+          "Deutsche": "Vater",
+          "Français": "Père",
+          "Japanese": "父 (chichi)",
+          "Nederlands": "Vader",
+          "한국어": "아버지"
+        }
+      ],
+      "03/16": [
+        {
+          "American English": "Mother",
+          "British English": "Mother",
+          "Chinese": "母亲 (mǔqīn)",
+          "Deutsche": "Mutter",
+          "Français": "Mère",
+          "Japanese": "母 (haha)",
+          "Nederlands": "Moeder",
+          "한국어": "어머니"
+        }
+      ],
+      "04/16": [
+        {
+          "American English": "Parent",
+          "British English": "Parent",
+          "Chinese": "父母 (fùmǔ)",
+          "Deutsche": "Elternteil",
+          "Français": "Parent",
+          "Japanese": "親 (oya)",
+          "Nederlands": "Ouder",
+          "한국어": "부모"
+        }
+      ],
+      "05/16": [
+        {
+          "American English": "Brother",
+          "British English": "Brother",
+          "Chinese": "兄弟 (xiōngdì)",
+          "Deutsche": "Bruder",
+          "Français": "Frère",
+          "Japanese": "兄弟 (kyōdai)",
+          "Nederlands": "Broer",
+          "한국어": "형/오빠/남동생"
+        }
+      ],
+      "06/16": [
+        {
+          "American English": "Sister",
+          "British English": "Sister",
+          "Chinese": "姐妹 (jiěmèi)",
+          "Deutsche": "Schwester",
+          "Français": "Sœur",
+          "Japanese": "姉妹 (shimai)",
+          "Nederlands": "Zus",
+          "한국어": "누나/언니/여동생"
+        }
+      ],
+      "07/16": [
+        {
+          "American English": "Son",
+          "British English": "Son",
+          "Chinese": "儿子 (érzi)",
+          "Deutsche": "Sohn",
+          "Français": "Fils",
+          "Japanese": "息子 (musuko)",
+          "Nederlands": "Zoon",
+          "한국어": "아들"
+        }
+      ],
+      "08/16": [
+        {
+          "American English": "Daughter",
+          "British English": "Daughter",
+          "Chinese": "女儿 (nǚ'ér)",
+          "Deutsche": "Tochter",
+          "Français": "Fille",
+          "Japanese": "娘 (musume)",
+          "Nederlands": "Dochter",
+          "한국어": "딸"
+        }
+      ],
+      "09/16": [
+        {
+          "American English": "Grandfather",
+          "British English": "Grandfather",
+          "Chinese": "祖父 (zǔfù)",
+          "Deutsche": "Großvater",
+          "Français": "Grand-père",
+          "Japanese": "祖父 (sofu)",
+          "Nederlands": "Grootvader",
+          "한국어": "할아버지"
+        }
+      ],
+      "10/16": [
+        {
+          "American English": "Grandmother",
+          "British English": "Grandmother",
+          "Chinese": "祖母 (zǔmǔ)",
+          "Deutsche": "Großmutter",
+          "Français": "Grand-mère",
+          "Japanese": "祖母 (sobo)",
+          "Nederlands": "Grootmoeder",
+          "한국어": "할머니"
+        }
+      ],
+      "11/16": [
+        {
+          "American English": "Grandchild",
+          "British English": "Grandchild",
+          "Chinese": "孙子/孙女 (sūnzi/sūnnǚ)",
+          "Deutsche": "Enkelkind",
+          "Français": "Petit-enfant",
+          "Japanese": "孫 (mago)",
+          "Nederlands": "Kleinkind",
+          "한국어": "손주"
+        }
+      ],
+      "12/16": [
+        {
+          "American English": "Uncle",
+          "British English": "Uncle",
+          "Chinese": "叔叔/舅舅 (shūshu/jiùjiu)",
+          "Deutsche": "Onkel",
+          "Français": "Oncle",
+          "Japanese": "叔父/伯父 (oji)",
+          "Nederlands": "Oom",
+          "한국어": "삼촌/외삼촌"
+        }
+      ],
+      "13/16": [
+        {
+          "American English": "Aunt",
+          "British English": "Aunt",
+          "Chinese": "阿姨/姑姑 (āyí/gūgu)",
+          "Deutsche": "Tante",
+          "Français": "Tante",
+          "Japanese": "叔母/伯母 (oba)",
+          "Nederlands": "Tante",
+          "한국어": "이모/고모"
+        }
+      ],
+      "14/16": [
+        {
+          "American English": "Cousin",
+          "British English": "Cousin",
+          "Chinese": "堂兄弟姐妹 (táng xiōngdì jiěmèi)",
+          "Deutsche": "Cousin/Cousine",
+          "Français": "Cousin(e)",
+          "Japanese": "いとこ (itoko)",
+          "Nederlands": "Neef/nicht",
+          "한국어": "사촌"
+        }
+      ],
+      "15/16": [
+        {
+          "American English": "Nephew",
+          "British English": "Nephew",
+          "Chinese": "侄子 (zhízi)",
+          "Deutsche": "Neffe",
+          "Français": "Neveu",
+          "Japanese": "甥 (oi)",
+          "Nederlands": "Neefje",
+          "한국어": "조카(남자)"
+        }
+      ],
+      "16/16": [
+        {
+          "American English": "Niece",
+          "British English": "Niece",
+          "Chinese": "侄女 (zhínǚ)",
+          "Deutsche": "Nichte",
+          "Français": "Nièce",
+          "Japanese": "姪 (mei)",
+          "Nederlands": "Nichtje",
+          "한국어": "조카(여자)"
+        }
+      ]
+    },
     "Fire Drill Lesson": {
       "01/14": [
         {
