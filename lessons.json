@@ -6568,6 +6568,188 @@
         }
       ]
     },
+    "Personal Needs Lesson": {
+      "01/15": [
+        {
+          "American English": "Bathroom",
+          "British English": "Toilet",
+          "Chinese": "厕所 (cèsuǒ)",
+          "Deutsche": "Toilette",
+          "Français": "Toilettes",
+          "Japanese": "トイレ (toire)",
+          "Nederlands": "Toilet",
+          "한국어": "화장실"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Water",
+          "British English": "Water",
+          "Chinese": "水 (shuǐ)",
+          "Deutsche": "Wasser",
+          "Français": "Eau",
+          "Japanese": "水 (mizu)",
+          "Nederlands": "Water",
+          "한국어": "물"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Food",
+          "British English": "Food",
+          "Chinese": "食物 (shíwù)",
+          "Deutsche": "Essen",
+          "Français": "Nourriture",
+          "Japanese": "食べ物 (tabemono)",
+          "Nederlands": "Eten",
+          "한국어": "음식"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Help",
+          "British English": "Help",
+          "Chinese": "帮助 (bāngzhù)",
+          "Deutsche": "Hilfe",
+          "Français": "Aide",
+          "Japanese": "助けて (tasukete)",
+          "Nederlands": "Hulp",
+          "한국어": "도움"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Medicine",
+          "British English": "Medicine",
+          "Chinese": "药 (yào)",
+          "Deutsche": "Medizin",
+          "Français": "Médicament",
+          "Japanese": "薬 (kusuri)",
+          "Nederlands": "Medicijn",
+          "한국어": "약"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Sleep",
+          "British English": "Sleep",
+          "Chinese": "睡觉 (shuìjiào)",
+          "Deutsche": "Schlaf",
+          "Français": "Sommeil",
+          "Japanese": "睡眠 (suimin)",
+          "Nederlands": "Slaap",
+          "한국어": "잠"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Shower",
+          "British English": "Shower",
+          "Chinese": "淋浴 (línyù)",
+          "Deutsche": "Dusche",
+          "Français": "Douche",
+          "Japanese": "シャワー (shawā)",
+          "Nederlands": "Douche",
+          "한국어": "샤워"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Toothbrush",
+          "British English": "Toothbrush",
+          "Chinese": "牙刷 (yáshuā)",
+          "Deutsche": "Zahnbürste",
+          "Français": "Brosse à dents",
+          "Japanese": "歯ブラシ (haburashi)",
+          "Nederlands": "Tandenborstel",
+          "한국어": "칫솔"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Soap",
+          "British English": "Soap",
+          "Chinese": "肥皂 (féizào)",
+          "Deutsche": "Seife",
+          "Français": "Savon",
+          "Japanese": "石鹸 (sekken)",
+          "Nederlands": "Zeep",
+          "한국어": "비누"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Doctor",
+          "British English": "Doctor",
+          "Chinese": "医生 (yīshēng)",
+          "Deutsche": "Arzt",
+          "Français": "Docteur",
+          "Japanese": "医者 (isha)",
+          "Nederlands": "Dokter",
+          "한국어": "의사"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Pain",
+          "British English": "Pain",
+          "Chinese": "疼痛 (téngtòng)",
+          "Deutsche": "Schmerz",
+          "Français": "Douleur",
+          "Japanese": "痛み (itami)",
+          "Nederlands": "Pijn",
+          "한국어": "통증"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Lost",
+          "British English": "Lost",
+          "Chinese": "迷路 (mílù)",
+          "Deutsche": "Verloren",
+          "Français": "Perdu",
+          "Japanese": "迷った (mayotta)",
+          "Nederlands": "Verdwaald",
+          "한국어": "길을 잃음"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Phone",
+          "British English": "Phone",
+          "Chinese": "电话 (diànhuà)",
+          "Deutsche": "Telefon",
+          "Français": "Téléphone",
+          "Japanese": "電話 (denwa)",
+          "Nederlands": "Telefoon",
+          "한국어": "전화"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Clothing",
+          "British English": "Clothes",
+          "Chinese": "衣服 (yīfú)",
+          "Deutsche": "Kleidung",
+          "Français": "Vêtements",
+          "Japanese": "服 (fuku)",
+          "Nederlands": "Kleding",
+          "한국어": "옷"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Transportation",
+          "British English": "Transportation",
+          "Chinese": "交通 (jiāotōng)",
+          "Deutsche": "Transport",
+          "Français": "Transport",
+          "Japanese": "交通 (kōtsū)",
+          "Nederlands": "Vervoer",
+          "한국어": "교통"
+        }
+      ]
+    },
     "Postal Office Lesson": {
       "01/16": [
         {
