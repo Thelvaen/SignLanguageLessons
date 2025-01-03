@@ -3670,6 +3670,188 @@
         }
       ]
     },
+    "Feelings Lesson": {
+      "01/15": [
+        {
+          "American English": "Happy",
+          "British English": "Happy",
+          "Chinese": "开心 (kāixīn)",
+          "Deutsche": "Glücklich",
+          "Français": "Heureux",
+          "Japanese": "嬉しい (ureshii)",
+          "Nederlands": "Blij",
+          "한국어": "행복한"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Sad",
+          "British English": "Sad",
+          "Chinese": "伤心 (shāngxīn)",
+          "Deutsche": "Traurig",
+          "Français": "Triste",
+          "Japanese": "悲しい (kanashii)",
+          "Nederlands": "Verdrietig",
+          "한국어": "슬픈"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Angry",
+          "British English": "Angry",
+          "Chinese": "生气 (shēngqì)",
+          "Deutsche": "Wütend",
+          "Français": "En colère",
+          "Japanese": "怒っている (okotte iru)",
+          "Nederlands": "Boos",
+          "한국어": "화난"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Excited",
+          "British English": "Excited",
+          "Chinese": "兴奋 (xīngfèn)",
+          "Deutsche": "Aufgeregt",
+          "Français": "Excité",
+          "Japanese": "興奮している (kōfun shite iru)",
+          "Nederlands": "Opgewonden",
+          "한국어": "흥분한"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Tired",
+          "British English": "Tired",
+          "Chinese": "累 (lèi)",
+          "Deutsche": "Müde",
+          "Français": "Fatigué",
+          "Japanese": "疲れた (tsukareta)",
+          "Nederlands": "Moe",
+          "한국어": "피곤한"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Afraid",
+          "British English": "Afraid",
+          "Chinese": "害怕 (hàipà)",
+          "Deutsche": "Ängstlich",
+          "Français": "Effrayé",
+          "Japanese": "怖い (kowai)",
+          "Nederlands": "Bang",
+          "한국어": "두려운"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Confused",
+          "British English": "Confused",
+          "Chinese": "困惑 (kùnhuò)",
+          "Deutsche": "Verwirrt",
+          "Français": "Confus",
+          "Japanese": "混乱している (konran shite iru)",
+          "Nederlands": "Verward",
+          "한국어": "혼란스러운"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Embarrassed",
+          "British English": "Embarrassed",
+          "Chinese": "尴尬 (gāngà)",
+          "Deutsche": "Verlegen",
+          "Français": "Gêné",
+          "Japanese": "恥ずかしい (hazukashii)",
+          "Nederlands": "Beschaamd",
+          "한국어": "부끄러운"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Proud",
+          "British English": "Proud",
+          "Chinese": "自豪 (zìháo)",
+          "Deutsche": "Stolz",
+          "Français": "Fier",
+          "Japanese": "誇らしい (hokorashii)",
+          "Nederlands": "Trots",
+          "한국어": "자랑스러운"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Lonely",
+          "British English": "Lonely",
+          "Chinese": "孤独 (gūdú)",
+          "Deutsche": "Einsam",
+          "Français": "Seul",
+          "Japanese": "寂しい (sabishii)",
+          "Nederlands": "Eenzaam",
+          "한국어": "외로운"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Jealous",
+          "British English": "Jealous",
+          "Chinese": "嫉妒 (jídù)",
+          "Deutsche": "Eifersüchtig",
+          "Français": "Jaloux",
+          "Japanese": "嫉妬している (shitto shite iru)",
+          "Nederlands": "Jaloers",
+          "한국어": "질투하는"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Grateful",
+          "British English": "Grateful",
+          "Chinese": "感激 (gǎnjī)",
+          "Deutsche": "Dankbar",
+          "Français": "Reconnaissant",
+          "Japanese": "感謝している (kansha shite iru)",
+          "Nederlands": "Dankbaar",
+          "한국어": "감사한"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Surprised",
+          "British English": "Surprised",
+          "Chinese": "惊讶 (jīngyà)",
+          "Deutsche": "Überrascht",
+          "Français": "Surpris",
+          "Japanese": "驚いた (odorita)",
+          "Nederlands": "Verbaasd",
+          "한국어": "놀란"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Bored",
+          "British English": "Bored",
+          "Chinese": "无聊 (wúliáo)",
+          "Deutsche": "Langweilig",
+          "Français": "Ennuyé",
+          "Japanese": "退屈した (taikutsu shita)",
+          "Nederlands": "Verveeld",
+          "한국어": "지루한"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Calm",
+          "British English": "Calm",
+          "Chinese": "冷静 (lěngjìng)",
+          "Deutsche": "Ruhig",
+          "Français": "Calme",
+          "Japanese": "落ち着いた (ochitsuita)",
+          "Nederlands": "Kalm",
+          "한국어": "차분한"
+        }
+      ]
+    },
     "Fire Drill Lesson": {
       "01/14": [
         {
