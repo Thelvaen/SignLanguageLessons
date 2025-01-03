@@ -6675,6 +6675,188 @@
           "한국어": "겨울"
         }
       ]
+    },
+    "Weather Lesson": {
+      "01/15": [
+        {
+          "American English": "Rain",
+          "British English": "Rain",
+          "Chinese": "雨 (yǔ)",
+          "Deutsche": "Regen",
+          "Français": "Pluie",
+          "Japanese": "雨 (ame)",
+          "Nederlands": "Regen",
+          "한국어": "비"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Sunny",
+          "British English": "Sunny",
+          "Chinese": "晴朗 (qínglǎng)",
+          "Deutsche": "Sonnig",
+          "Français": "Ensoleillé",
+          "Japanese": "晴れ (hare)",
+          "Nederlands": "Zonnig",
+          "한국어": "맑음"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Cloudy",
+          "British English": "Cloudy",
+          "Chinese": "多云 (duōyún)",
+          "Deutsche": "Wolkig",
+          "Français": "Nuageux",
+          "Japanese": "曇り (kumori)",
+          "Nederlands": "Bewolkt",
+          "한국어": "흐림"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Windy",
+          "British English": "Windy",
+          "Chinese": "有风 (yǒu fēng)",
+          "Deutsche": "Windig",
+          "Français": "Venteux",
+          "Japanese": "風が強い (kaze ga tsuyoi)",
+          "Nederlands": "Winderig",
+          "한국어": "바람이 많음"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Snow",
+          "British English": "Snow",
+          "Chinese": "雪 (xuě)",
+          "Deutsche": "Schnee",
+          "Français": "Neige",
+          "Japanese": "雪 (yuki)",
+          "Nederlands": "Sneeuw",
+          "한국어": "눈"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Storm",
+          "British English": "Storm",
+          "Chinese": "暴风 (bàofēng)",
+          "Deutsche": "Sturm",
+          "Français": "Orage",
+          "Japanese": "嵐 (arashi)",
+          "Nederlands": "Storm",
+          "한국어": "폭풍"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Foggy",
+          "British English": "Foggy",
+          "Chinese": "有雾 (yǒu wù)",
+          "Deutsche": "Nebelig",
+          "Français": "Brumeux",
+          "Japanese": "霧 (kiri)",
+          "Nederlands": "Mistig",
+          "한국어": "안개가 낀"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Hot",
+          "British English": "Hot",
+          "Chinese": "热 (rè)",
+          "Deutsche": "Heiß",
+          "Français": "Chaud",
+          "Japanese": "暑い (atsui)",
+          "Nederlands": "Heet",
+          "한국어": "더움"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Cold",
+          "British English": "Cold",
+          "Chinese": "冷 (lěng)",
+          "Deutsche": "Kalt",
+          "Français": "Froid",
+          "Japanese": "寒い (samui)",
+          "Nederlands": "Koud",
+          "한국어": "추움"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Humid",
+          "British English": "Humid",
+          "Chinese": "潮湿 (cháoshī)",
+          "Deutsche": "Feucht",
+          "Français": "Humide",
+          "Japanese": "湿気の多い (shikke no ooi)",
+          "Nederlands": "Vochtig",
+          "한국어": "습함"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Dry",
+          "British English": "Dry",
+          "Chinese": "干燥 (gānzào)",
+          "Deutsche": "Trocken",
+          "Français": "Sec",
+          "Japanese": "乾燥した (kansō shita)",
+          "Nederlands": "Droog",
+          "한국어": "건조함"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Hail",
+          "British English": "Hail",
+          "Chinese": "冰雹 (bīngbáo)",
+          "Deutsche": "Hagel",
+          "Français": "Grêle",
+          "Japanese": "雹 (hyo)",
+          "Nederlands": "Hagel",
+          "한국어": "우박"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Lightning",
+          "British English": "Lightning",
+          "Chinese": "闪电 (shǎndiàn)",
+          "Deutsche": "Blitz",
+          "Français": "Éclair",
+          "Japanese": "稲妻 (inazuma)",
+          "Nederlands": "Bliksem",
+          "한국어": "번개"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Thunder",
+          "British English": "Thunder",
+          "Chinese": "雷声 (léishēng)",
+          "Deutsche": "Donner",
+          "Français": "Tonnerre",
+          "Japanese": "雷 (kaminari)",
+          "Nederlands": "Donder",
+          "한국어": "천둥"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Rainbow",
+          "British English": "Rainbow",
+          "Chinese": "彩虹 (cǎihóng)",
+          "Deutsche": "Regenbogen",
+          "Français": "Arc-en-ciel",
+          "Japanese": "虹 (niji)",
+          "Nederlands": "Regenboog",
+          "한국어": "무지개"
+        }
+      ]
     }
   }
 }
