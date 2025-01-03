@@ -7053,7 +7053,7 @@
       ]
     },
     "Weather Lesson": {
-      "01/15": [
+      "01/20": [
         {
           "American English": "Rain",
           "British English": "Rain",
@@ -7065,7 +7065,7 @@
           "한국어": "비"
         }
       ],
-      "02/15": [
+      "02/20": [
         {
           "American English": "Sunny",
           "British English": "Sunny",
@@ -7077,7 +7077,7 @@
           "한국어": "맑음"
         }
       ],
-      "03/15": [
+      "03/20": [
         {
           "American English": "Cloudy",
           "British English": "Cloudy",
@@ -7089,7 +7089,7 @@
           "한국어": "흐림"
         }
       ],
-      "04/15": [
+      "04/20": [
         {
           "American English": "Windy",
           "British English": "Windy",
@@ -7101,7 +7101,7 @@
           "한국어": "바람이 많음"
         }
       ],
-      "05/15": [
+      "05/20": [
         {
           "American English": "Snow",
           "British English": "Snow",
@@ -7113,7 +7113,7 @@
           "한국어": "눈"
         }
       ],
-      "06/15": [
+      "06/20": [
         {
           "American English": "Storm",
           "British English": "Storm",
@@ -7125,7 +7125,7 @@
           "한국어": "폭풍"
         }
       ],
-      "07/15": [
+      "07/20": [
         {
           "American English": "Foggy",
           "British English": "Foggy",
@@ -7137,7 +7137,7 @@
           "한국어": "안개가 낀"
         }
       ],
-      "08/15": [
+      "08/20": [
         {
           "American English": "Hot",
           "British English": "Hot",
@@ -7149,7 +7149,7 @@
           "한국어": "더움"
         }
       ],
-      "09/15": [
+      "09/20": [
         {
           "American English": "Cold",
           "British English": "Cold",
@@ -7161,7 +7161,7 @@
           "한국어": "추움"
         }
       ],
-      "10/15": [
+      "10/20": [
         {
           "American English": "Humid",
           "British English": "Humid",
@@ -7173,7 +7173,7 @@
           "한국어": "습함"
         }
       ],
-      "11/15": [
+      "11/20": [
         {
           "American English": "Dry",
           "British English": "Dry",
@@ -7185,7 +7185,7 @@
           "한국어": "건조함"
         }
       ],
-      "12/15": [
+      "12/20": [
         {
           "American English": "Hail",
           "British English": "Hail",
@@ -7197,7 +7197,7 @@
           "한국어": "우박"
         }
       ],
-      "13/15": [
+      "13/20": [
         {
           "American English": "Lightning",
           "British English": "Lightning",
@@ -7209,7 +7209,7 @@
           "한국어": "번개"
         }
       ],
-      "14/15": [
+      "14/20": [
         {
           "American English": "Thunder",
           "British English": "Thunder",
@@ -7221,7 +7221,7 @@
           "한국어": "천둥"
         }
       ],
-      "15/15": [
+      "15/20": [
         {
           "American English": "Rainbow",
           "British English": "Rainbow",
@@ -7231,6 +7231,66 @@
           "Japanese": "虹 (niji)",
           "Nederlands": "Regenboog",
           "한국어": "무지개"
+        }
+      ],
+      "16/20": [
+        {
+          "American English": "Spring",
+          "British English": "Spring",
+          "Chinese": "春天 (chūntiān)",
+          "Deutsche": "Frühling",
+          "Français": "Printemps",
+          "Japanese": "春 (haru)",
+          "Nederlands": "Lente",
+          "한국어": "봄"
+        }
+      ],
+      "17/20": [
+        {
+          "American English": "Summer",
+          "British English": "Summer",
+          "Chinese": "夏天 (xiàtiān)",
+          "Deutsche": "Sommer",
+          "Français": "Été",
+          "Japanese": "夏 (natsu)",
+          "Nederlands": "Zomer",
+          "한국어": "여름"
+        }
+      ],
+      "18/20": [
+        {
+          "American English": "Autumn",
+          "British English": "Autumn",
+          "Chinese": "秋天 (qiūtiān)",
+          "Deutsche": "Herbst",
+          "Français": "Automne",
+          "Japanese": "秋 (aki)",
+          "Nederlands": "Herfst",
+          "한국어": "가을"
+        }
+      ],
+      "19/20": [
+        {
+          "American English": "Winter",
+          "British English": "Winter",
+          "Chinese": "冬天 (dōngtiān)",
+          "Deutsche": "Winter",
+          "Français": "Hiver",
+          "Japanese": "冬 (fuyu)",
+          "Nederlands": "Winter",
+          "한국어": "겨울"
+        }
+      ],
+      "20/20": [
+        {
+          "American English": "Season",
+          "British English": "Season",
+          "Chinese": "季节 (jìjié)",
+          "Deutsche": "Jahreszeit",
+          "Français": "Saison",
+          "Japanese": "季節 (kisetsu)",
+          "Nederlands": "Seizoen",
+          "한국어": "계절"
         }
       ]
     }
