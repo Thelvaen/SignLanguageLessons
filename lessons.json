@@ -6944,6 +6944,188 @@
         }
       ]
     },
+    "Public Transportation Lesson": {
+      "01/15": [
+        {
+          "American English": "Bus",
+          "British English": "Bus",
+          "Chinese": "公交车 (gōngjiāochē)",
+          "Deutsche": "Bus",
+          "Français": "Bus",
+          "Japanese": "バス (basu)",
+          "Nederlands": "Bus",
+          "한국어": "버스"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Train",
+          "British English": "Train",
+          "Chinese": "火车 (huǒchē)",
+          "Deutsche": "Zug",
+          "Français": "Train",
+          "Japanese": "電車 (densha)",
+          "Nederlands": "Trein",
+          "한국어": "기차"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Subway",
+          "British English": "Underground",
+          "Chinese": "地铁 (dìtiě)",
+          "Deutsche": "U-Bahn",
+          "Français": "Métro",
+          "Japanese": "地下鉄 (chikatetsu)",
+          "Nederlands": "Metro",
+          "한국어": "지하철"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Taxi",
+          "British English": "Taxi",
+          "Chinese": "出租车 (chūzūchē)",
+          "Deutsche": "Taxi",
+          "Français": "Taxi",
+          "Japanese": "タクシー (takushī)",
+          "Nederlands": "Taxi",
+          "한국어": "택시"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Tram",
+          "British English": "Tram",
+          "Chinese": "电车 (diànchē)",
+          "Deutsche": "Straßenbahn",
+          "Français": "Tramway",
+          "Japanese": "路面電車 (romenden)",
+          "Nederlands": "Tram",
+          "한국어": "트램"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Ferry",
+          "British English": "Ferry",
+          "Chinese": "渡轮 (dùlún)",
+          "Deutsche": "Fähre",
+          "Français": "Ferry",
+          "Japanese": "フェリー (ferī)",
+          "Nederlands": "Veerboot",
+          "한국어": "페리"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Airport",
+          "British English": "Airport",
+          "Chinese": "机场 (jīchǎng)",
+          "Deutsche": "Flughafen",
+          "Français": "Aéroport",
+          "Japanese": "空港 (kūkō)",
+          "Nederlands": "Vliegveld",
+          "한국어": "공항"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Station",
+          "British English": "Station",
+          "Chinese": "车站 (chēzhàn)",
+          "Deutsche": "Bahnhof",
+          "Français": "Gare",
+          "Japanese": "駅 (eki)",
+          "Nederlands": "Station",
+          "한국어": "역"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Ticket",
+          "British English": "Ticket",
+          "Chinese": "票 (piào)",
+          "Deutsche": "Fahrkarte",
+          "Français": "Billet",
+          "Japanese": "切符 (kippu)",
+          "Nederlands": "Kaartje",
+          "한국어": "표"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Platform",
+          "British English": "Platform",
+          "Chinese": "站台 (zhàntái)",
+          "Deutsche": "Bahnsteig",
+          "Français": "Quai",
+          "Japanese": "プラットホーム (purattohōmu)",
+          "Nederlands": "Perron",
+          "한국어": "플랫폼"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Schedule",
+          "British English": "Timetable",
+          "Chinese": "时间表 (shíjiān biǎo)",
+          "Deutsche": "Fahrplan",
+          "Français": "Horaire",
+          "Japanese": "時刻表 (jikokuhyō)",
+          "Nederlands": "Dienstregeling",
+          "한국어": "시간표"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Route",
+          "British English": "Route",
+          "Chinese": "路线 (lùxiàn)",
+          "Deutsche": "Strecke",
+          "Français": "Itinéraire",
+          "Japanese": "ルート (rūto)",
+          "Nederlands": "Route",
+          "한국어": "노선"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Map",
+          "British English": "Map",
+          "Chinese": "地图 (dìtú)",
+          "Deutsche": "Karte",
+          "Français": "Carte",
+          "Japanese": "地図 (chizu)",
+          "Nederlands": "Kaart",
+          "한국어": "지도"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Driver",
+          "British English": "Driver",
+          "Chinese": "司机 (sījī)",
+          "Deutsche": "Fahrer",
+          "Français": "Chauffeur",
+          "Japanese": "運転手 (untenshu)",
+          "Nederlands": "Chauffeur",
+          "한국어": "운전사"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Passenger",
+          "British English": "Passenger",
+          "Chinese": "乘客 (chéngkè)",
+          "Deutsche": "Passagier",
+          "Français": "Passager",
+          "Japanese": "乗客 (jōkyaku)",
+          "Nederlands": "Passagier",
+          "한국어": "승객"
+        }
+      ]
+    },
     "School Courses Lesson": {
       "01/21": [
         {
