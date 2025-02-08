@@ -1162,6 +1162,188 @@
         }
       ]
     },
+    "Carnival": {
+      "01/15": [
+        {
+          "American English": "Parade",
+          "British English": "Parade",
+          "Chinese": "游行",
+          "Deutsche": "Parade",
+          "Français": "Défilé",
+          "Japanese": "パレード",
+          "Nederlands": "Optocht",
+          "한국어": "퍼레이드"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Mask",
+          "British English": "Mask",
+          "Chinese": "面具",
+          "Deutsche": "Maske",
+          "Français": "Masque",
+          "Japanese": "仮面",
+          "Nederlands": "Masker",
+          "한국어": "가면"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Costume",
+          "British English": "Costume",
+          "Chinese": "服装",
+          "Deutsche": "Kostüm",
+          "Français": "Costume",
+          "Japanese": "衣装",
+          "Nederlands": "Kostuum",
+          "한국어": "의상"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Samba",
+          "British English": "Samba",
+          "Chinese": "桑巴",
+          "Deutsche": "Samba",
+          "Français": "Samba",
+          "Japanese": "サンバ",
+          "Nederlands": "Samba",
+          "한국어": "삼바"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Celebration / Festivity / Party",
+          "British English": "Celebration / Festivity / Party",
+          "Chinese": "庆典 / 派对",
+          "Deutsche": "Feier / Fest / Party",
+          "Français": "Célébration / Fête",
+          "Japanese": "お祝い / 祭り / パーティー",
+          "Nederlands": "Viering / Feest",
+          "한국어": "축제 / 파티"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Confetti",
+          "British English": "Confetti",
+          "Chinese": "五彩纸屑",
+          "Deutsche": "Konfetti",
+          "Français": "Confettis",
+          "Japanese": "紙吹雪",
+          "Nederlands": "Confetti",
+          "한국어": "색종이 조각"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Float",
+          "British English": "Float",
+          "Chinese": "花车",
+          "Deutsche": "Karnevalswagen",
+          "Français": "Char de carnaval",
+          "Japanese": "山車",
+          "Nederlands": "Praalwagen",
+          "한국어": "카니발 플로트"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Music",
+          "British English": "Music",
+          "Chinese": "音乐",
+          "Deutsche": "Musik",
+          "Français": "Musique",
+          "Japanese": "音楽",
+          "Nederlands": "Muziek",
+          "한국어": "음악"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Dance",
+          "British English": "Dance",
+          "Chinese": "舞蹈",
+          "Deutsche": "Tanz",
+          "Français": "Danse",
+          "Japanese": "ダンス",
+          "Nederlands": "Dans",
+          "한국어": "춤"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Drum",
+          "British English": "Drum",
+          "Chinese": "鼓",
+          "Deutsche": "Trommel",
+          "Français": "Tambour",
+          "Japanese": "ドラム",
+          "Nederlands": "Drum",
+          "한국어": "드럼"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Street",
+          "British English": "Street",
+          "Chinese": "街道",
+          "Deutsche": "Straße",
+          "Français": "Rue",
+          "Japanese": "通り",
+          "Nederlands": "Straat",
+          "한국어": "거리"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Feathers",
+          "British English": "Feathers",
+          "Chinese": "羽毛",
+          "Deutsche": "Federn",
+          "Français": "Plumes",
+          "Japanese": "羽",
+          "Nederlands": "Veren",
+          "한국어": "깃털"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Glitter",
+          "British English": "Glitter",
+          "Chinese": "闪光",
+          "Deutsche": "Glitzer",
+          "Français": "Paillettes",
+          "Japanese": "キラキラ",
+          "Nederlands": "Glitters",
+          "한국어": "반짝이"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Mardi Gras",
+          "British English": "Mardi Gras",
+          "Chinese": "狂欢节",
+          "Deutsche": "Mardi Gras",
+          "Français": "Mardi Gras",
+          "Japanese": "マルディグラ",
+          "Nederlands": "Mardi Gras",
+          "한국어": "마르디 그라"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Crêpe",
+          "British English": "Crêpe",
+          "Chinese": "可丽饼",
+          "Deutsche": "Crêpe",
+          "Français": "Crêpe",
+          "Japanese": "クレープ",
+          "Nederlands": "Crêpe",
+          "한국어": "크레페"
+        }
+      ]
+    },
     "Christmas Lesson": {
       "01/16": [
         {
@@ -3670,6 +3852,200 @@
         }
       ]
     },
+    "Fantasy": {
+      "01/16": [
+        {
+          "American English": "Bow",
+          "British English": "Bow",
+          "Chinese": "弓",
+          "Deutsche": "Bogen",
+          "Français": "Arc",
+          "Japanese": "弓",
+          "Nederlands": "Boog",
+          "한국어": "활"
+        }
+      ],
+      "02/16": [
+        {
+          "American English": "Sword",
+          "British English": "Sword",
+          "Chinese": "剑",
+          "Deutsche": "Schwert",
+          "Français": "Épée",
+          "Japanese": "剣",
+          "Nederlands": "Zwaard",
+          "한국어": "검"
+        }
+      ],
+      "03/16": [
+        {
+          "American English": "Shield",
+          "British English": "Shield",
+          "Chinese": "盾",
+          "Deutsche": "Schild",
+          "Français": "Bouclier",
+          "Japanese": "盾",
+          "Nederlands": "Schild",
+          "한국어": "방패"
+        }
+      ],
+      "04/16": [
+        {
+          "American English": "Staff / Wand",
+          "British English": "Staff / Wand",
+          "Chinese": "法杖 / 魔杖",
+          "Deutsche": "Stab / Zauberstab",
+          "Français": "Bâton / Baguette",
+          "Japanese": "杖 / ワンド",
+          "Nederlands": "Staf / Toverstok",
+          "한국어": "지팡이 / 완드"
+        }
+      ],
+      "05/16": [
+        {
+          "American English": "Gun (shoot)",
+          "British English": "Gun (shoot)",
+          "Chinese": "枪",
+          "Deutsche": "Pistole",
+          "Français": "Pistolet",
+          "Japanese": "銃",
+          "Nederlands": "Pistool",
+          "한국어": "총"
+        }
+      ],
+      "06/16": [
+        {
+          "American English": "Power",
+          "British English": "Power",
+          "Chinese": "力量",
+          "Deutsche": "Macht",
+          "Français": "Pouvoir",
+          "Japanese": "力",
+          "Nederlands": "Kracht",
+          "한국어": "힘"
+        }
+      ],
+      "07/16": [
+        {
+          "American English": "Healing",
+          "British English": "Healing",
+          "Chinese": "治愈",
+          "Deutsche": "Heilung",
+          "Français": "Guérison",
+          "Japanese": "癒し",
+          "Nederlands": "Genezing",
+          "한국어": "치유"
+        }
+      ],
+      "08/16": [
+        {
+          "American English": "Resurrect",
+          "British English": "Resurrect",
+          "Chinese": "复活",
+          "Deutsche": "Auferstehen",
+          "Français": "Ressusciter",
+          "Japanese": "蘇る",
+          "Nederlands": "Wederopstanding",
+          "한국어": "부활"
+        }
+      ],
+      "09/16": [
+        {
+          "American English": "Angel",
+          "British English": "Angel",
+          "Chinese": "天使",
+          "Deutsche": "Engel",
+          "Français": "Ange",
+          "Japanese": "天使",
+          "Nederlands": "Engel",
+          "한국어": "천사"
+        }
+      ],
+      "10/16": [
+        {
+          "American English": "Demon",
+          "British English": "Demon",
+          "Chinese": "恶魔",
+          "Deutsche": "Dämon",
+          "Français": "Démon",
+          "Japanese": "悪魔",
+          "Nederlands": "Demon",
+          "한국어": "악마"
+        }
+      ],
+      "11/16": [
+        {
+          "American English": "Dragon",
+          "British English": "Dragon",
+          "Chinese": "龙",
+          "Deutsche": "Drache",
+          "Français": "Dragon",
+          "Japanese": "ドラゴン",
+          "Nederlands": "Draak",
+          "한국어": "용"
+        }
+      ],
+      "12/16": [
+        {
+          "American English": "Elf",
+          "British English": "Elf",
+          "Chinese": "精灵",
+          "Deutsche": "Elf",
+          "Français": "Elfe",
+          "Japanese": "エルフ",
+          "Nederlands": "Elf",
+          "한국어": "엘프"
+        }
+      ],
+      "13/16": [
+        {
+          "American English": "Ghost / Soul / Spirit",
+          "British English": "Ghost / Soul / Spirit",
+          "Chinese": "鬼魂 / 灵魂 / 精灵",
+          "Deutsche": "Geist / Seele / Geist",
+          "Français": "Fantôme / Âme / Esprit",
+          "Japanese": "幽霊 / 魂 / 精霊",
+          "Nederlands": "Geest / Ziel / Geest",
+          "한국어": "유령 / 영혼"
+        }
+      ],
+      "14/16": [
+        {
+          "American English": "Human",
+          "British English": "Human",
+          "Chinese": "人类",
+          "Deutsche": "Mensch",
+          "Français": "Humain",
+          "Japanese": "人間",
+          "Nederlands": "Mens",
+          "한국어": "인간"
+        }
+      ],
+      "15/16": [
+        {
+          "American English": "Monster",
+          "British English": "Monster",
+          "Chinese": "怪物",
+          "Deutsche": "Monster",
+          "Français": "Monstre",
+          "Japanese": "モンスター",
+          "Nederlands": "Monster",
+          "한국어": "괴물"
+        }
+      ],
+      "16/16": [
+        {
+          "American English": "Zombie",
+          "British English": "Zombie",
+          "Chinese": "僵尸",
+          "Deutsche": "Zombie",
+          "Français": "Zombie",
+          "Japanese": "ゾンビ",
+          "Nederlands": "Zombie",
+          "한국어": "좀비"
+        }
+      ]
+    },
     "Feelings Lesson": {
       "01/15": [
         {
@@ -5986,6 +6362,188 @@
         }
       ]
     },
+    "Machine": {
+      "01/15": [
+        {
+          "American English": "Rocket",
+          "British English": "Rocket",
+          "Chinese": "火箭",
+          "Deutsche": "Rakete",
+          "Français": "Fusée",
+          "Japanese": "ロケット",
+          "Nederlands": "Raket",
+          "한국어": "로켓"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Car",
+          "British English": "Car",
+          "Chinese": "汽车",
+          "Deutsche": "Auto",
+          "Français": "Voiture",
+          "Japanese": "車",
+          "Nederlands": "Auto",
+          "한국어": "자동차"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Truck",
+          "British English": "Truck",
+          "Chinese": "卡车",
+          "Deutsche": "LKW",
+          "Français": "Camion",
+          "Japanese": "トラック",
+          "Nederlands": "Vrachtwagen",
+          "한국어": "트럭"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Bicycle",
+          "British English": "Bicycle",
+          "Chinese": "自行车",
+          "Deutsche": "Fahrrad",
+          "Français": "Vélo",
+          "Japanese": "自転車",
+          "Nederlands": "Fiets",
+          "한국어": "자전거"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Motorcycle",
+          "British English": "Motorcycle",
+          "Chinese": "摩托车",
+          "Deutsche": "Motorrad",
+          "Français": "Moto",
+          "Japanese": "バイク",
+          "Nederlands": "Motorfiets",
+          "한국어": "오토바이"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Robot",
+          "British English": "Robot",
+          "Chinese": "机器人",
+          "Deutsche": "Roboter",
+          "Français": "Robot",
+          "Japanese": "ロボット",
+          "Nederlands": "Robot",
+          "한국어": "로봇"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Helicopter",
+          "British English": "Helicopter",
+          "Chinese": "直升机",
+          "Deutsche": "Hubschrauber",
+          "Français": "Hélicoptère",
+          "Japanese": "ヘリコプター",
+          "Nederlands": "Helikopter",
+          "한국어": "헬리콥터"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Boat",
+          "British English": "Boat",
+          "Chinese": "船",
+          "Deutsche": "Boot",
+          "Français": "Bateau",
+          "Japanese": "ボート",
+          "Nederlands": "Boot",
+          "한국어": "배"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Machine / Engine",
+          "British English": "Machine / Engine",
+          "Chinese": "机器 / 发动机",
+          "Deutsche": "Maschine / Motor",
+          "Français": "Machine / Moteur",
+          "Japanese": "機械 / エンジン",
+          "Nederlands": "Machine / Motor",
+          "한국어": "기계 / 엔진"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Drill",
+          "British English": "Drill",
+          "Chinese": "钻机",
+          "Deutsche": "Bohrer",
+          "Français": "Perceuse",
+          "Japanese": "ドリル",
+          "Nederlands": "Boormachine",
+          "한국어": "드릴"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Elevator",
+          "British English": "Elevator",
+          "Chinese": "电梯",
+          "Deutsche": "Aufzug",
+          "Français": "Ascenseur",
+          "Japanese": "エレベーター",
+          "Nederlands": "Lift",
+          "한국어": "엘리베이터"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Tank",
+          "British English": "Tank",
+          "Chinese": "坦克",
+          "Deutsche": "Panzer",
+          "Français": "Char",
+          "Japanese": "戦車",
+          "Nederlands": "Tank",
+          "한국어": "탱크"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Submarine",
+          "British English": "Submarine",
+          "Chinese": "潜艇",
+          "Deutsche": "U-Boot",
+          "Français": "Sous-marin",
+          "Japanese": "潜水艦",
+          "Nederlands": "Onderzeeër",
+          "한국어": "잠수함"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Excavator",
+          "British English": "Excavator",
+          "Chinese": "挖掘机",
+          "Deutsche": "Bagger",
+          "Français": "Excavatrice",
+          "Japanese": "掘削機",
+          "Nederlands": "Graafmachine",
+          "한국어": "굴착기"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Crane",
+          "British English": "Crane",
+          "Chinese": "起重机",
+          "Deutsche": "Kran",
+          "Français": "Grue",
+          "Japanese": "クレーン",
+          "Nederlands": "Kraan",
+          "한국어": "크레인"
+        }
+      ]
+    },
     "Materials Lesson": {
       "01/16": [
         {
@@ -7595,6 +8153,370 @@
           "Japanese": "",
           "Nederlands": "",
           "한국어": "겨울"
+        }
+      ]
+    },
+    "Time part 1": {
+      "01/15": [
+        {
+          "American English": "Sunrise",
+          "British English": "Sunrise",
+          "Chinese": "日出",
+          "Deutsche": "Sonnenaufgang",
+          "Français": "Lever du soleil",
+          "Japanese": "日の出",
+          "Nederlands": "Zonsopkomst",
+          "한국어": "일출"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Morning",
+          "British English": "Morning",
+          "Chinese": "早上",
+          "Deutsche": "Morgen",
+          "Français": "Matin",
+          "Japanese": "朝",
+          "Nederlands": "Ochtend",
+          "한국어": "아침"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Noon",
+          "British English": "Noon",
+          "Chinese": "中午",
+          "Deutsche": "Mittag",
+          "Français": "Midi",
+          "Japanese": "正午",
+          "Nederlands": "Middag",
+          "한국어": "정오"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Afternoon",
+          "British English": "Afternoon",
+          "Chinese": "下午",
+          "Deutsche": "Nachmittag",
+          "Français": "Après-midi",
+          "Japanese": "午後",
+          "Nederlands": "Middag",
+          "한국어": "오후"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Evening",
+          "British English": "Evening",
+          "Chinese": "晚上",
+          "Deutsche": "Abend",
+          "Français": "Soir",
+          "Japanese": "夕方",
+          "Nederlands": "Avond",
+          "한국어": "저녁"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Sunset",
+          "British English": "Sunset",
+          "Chinese": "日落",
+          "Deutsche": "Sonnenuntergang",
+          "Français": "Coucher du soleil",
+          "Japanese": "日没",
+          "Nederlands": "Zonsondergang",
+          "한국어": "일몰"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Night",
+          "British English": "Night",
+          "Chinese": "夜晚",
+          "Deutsche": "Nacht",
+          "Français": "Nuit",
+          "Japanese": "夜",
+          "Nederlands": "Nacht",
+          "한국어": "밤"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Midnight",
+          "British English": "Midnight",
+          "Chinese": "午夜",
+          "Deutsche": "Mitternacht",
+          "Français": "Minuit",
+          "Japanese": "真夜中",
+          "Nederlands": "Middernacht",
+          "한국어": "자정"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Day",
+          "British English": "Day",
+          "Chinese": "白天",
+          "Deutsche": "Tag",
+          "Français": "Jour",
+          "Japanese": "日",
+          "Nederlands": "Dag",
+          "한국어": "날"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Yesterday",
+          "British English": "Yesterday",
+          "Chinese": "昨天",
+          "Deutsche": "Gestern",
+          "Français": "Hier",
+          "Japanese": "昨日",
+          "Nederlands": "Gisteren",
+          "한국어": "어제"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Tomorrow",
+          "British English": "Tomorrow",
+          "Chinese": "明天",
+          "Deutsche": "Morgen",
+          "Français": "Demain",
+          "Japanese": "明日",
+          "Nederlands": "Morgen",
+          "한국어": "내일"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Week",
+          "British English": "Week",
+          "Chinese": "星期",
+          "Deutsche": "Woche",
+          "Français": "Semaine",
+          "Japanese": "週",
+          "Nederlands": "Week",
+          "한국어": "주"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Month",
+          "British English": "Month",
+          "Chinese": "月份",
+          "Deutsche": "Monat",
+          "Français": "Mois",
+          "Japanese": "月",
+          "Nederlands": "Maand",
+          "한국어": "달"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Year",
+          "British English": "Year",
+          "Chinese": "年",
+          "Deutsche": "Jahr",
+          "Français": "Année",
+          "Japanese": "年",
+          "Nederlands": "Jaar",
+          "한국어": "년"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Now",
+          "British English": "Now",
+          "Chinese": "现在",
+          "Deutsche": "Jetzt",
+          "Français": "Maintenant",
+          "Japanese": "今",
+          "Nederlands": "Nu",
+          "한국어": "지금"
+        }
+      ]
+    },
+    "Time part 2": {
+      "01/15": [
+        {
+          "American English": "Hour",
+          "British English": "Hour",
+          "Chinese": "小时",
+          "Deutsche": "Stunde",
+          "Français": "Heure",
+          "Japanese": "時間",
+          "Nederlands": "Uur",
+          "한국어": "시간"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Minute",
+          "British English": "Minute",
+          "Chinese": "分钟",
+          "Deutsche": "Minute",
+          "Français": "Minute",
+          "Japanese": "分",
+          "Nederlands": "Minuut",
+          "한국어": "분"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Second",
+          "British English": "Second",
+          "Chinese": "秒",
+          "Deutsche": "Sekunde",
+          "Français": "Seconde",
+          "Japanese": "秒",
+          "Nederlands": "Seconde",
+          "한국어": "초"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Time",
+          "British English": "Time",
+          "Chinese": "时间",
+          "Deutsche": "Zeit",
+          "Français": "Temps",
+          "Japanese": "時間",
+          "Nederlands": "Tijd",
+          "한국어": "시간"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Soon",
+          "British English": "Soon",
+          "Chinese": "很快",
+          "Deutsche": "Bald",
+          "Français": "Bientôt",
+          "Japanese": "すぐに",
+          "Nederlands": "Binnenkort",
+          "한국어": "곧"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Now",
+          "British English": "Now",
+          "Chinese": "现在",
+          "Deutsche": "Jetzt",
+          "Français": "Maintenant",
+          "Japanese": "今",
+          "Nederlands": "Nu",
+          "한국어": "지금"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Never",
+          "British English": "Never",
+          "Chinese": "从不",
+          "Deutsche": "Niemals",
+          "Français": "Jamais",
+          "Japanese": "決して",
+          "Nederlands": "Nooit",
+          "한국어": "절대"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Future",
+          "British English": "Future",
+          "Chinese": "未来",
+          "Deutsche": "Zukunft",
+          "Français": "Futur",
+          "Japanese": "未来",
+          "Nederlands": "Toekomst",
+          "한국어": "미래"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Monday",
+          "British English": "Monday",
+          "Chinese": "星期一",
+          "Deutsche": "Montag",
+          "Français": "Lundi",
+          "Japanese": "月曜日",
+          "Nederlands": "Maandag",
+          "한국어": "월요일"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Tuesday",
+          "British English": "Tuesday",
+          "Chinese": "星期二",
+          "Deutsche": "Dienstag",
+          "Français": "Mardi",
+          "Japanese": "火曜日",
+          "Nederlands": "Dinsdag",
+          "한국어": "화요일"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Wednesday",
+          "British English": "Wednesday",
+          "Chinese": "星期三",
+          "Deutsche": "Mittwoch",
+          "Français": "Mercredi",
+          "Japanese": "水曜日",
+          "Nederlands": "Woensdag",
+          "한국어": "수요일"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Thursday",
+          "British English": "Thursday",
+          "Chinese": "星期四",
+          "Deutsche": "Donnerstag",
+          "Français": "Jeudi",
+          "Japanese": "木曜日",
+          "Nederlands": "Donderdag",
+          "한국어": "목요일"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Friday",
+          "British English": "Friday",
+          "Chinese": "星期五",
+          "Deutsche": "Freitag",
+          "Français": "Vendredi",
+          "Japanese": "金曜日",
+          "Nederlands": "Vrijdag",
+          "한국어": "금요일"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "Saturday",
+          "British English": "Saturday",
+          "Chinese": "星期六",
+          "Deutsche": "Samstag",
+          "Français": "Samedi",
+          "Japanese": "土曜日",
+          "Nederlands": "Zaterdag",
+          "한국어": "토요일"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Sunday",
+          "British English": "Sunday",
+          "Chinese": "星期日",
+          "Deutsche": "Sonntag",
+          "Français": "Dimanche",
+          "Japanese": "日曜日",
+          "Nederlands": "Zondag",
+          "한국어": "일요일"
         }
       ]
     },
