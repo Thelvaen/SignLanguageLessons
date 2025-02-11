@@ -11,7 +11,7 @@
   ],
   "lessons": {
     "": {
-      "01/04": [
+      "01/05": [
         {
           "American English": "",
           "British English": "",
@@ -23,7 +23,7 @@
           "한국어": ""
         }
       ],
-      "02/04": [
+      "02/05": [
         {
           "American English": "",
           "British English": "",
@@ -35,7 +35,7 @@
           "한국어": ""
         }
       ],
-      "03/04": [
+      "03/05": [
         {
           "American English": "",
           "British English": "",
@@ -47,13 +47,25 @@
           "한국어": ""
         }
       ],
-      "04/04": [
+      "04/05": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Comment",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "05/05": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Avoir",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
