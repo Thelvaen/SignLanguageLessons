@@ -10,32 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/02": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Pouvoir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/02": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Faire",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -813,7 +787,7 @@
       ]
     },
     "Basic Part 1": {
-      "01/11": [
+      "01/13": [
         {
           "American English": "When",
           "British English": "When",
@@ -825,7 +799,7 @@
           "한국어": ""
         }
       ],
-      "02/11": [
+      "02/13": [
         {
           "American English": "Where",
           "British English": "Where",
@@ -837,7 +811,7 @@
           "한국어": ""
         }
       ],
-      "03/11": [
+      "03/13": [
         {
           "American English": "Who",
           "British English": "Who",
@@ -849,7 +823,7 @@
           "한국어": ""
         }
       ],
-      "04/11": [
+      "04/13": [
         {
           "American English": "What",
           "British English": "What",
@@ -861,7 +835,7 @@
           "한국어": ""
         }
       ],
-      "05/11": [
+      "05/13": [
         {
           "American English": "Why",
           "British English": "Why",
@@ -873,7 +847,7 @@
           "한국어": ""
         }
       ],
-      "06/11": [
+      "06/13": [
         {
           "American English": "How",
           "British English": "How",
@@ -885,7 +859,7 @@
           "한국어": ""
         }
       ],
-      "07/11": [
+      "07/13": [
         {
           "American English": "To have",
           "British English": "To have",
@@ -897,7 +871,7 @@
           "한국어": ""
         }
       ],
-      "08/11": [
+      "08/13": [
         {
           "American English": "To be",
           "British English": "To be",
@@ -909,7 +883,7 @@
           "한국어": ""
         }
       ],
-      "09/11": [
+      "09/13": [
         {
           "American English": "To want",
           "British English": "To want",
@@ -921,7 +895,7 @@
           "한국어": ""
         }
       ],
-      "10/11": [
+      "10/13": [
         {
           "American English": "To give",
           "British English": "To give",
@@ -933,13 +907,37 @@
           "한국어": ""
         }
       ],
-      "11/11": [
+      "11/13": [
         {
           "American English": "To take",
           "British English": "To take",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Prendre",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "12/13": [
+        {
+          "American English": "Can",
+          "British English": "Can",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Pouvoir",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "13/13": [
+        {
+          "American English": "To do",
+          "British English": "To do",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Faire",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
