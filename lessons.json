@@ -791,180 +791,180 @@
         {
           "American English": "When",
           "British English": "When",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "什么时候",
+          "Deutsche": "Wann",
           "Français": "Quand",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "いつ",
+          "Nederlands": "Wanneer",
+          "한국어": "언제"
         }
       ],
       "02/15": [
         {
           "American English": "Where",
           "British English": "Where",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "哪里",
+          "Deutsche": "Wo",
           "Français": "Où",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "どこ",
+          "Nederlands": "Waar",
+          "한국어": "어디"
         }
       ],
       "03/15": [
         {
           "American English": "Who",
           "British English": "Who",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "谁",
+          "Deutsche": "Wer",
           "Français": "Qui",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "誰",
+          "Nederlands": "Wie",
+          "한국어": "누구"
         }
       ],
       "04/15": [
         {
           "American English": "What",
           "British English": "What",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "什么",
+          "Deutsche": "Was",
           "Français": "Quoi",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "何",
+          "Nederlands": "Wat",
+          "한국어": "무엇"
         }
       ],
       "05/15": [
         {
           "American English": "Why",
           "British English": "Why",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "为什么",
+          "Deutsche": "Warum",
           "Français": "Pourquoi",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "なぜ",
+          "Nederlands": "Waarom",
+          "한국어": "왜"
         }
       ],
       "06/15": [
         {
           "American English": "How",
           "British English": "How",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "怎么",
+          "Deutsche": "Wie",
           "Français": "Comment",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "どうやって",
+          "Nederlands": "Hoe",
+          "한국어": "어떻게"
         }
       ],
       "07/15": [
         {
           "American English": "To have",
           "British English": "To have",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "有",
+          "Deutsche": "Haben",
           "Français": "Avoir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "持つ",
+          "Nederlands": "Hebben",
+          "한국어": "가지다"
         }
       ],
       "08/15": [
         {
           "American English": "To be",
           "British English": "To be",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "是",
+          "Deutsche": "Sein",
           "Français": "Être",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "である",
+          "Nederlands": "Zijn",
+          "한국어": "이다"
         }
       ],
       "09/15": [
         {
           "American English": "To want",
           "British English": "To want",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "想要",
+          "Deutsche": "Wollen",
           "Français": "Vouloir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "欲しい",
+          "Nederlands": "Willen",
+          "한국어": "원하다"
         }
       ],
       "10/15": [
         {
           "American English": "To give",
           "British English": "To give",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "给",
+          "Deutsche": "Geben",
           "Français": "Donner",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "与える",
+          "Nederlands": "Geven",
+          "한국어": "주다"
         }
       ],
       "11/15": [
         {
           "American English": "To take",
           "British English": "To take",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "拿",
+          "Deutsche": "Nehmen",
           "Français": "Prendre",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "取る",
+          "Nederlands": "Nemen",
+          "한국어": "가져가다"
         }
       ],
       "12/15": [
         {
           "American English": "Can",
           "British English": "Can",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "能",
+          "Deutsche": "Können",
           "Français": "Pouvoir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "できる",
+          "Nederlands": "Kunnen",
+          "한국어": "할 수 있다"
         }
       ],
       "13/15": [
         {
           "American English": "To do",
           "British English": "To do",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "做",
+          "Deutsche": "Tun",
           "Français": "Faire",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "する",
+          "Nederlands": "Doen",
+          "한국어": "하다"
         }
       ],
       "14/15": [
         {
           "American English": "To buy",
           "British English": "To buy",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "买",
+          "Deutsche": "Kaufen",
           "Français": "Acheter",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "買う",
+          "Nederlands": "Kopen",
+          "한국어": "사다"
         }
       ],
       "15/15": [
         {
           "American English": "To sell",
           "British English": "To sell",
-          "Chinese": "",
-          "Deutsche": "",
+          "Chinese": "卖",
+          "Deutsche": "Verkaufen",
           "Français": "Vendre",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
+          "Japanese": "売る",
+          "Nederlands": "Verkopen",
+          "한국어": "팔다"
         }
       ]
     },
