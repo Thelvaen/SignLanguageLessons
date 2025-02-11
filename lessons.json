@@ -10,6 +10,20 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/01": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Pourquoi",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -865,7 +879,7 @@
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "être",
+          "Français": "Être",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
