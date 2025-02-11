@@ -10,68 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Où",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Qui",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "03/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Quoi",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "04/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Comment",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "05/05": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Avoir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -849,13 +787,73 @@
       ]
     },
     "Basic Part 1": {
-      "01/01": [
+      "01/06": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Quand",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Où",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "03/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Qui",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "04/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Quoi",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "05/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Comment",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/06": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Avoir",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
