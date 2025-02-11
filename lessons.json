@@ -10,56 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/04": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "être",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/04": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Vouloir",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "03/04": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Donner",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "04/04": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Prendre",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Anatomy Lesson": {
       "01/16": [
         {
@@ -837,7 +787,7 @@
       ]
     },
     "Basic Part 1": {
-      "01/06": [
+      "01/10": [
         {
           "American English": "",
           "British English": "",
@@ -849,7 +799,7 @@
           "한국어": ""
         }
       ],
-      "02/06": [
+      "02/10": [
         {
           "American English": "",
           "British English": "",
@@ -861,7 +811,7 @@
           "한국어": ""
         }
       ],
-      "03/06": [
+      "03/10": [
         {
           "American English": "",
           "British English": "",
@@ -873,7 +823,7 @@
           "한국어": ""
         }
       ],
-      "04/06": [
+      "04/10": [
         {
           "American English": "",
           "British English": "",
@@ -885,7 +835,7 @@
           "한국어": ""
         }
       ],
-      "05/06": [
+      "05/10": [
         {
           "American English": "",
           "British English": "",
@@ -897,13 +847,61 @@
           "한국어": ""
         }
       ],
-      "06/06": [
+      "06/10": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Avoir",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "07/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "être",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "08/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Vouloir",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Donner",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/10": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Prendre",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
