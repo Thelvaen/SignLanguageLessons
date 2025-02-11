@@ -11,13 +11,25 @@
   ],
   "lessons": {
     "": {
-      "01/01": [
+      "01/02": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "Pourquoi",
+          "Français": "Pouvoir",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/02": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Faire",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
@@ -801,10 +813,10 @@
       ]
     },
     "Basic Part 1": {
-      "01/10": [
+      "01/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "When",
+          "British English": "When",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Quand",
@@ -813,10 +825,10 @@
           "한국어": ""
         }
       ],
-      "02/10": [
+      "02/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Where",
+          "British English": "Where",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Où",
@@ -825,10 +837,10 @@
           "한국어": ""
         }
       ],
-      "03/10": [
+      "03/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Who",
+          "British English": "Who",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Qui",
@@ -837,10 +849,10 @@
           "한국어": ""
         }
       ],
-      "04/10": [
+      "04/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "What",
+          "British English": "What",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Quoi",
@@ -849,10 +861,22 @@
           "한국어": ""
         }
       ],
-      "05/10": [
+      "05/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Why",
+          "British English": "Why",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Pourquoi",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/11": [
+        {
+          "American English": "How",
+          "British English": "How",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Comment",
@@ -861,10 +885,10 @@
           "한국어": ""
         }
       ],
-      "06/10": [
+      "07/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "To have",
+          "British English": "To have",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Avoir",
@@ -873,10 +897,10 @@
           "한국어": ""
         }
       ],
-      "07/10": [
+      "08/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "To be",
+          "British English": "To be",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Être",
@@ -885,10 +909,10 @@
           "한국어": ""
         }
       ],
-      "08/10": [
+      "09/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "To want",
+          "British English": "To want",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Vouloir",
@@ -897,10 +921,10 @@
           "한국어": ""
         }
       ],
-      "09/10": [
+      "10/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "To give",
+          "British English": "To give",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Donner",
@@ -909,10 +933,10 @@
           "한국어": ""
         }
       ],
-      "10/10": [
+      "11/11": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "To take",
+          "British English": "To take",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Prendre",
