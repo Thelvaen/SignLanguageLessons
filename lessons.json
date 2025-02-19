@@ -7,28 +7,12 @@
     "Deutsche",
     "Japanese",
     "Nederlands",
-    "Chinese",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "Chinese"
   ],
   "lessons": {
     "Anatomy Lesson": {
       "01/16": [
         {
-          "": "",
           "American English": "Head",
           "British English": "Head",
           "Chinese": "头部",
@@ -41,7 +25,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Shoulder",
           "British English": "Shoulder",
           "Chinese": "肩部",
@@ -54,7 +37,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Arm",
           "British English": "Arm",
           "Chinese": "手臂",
@@ -67,7 +49,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Hand",
           "British English": "Hand",
           "Chinese": "手部",
@@ -80,7 +61,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Fingers",
           "British English": "Fingers",
           "Chinese": "手指",
@@ -93,7 +73,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Eyes",
           "British English": "Eyes",
           "Chinese": "眼睛",
@@ -106,7 +85,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Nose",
           "British English": "Nose",
           "Chinese": "鼻",
@@ -119,7 +97,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Mouth",
           "British English": "Mouth",
           "Chinese": "嘴",
@@ -132,7 +109,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Chest",
           "British English": "Chest",
           "Chinese": "胸部",
@@ -145,7 +121,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Belly/Stomach",
           "British English": "Belly/Tummy (stomach)",
           "Chinese": "腹部/胃部",
@@ -158,7 +133,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Elbow",
           "British English": "Elbow",
           "Chinese": "肘部",
@@ -171,7 +145,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Foot (anatomy)",
           "British English": "Foot (anatomy)",
           "Chinese": "足部（解剖）",
@@ -184,7 +157,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Feet (anatomy)",
           "British English": "Feet (anatomy)",
           "Chinese": "脚（解剖）",
@@ -197,7 +169,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Leg",
           "British English": "Leg",
           "Chinese": "腿部",
@@ -210,7 +181,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Knees",
           "British English": "Knees",
           "Chinese": "膝盖",
@@ -223,7 +193,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Toes",
           "British English": "Toes",
           "Chinese": "脚趾",
@@ -238,7 +207,6 @@
     "Animals Lesson: Common & Farm": {
       "01/22": [
         {
-          "": "",
           "American English": "Animal",
           "British English": "Animal",
           "Chinese": "动物",
@@ -251,7 +219,6 @@
       ],
       "02/22": [
         {
-          "": "",
           "American English": "Ant",
           "British English": "Ant",
           "Chinese": "蚂蚁",
@@ -264,7 +231,6 @@
       ],
       "03/22": [
         {
-          "": "",
           "American English": "Bee",
           "British English": "Bee",
           "Chinese": "蜂",
@@ -277,7 +243,6 @@
       ],
       "04/22": [
         {
-          "": "",
           "American English": "Bird",
           "British English": "Bird",
           "Chinese": "鸟类",
@@ -290,7 +255,6 @@
       ],
       "05/22": [
         {
-          "": "",
           "American English": "Cat",
           "British English": "Cat",
           "Chinese": "猫",
@@ -303,7 +267,6 @@
       ],
       "06/22": [
         {
-          "": "",
           "American English": "Dog",
           "British English": "Dog",
           "Chinese": "狗",
@@ -316,7 +279,6 @@
       ],
       "07/22": [
         {
-          "": "",
           "American English": "Duck",
           "British English": "Duck",
           "Chinese": "鸭",
@@ -329,7 +291,6 @@
       ],
       "08/22": [
         {
-          "": "",
           "American English": "Fish",
           "British English": "Fish",
           "Chinese": "鱼",
@@ -342,7 +303,6 @@
       ],
       "09/22": [
         {
-          "": "",
           "American English": "Fly (insect)",
           "British English": "Fly (insect)",
           "Chinese": "苍蝇（昆虫）",
@@ -355,7 +315,6 @@
       ],
       "10/22": [
         {
-          "": "",
           "American English": "Frog",
           "British English": "Frog",
           "Chinese": "青蛙",
@@ -368,7 +327,6 @@
       ],
       "11/22": [
         {
-          "": "",
           "American English": "Snake",
           "British English": "Snake",
           "Chinese": "蛇",
@@ -381,7 +339,6 @@
       ],
       "12/22": [
         {
-          "": "",
           "American English": "Spider",
           "British English": "Spider",
           "Chinese": "蜘蛛",
@@ -394,7 +351,6 @@
       ],
       "13/22": [
         {
-          "": "",
           "American English": "Farm (place)",
           "British English": "Farm (place)",
           "Chinese": "农场",
@@ -407,7 +363,6 @@
       ],
       "14/22": [
         {
-          "": "",
           "American English": "Chicken",
           "British English": "Chicken",
           "Chinese": "鸡",
@@ -420,7 +375,6 @@
       ],
       "15/22": [
         {
-          "": "",
           "American English": "Cow",
           "British English": "Cow",
           "Chinese": "牛",
@@ -433,7 +387,6 @@
       ],
       "16/22": [
         {
-          "": "",
           "American English": "Donkey",
           "British English": "Donkey",
           "Chinese": "驴",
@@ -446,7 +399,6 @@
       ],
       "17/22": [
         {
-          "": "",
           "American English": "Goat",
           "British English": "Goat",
           "Chinese": "山羊",
@@ -459,7 +411,6 @@
       ],
       "18/22": [
         {
-          "": "",
           "American English": "Horse",
           "British English": "Horse",
           "Chinese": "马",
@@ -472,7 +423,6 @@
       ],
       "19/22": [
         {
-          "": "",
           "American English": "Pig",
           "British English": "Pig",
           "Chinese": "猪",
@@ -485,7 +435,6 @@
       ],
       "20/22": [
         {
-          "": "",
           "American English": "Pony (young horse)",
           "British English": "Pony (small horse)",
           "Chinese": "小马（幼马）",
@@ -498,7 +447,6 @@
       ],
       "21/22": [
         {
-          "": "",
           "American English": "Sheep",
           "British English": "Sheep",
           "Chinese": "绵羊",
@@ -511,7 +459,6 @@
       ],
       "22/22": [
         {
-          "": "",
           "American English": "Turkey (Bird)",
           "British English": "Turkey (Bird)",
           "Chinese": "火鸡（鸟类）",
@@ -526,7 +473,6 @@
     "Animals Lesson: Wild Animals Pt 1": {
       "01/15": [
         {
-          "": "",
           "American English": "Wild Animal",
           "British English": "Wild Animal",
           "Chinese": "野生动物",
@@ -539,7 +485,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Bear",
           "British English": "Bear",
           "Chinese": "熊",
@@ -552,7 +497,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Camel",
           "British English": "Camel",
           "Chinese": "骆驼",
@@ -565,7 +509,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Chimpanzee (chimp)/Monkey",
           "British English": "Chimpanzee (chimp)/Monkey",
           "Chinese": "黑猩猩/猴子",
@@ -578,7 +521,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Crab/Lobster",
           "British English": "Crab/Lobster",
           "Chinese": "螃蟹/龙虾",
@@ -591,7 +533,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Dolphin",
           "British English": "Dolphin",
           "Chinese": "海豚",
@@ -604,7 +545,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Flamingo",
           "British English": "Flamingo",
           "Chinese": "火烈鸟",
@@ -617,7 +557,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Fox",
           "British English": "Fox",
           "Chinese": "狐狸",
@@ -630,7 +569,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Giraffe",
           "British English": "Giraffe",
           "Chinese": "长颈鹿",
@@ -643,7 +581,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Gorilla",
           "British English": "Gorilla",
           "Chinese": "大猩猩",
@@ -656,7 +593,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Kangaroo",
           "British English": "Kangaroo",
           "Chinese": "袋鼠",
@@ -669,7 +605,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Lion",
           "British English": "Lion",
           "Chinese": "狮子",
@@ -682,7 +617,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Ostrich",
           "British English": "Ostrich",
           "Chinese": "鸵鸟",
@@ -695,7 +629,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Owl",
           "British English": "Owl",
           "Chinese": "猫头鹰",
@@ -708,7 +641,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Parrot",
           "British English": "Parrot",
           "Chinese": "鹦鹉",
@@ -723,7 +655,6 @@
     "Animals Lesson: Wild Animals Pt 2": {
       "01/11": [
         {
-          "": "",
           "American English": "Porcupine",
           "British English": "Hedgehog",
           "Chinese": "豪猪",
@@ -736,7 +667,6 @@
       ],
       "02/11": [
         {
-          "": "",
           "American English": "Rabbit/Bunny",
           "British English": "Rabbit/Bunny/Hare",
           "Chinese": "兔/兔子",
@@ -749,7 +679,6 @@
       ],
       "03/11": [
         {
-          "": "",
           "American English": "Raccoon",
           "British English": "Raccoon",
           "Chinese": "浣熊",
@@ -762,7 +691,6 @@
       ],
       "04/11": [
         {
-          "": "",
           "American English": "Seal (Aquatic mammal)",
           "British English": "Seal (Aquatic mammal)",
           "Chinese": "海豹（水生哺乳动物）",
@@ -775,7 +703,6 @@
       ],
       "05/11": [
         {
-          "": "",
           "American English": "Shark",
           "British English": "Shark",
           "Chinese": "鲨鱼",
@@ -788,7 +715,6 @@
       ],
       "06/11": [
         {
-          "": "",
           "American English": "Skunk",
           "British English": "Skunk",
           "Chinese": "臭鼬",
@@ -801,7 +727,6 @@
       ],
       "07/11": [
         {
-          "": "",
           "American English": "Stork",
           "British English": "Stork",
           "Chinese": "鹳",
@@ -814,7 +739,6 @@
       ],
       "08/11": [
         {
-          "": "",
           "American English": "Turtle",
           "British English": "Turtle",
           "Chinese": "乌龟",
@@ -827,7 +751,6 @@
       ],
       "09/11": [
         {
-          "": "",
           "American English": "Whale",
           "British English": "Whale",
           "Chinese": "鲸",
@@ -840,7 +763,6 @@
       ],
       "10/11": [
         {
-          "": "",
           "American English": "Wolf",
           "British English": "Wolf",
           "Chinese": "狼",
@@ -853,7 +775,6 @@
       ],
       "11/11": [
         {
-          "": "",
           "American English": "Zebra",
           "British English": "Zebra",
           "Chinese": "斑马",
@@ -868,7 +789,6 @@
     "Basic Part 1": {
       "01/15": [
         {
-          "": "",
           "American English": "When",
           "British English": "When",
           "Chinese": "什么时候",
@@ -881,7 +801,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Where",
           "British English": "Where",
           "Chinese": "哪里",
@@ -894,7 +813,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Who",
           "British English": "Who",
           "Chinese": "谁",
@@ -907,7 +825,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "What",
           "British English": "What",
           "Chinese": "什么",
@@ -920,7 +837,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Why",
           "British English": "Why",
           "Chinese": "为什么",
@@ -933,7 +849,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "How",
           "British English": "How",
           "Chinese": "怎么",
@@ -946,7 +861,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "To have",
           "British English": "To have",
           "Chinese": "有",
@@ -959,7 +873,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "To be",
           "British English": "To be",
           "Chinese": "是",
@@ -972,7 +885,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "To want",
           "British English": "To want",
           "Chinese": "想要",
@@ -985,7 +897,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "To give",
           "British English": "To give",
           "Chinese": "给",
@@ -998,7 +909,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "To take",
           "British English": "To take",
           "Chinese": "拿",
@@ -1011,7 +921,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Can",
           "British English": "Can",
           "Chinese": "能",
@@ -1024,7 +933,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "To do",
           "British English": "To do",
           "Chinese": "做",
@@ -1037,7 +945,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "To buy",
           "British English": "To buy",
           "Chinese": "买",
@@ -1050,7 +957,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "To sell",
           "British English": "To sell",
           "Chinese": "卖",
@@ -1065,7 +971,6 @@
     "Beach Lesson": {
       "01/13": [
         {
-          "": "",
           "American English": "Beach",
           "British English": "Beach",
           "Chinese": "海滩",
@@ -1078,7 +983,6 @@
       ],
       "02/13": [
         {
-          "": "",
           "American English": "Drown",
           "British English": "Drown",
           "Chinese": "溺水",
@@ -1091,7 +995,6 @@
       ],
       "03/13": [
         {
-          "": "",
           "American English": "Lifeguard",
           "British English": "Lifeguard",
           "Chinese": "救生员",
@@ -1104,7 +1007,6 @@
       ],
       "04/13": [
         {
-          "": "",
           "American English": "Ocean",
           "British English": "Ocean",
           "Chinese": "海洋",
@@ -1117,7 +1019,6 @@
       ],
       "05/13": [
         {
-          "": "",
           "American English": "Rescue",
           "British English": "Rescue",
           "Chinese": "救援",
@@ -1130,7 +1031,6 @@
       ],
       "06/13": [
         {
-          "": "",
           "American English": "Sand",
           "British English": "Sand",
           "Chinese": "沙滩",
@@ -1143,7 +1043,6 @@
       ],
       "07/13": [
         {
-          "": "",
           "American English": "Sandcastle",
           "British English": "Sandcastle",
           "Chinese": "沙堡",
@@ -1156,7 +1055,6 @@
       ],
       "08/13": [
         {
-          "": "",
           "American English": "Surf",
           "British English": "Surf",
           "Chinese": "冲浪",
@@ -1169,7 +1067,6 @@
       ],
       "09/13": [
         {
-          "": "",
           "American English": "Swim",
           "British English": "Swim",
           "Chinese": "游泳",
@@ -1182,7 +1079,6 @@
       ],
       "10/13": [
         {
-          "": "",
           "American English": "Swimsuit",
           "British English": "Swimsuit",
           "Chinese": "泳衣",
@@ -1195,7 +1091,6 @@
       ],
       "11/13": [
         {
-          "": "",
           "American English": "Towel",
           "British English": "Towel",
           "Chinese": "毛巾",
@@ -1208,7 +1103,6 @@
       ],
       "12/13": [
         {
-          "": "",
           "American English": "Water",
           "British English": "Water",
           "Chinese": "水",
@@ -1221,7 +1115,6 @@
       ],
       "13/13": [
         {
-          "": "",
           "American English": "Wave",
           "British English": "Wave",
           "Chinese": "波浪",
@@ -1236,7 +1129,6 @@
     "Camp Lesson": {
       "01/18": [
         {
-          "": "",
           "American English": "Backpack",
           "British English": "Backpack",
           "Chinese": "背包",
@@ -1249,7 +1141,6 @@
       ],
       "02/18": [
         {
-          "": "",
           "American English": "Bonfire",
           "British English": "Bonfire",
           "Chinese": "篝火",
@@ -1262,7 +1153,6 @@
       ],
       "03/18": [
         {
-          "": "",
           "American English": "Bug repellent (insect body spray)",
           "British English": "Bug-Killer (spray)",
           "Chinese": "驱虫剂（防虫喷雾）",
@@ -1275,7 +1165,6 @@
       ],
       "04/18": [
         {
-          "": "",
           "American English": "Camp",
           "British English": "Camp",
           "Chinese": "营地",
@@ -1288,7 +1177,6 @@
       ],
       "05/18": [
         {
-          "": "",
           "American English": "Campfire",
           "British English": "Campfire",
           "Chinese": "篝火",
@@ -1301,7 +1189,6 @@
       ],
       "06/18": [
         {
-          "": "",
           "American English": "To fish",
           "British English": "To fish",
           "Chinese": "钓鱼",
@@ -1314,7 +1201,6 @@
       ],
       "07/18": [
         {
-          "": "",
           "American English": "Flashlight",
           "British English": "Torch (Flashlight)",
           "Chinese": "手电筒",
@@ -1327,7 +1213,6 @@
       ],
       "08/18": [
         {
-          "": "",
           "American English": "Forest",
           "British English": "Forest",
           "Chinese": "森林",
@@ -1340,7 +1225,6 @@
       ],
       "09/18": [
         {
-          "": "",
           "American English": "Firewood",
           "British English": "Firewood",
           "Chinese": "柴火",
@@ -1353,7 +1237,6 @@
       ],
       "10/18": [
         {
-          "": "",
           "American English": "Hike",
           "British English": "Hike",
           "Chinese": "远足",
@@ -1366,7 +1249,6 @@
       ],
       "11/18": [
         {
-          "": "",
           "American English": "Lake",
           "British English": "Lake",
           "Chinese": "湖泊",
@@ -1379,7 +1261,6 @@
       ],
       "12/18": [
         {
-          "": "",
           "American English": "Lighter",
           "British English": "Lighter",
           "Chinese": "打火机",
@@ -1392,7 +1273,6 @@
       ],
       "13/18": [
         {
-          "": "",
           "American English": "Logs",
           "British English": "Woods (logs)",
           "Chinese": "原木",
@@ -1405,7 +1285,6 @@
       ],
       "14/18": [
         {
-          "": "",
           "American English": "Matchstick",
           "British English": "Matchstick (Matches)",
           "Chinese": "火柴杆",
@@ -1418,7 +1297,6 @@
       ],
       "15/18": [
         {
-          "": "",
           "American English": "River/stream",
           "British English": "River/stream",
           "Chinese": "河流/溪流",
@@ -1431,7 +1309,6 @@
       ],
       "16/18": [
         {
-          "": "",
           "American English": "Sleeping Bag",
           "British English": "Sleeping Bag",
           "Chinese": "睡袋",
@@ -1444,7 +1321,6 @@
       ],
       "17/18": [
         {
-          "": "",
           "American English": "Tent",
           "British English": "Tent",
           "Chinese": "帐篷",
@@ -1457,7 +1333,6 @@
       ],
       "18/18": [
         {
-          "": "",
           "American English": "waterfall",
           "British English": "waterfall",
           "Chinese": "瀑布",
@@ -1472,7 +1347,6 @@
     "Carnival": {
       "01/15": [
         {
-          "": "",
           "American English": "Parade",
           "British English": "Parade",
           "Chinese": "游行",
@@ -1485,7 +1359,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Mask",
           "British English": "Mask",
           "Chinese": "面具",
@@ -1498,7 +1371,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Costume",
           "British English": "Costume",
           "Chinese": "服装",
@@ -1511,7 +1383,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Samba",
           "British English": "Samba",
           "Chinese": "桑巴",
@@ -1524,7 +1395,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Celebration / Festivity / Party",
           "British English": "Celebration / Festivity / Party",
           "Chinese": "庆典 / 派对",
@@ -1537,7 +1407,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Confetti",
           "British English": "Confetti",
           "Chinese": "五彩纸屑",
@@ -1550,7 +1419,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Float",
           "British English": "Float",
           "Chinese": "花车",
@@ -1563,7 +1431,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Music",
           "British English": "Music",
           "Chinese": "音乐",
@@ -1576,7 +1443,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Dance",
           "British English": "Dance",
           "Chinese": "舞蹈",
@@ -1589,7 +1455,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Drum",
           "British English": "Drum",
           "Chinese": "鼓",
@@ -1602,7 +1467,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Street",
           "British English": "Street",
           "Chinese": "街道",
@@ -1615,7 +1479,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Feathers",
           "British English": "Feathers",
           "Chinese": "羽毛",
@@ -1628,7 +1491,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Glitter",
           "British English": "Glitter",
           "Chinese": "闪光",
@@ -1641,7 +1503,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Mardi Gras",
           "British English": "Mardi Gras",
           "Chinese": "狂欢节",
@@ -1654,7 +1515,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Crêpe",
           "British English": "Crêpe",
           "Chinese": "可丽饼",
@@ -1669,7 +1529,6 @@
     "Christmas Lesson": {
       "01/16": [
         {
-          "": "",
           "American English": "Christmas",
           "British English": "Christmas",
           "Chinese": "圣诞节",
@@ -1682,7 +1541,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Christmas Tree",
           "British English": "Christmas Tree",
           "Chinese": "圣诞树",
@@ -1695,7 +1553,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Gift",
           "British English": "Gift",
           "Chinese": "礼物",
@@ -1708,7 +1565,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Family",
           "British English": "Family",
           "Chinese": "家人",
@@ -1721,7 +1577,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Yule Log (cake)",
           "British English": "Yule Log (cake)",
           "Chinese": "圣诞树干蛋糕",
@@ -1734,7 +1589,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Turkey (bird)",
           "British English": "Turkey (bird)",
           "Chinese": "火鸡",
@@ -1747,7 +1601,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Santa Claus",
           "British English": "Santa Claus",
           "Chinese": "圣诞老人",
@@ -1760,7 +1613,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "To decorate",
           "British English": "To decorate",
           "Chinese": "装饰",
@@ -1773,7 +1625,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Star",
           "British English": "Star",
           "Chinese": "星星",
@@ -1786,7 +1637,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Garland / Christmas tree light",
           "British English": "Garland / Christmas tree light",
           "Chinese": "彩灯 / 花环",
@@ -1799,7 +1649,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Mistletoe",
           "British English": "Mistletoe",
           "Chinese": "槲寄生",
@@ -1812,7 +1661,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Christmas Ball Ornaments",
           "British English": "Christmas Ball Ornaments",
           "Chinese": "圣诞球饰",
@@ -1825,7 +1673,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Reindeer",
           "British English": "Reindeer",
           "Chinese": "驯鹿",
@@ -1838,7 +1685,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Snowman",
           "British English": "Snowman",
           "Chinese": "雪人",
@@ -1851,7 +1697,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Carols",
           "British English": "Carols",
           "Chinese": "圣诞颂歌",
@@ -1864,7 +1709,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Snow",
           "British English": "Snow",
           "Chinese": "雪",
@@ -1879,7 +1723,6 @@
     "College Lesson": {
       "01/18": [
         {
-          "": "",
           "American English": "Academic Advisor",
           "British English": "Academic Advisor",
           "Chinese": "学术顾问",
@@ -1892,7 +1735,6 @@
       ],
       "02/18": [
         {
-          "": "",
           "American English": "Attend",
           "British English": "Attendance / attend",
           "Chinese": "参加",
@@ -1905,7 +1747,6 @@
       ],
       "03/18": [
         {
-          "": "",
           "American English": "Campus",
           "British English": "Campus / Dorm",
           "Chinese": "校园",
@@ -1918,7 +1759,6 @@
       ],
       "04/18": [
         {
-          "": "",
           "American English": "Course",
           "British English": "Course (Class)",
           "Chinese": "课程",
@@ -1931,7 +1771,6 @@
       ],
       "05/18": [
         {
-          "": "",
           "American English": "Credit (grade)",
           "British English": "Student Loans",
           "Chinese": "学分（年级）",
@@ -1944,7 +1783,6 @@
       ],
       "06/18": [
         {
-          "": "",
           "American English": "Degree (College)",
           "British English": "Degree (university)",
           "Chinese": "学位（学院）",
@@ -1957,7 +1795,6 @@
       ],
       "07/18": [
         {
-          "": "",
           "American English": "Dorm / Dormitory",
           "British English": "Dorm/Dormitory",
           "Chinese": "宿舍",
@@ -1970,7 +1807,6 @@
       ],
       "08/18": [
         {
-          "": "",
           "American English": "Enroll",
           "British English": "Enroll (register)",
           "Chinese": "注册时间",
@@ -1983,7 +1819,6 @@
       ],
       "09/18": [
         {
-          "": "",
           "American English": "Full Time",
           "British English": "Full Time (Job)",
           "Chinese": "全日制",
@@ -1996,7 +1831,6 @@
       ],
       "10/18": [
         {
-          "": "",
           "American English": "Major (degree)",
           "British English": "Major (degree)",
           "Chinese": "主修（学位）",
@@ -2009,7 +1843,6 @@
       ],
       "11/18": [
         {
-          "": "",
           "American English": "Minor (degree)",
           "British English": "Minor (degree)",
           "Chinese": "辅修（学位）",
@@ -2022,7 +1855,6 @@
       ],
       "12/18": [
         {
-          "": "",
           "American English": "Part time",
           "British English": "Part time (Job)",
           "Chinese": "非全日制",
@@ -2035,7 +1867,6 @@
       ],
       "13/18": [
         {
-          "": "",
           "American English": "Professor",
           "British English": "Professor",
           "Chinese": "教授",
@@ -2048,7 +1879,6 @@
       ],
       "14/18": [
         {
-          "": "",
           "American English": "Instructor/Tutor",
           "British English": "Instructor/Tutor",
           "Chinese": "讲师/导师",
@@ -2061,7 +1891,6 @@
       ],
       "15/18": [
         {
-          "": "",
           "American English": "Register",
           "British English": "Register",
           "Chinese": "注册",
@@ -2074,7 +1903,6 @@
       ],
       "16/18": [
         {
-          "": "",
           "American English": "Scholarship",
           "British English": "Scholarship / Apprenticeship",
           "Chinese": "奖学金",
@@ -2087,7 +1915,6 @@
       ],
       "17/18": [
         {
-          "": "",
           "American English": "Semester",
           "British English": "Semester",
           "Chinese": "学期",
@@ -2100,7 +1927,6 @@
       ],
       "18/18": [
         {
-          "": "",
           "American English": "Withdraw",
           "British English": "Withdraw",
           "Chinese": "退学",
@@ -2115,7 +1941,6 @@
     "Colors Lesson": {
       "01/19": [
         {
-          "": "",
           "American English": "Color",
           "British English": "Colour",
           "Chinese": "色彩",
@@ -2128,7 +1953,6 @@
       ],
       "02/19": [
         {
-          "": "",
           "American English": "Colorful",
           "British English": "Colourful",
           "Chinese": "多彩",
@@ -2141,7 +1965,6 @@
       ],
       "03/19": [
         {
-          "": "",
           "American English": "White",
           "British English": "White",
           "Chinese": "白色",
@@ -2154,7 +1977,6 @@
       ],
       "04/19": [
         {
-          "": "",
           "American English": "Black",
           "British English": "Black",
           "Chinese": "黑",
@@ -2167,7 +1989,6 @@
       ],
       "05/19": [
         {
-          "": "",
           "American English": "Red",
           "British English": "Red",
           "Chinese": "红色",
@@ -2180,7 +2001,6 @@
       ],
       "06/19": [
         {
-          "": "",
           "American English": "Orange (Color)",
           "British English": "Orange (Color)",
           "Chinese": "橙色（彩色）",
@@ -2193,7 +2013,6 @@
       ],
       "07/19": [
         {
-          "": "",
           "American English": "Yellow",
           "British English": "Yellow",
           "Chinese": "黄",
@@ -2206,7 +2025,6 @@
       ],
       "08/19": [
         {
-          "": "",
           "American English": "Green",
           "British English": "Green",
           "Chinese": "绿",
@@ -2219,7 +2037,6 @@
       ],
       "09/19": [
         {
-          "": "",
           "American English": "Blue",
           "British English": "Blue",
           "Chinese": "蓝",
@@ -2232,7 +2049,6 @@
       ],
       "10/19": [
         {
-          "": "",
           "American English": "Purple",
           "British English": "Purple",
           "Chinese": "紫色",
@@ -2245,7 +2061,6 @@
       ],
       "11/19": [
         {
-          "": "",
           "American English": "Pink",
           "British English": "Pink",
           "Chinese": "粉红",
@@ -2258,7 +2073,6 @@
       ],
       "12/19": [
         {
-          "": "",
           "American English": "Rainbow",
           "British English": "Rainbow ",
           "Chinese": "彩虹色",
@@ -2271,7 +2085,6 @@
       ],
       "13/19": [
         {
-          "": "",
           "American English": "Brown",
           "British English": "Brown",
           "Chinese": "棕色",
@@ -2284,7 +2097,6 @@
       ],
       "14/19": [
         {
-          "": "",
           "American English": "Gray",
           "British English": "Grey",
           "Chinese": "灰",
@@ -2297,7 +2109,6 @@
       ],
       "15/19": [
         {
-          "": "",
           "American English": "Gold",
           "British English": "Gold",
           "Chinese": "金色",
@@ -2310,7 +2121,6 @@
       ],
       "16/19": [
         {
-          "": "",
           "American English": "Bronze",
           "British English": "Bronze (color)",
           "Chinese": "青铜色",
@@ -2323,7 +2133,6 @@
       ],
       "17/19": [
         {
-          "": "",
           "American English": "Silver (color)",
           "British English": "Silver (color)",
           "Chinese": "银色（颜色）",
@@ -2336,7 +2145,6 @@
       ],
       "18/19": [
         {
-          "": "",
           "American English": "Light (color)",
           "British English": "Light (color)",
           "Chinese": "浅（颜色）",
@@ -2349,7 +2157,6 @@
       ],
       "19/19": [
         {
-          "": "",
           "American English": "Dark (color)",
           "British English": "Dark (color)",
           "Chinese": "深（颜色）",
@@ -2364,7 +2171,6 @@
     "Common Signs Lesson Pt 1": {
       "01/20": [
         {
-          "": "",
           "American English": "Teach",
           "British English": "Teach",
           "Chinese": "教学",
@@ -2377,7 +2183,6 @@
       ],
       "02/20": [
         {
-          "": "",
           "American English": "Learn",
           "British English": "Learn",
           "Chinese": "学习",
@@ -2390,7 +2195,6 @@
       ],
       "03/20": [
         {
-          "": "",
           "American English": "Person",
           "British English": "Person",
           "Chinese": "学生",
@@ -2403,7 +2207,6 @@
       ],
       "04/20": [
         {
-          "": "",
           "American English": "Student",
           "British English": "Student",
           "Chinese": "学生",
@@ -2416,7 +2219,6 @@
       ],
       "05/20": [
         {
-          "": "",
           "American English": "Teacher",
           "British English": "Teacher",
           "Chinese": "教师",
@@ -2429,7 +2231,6 @@
       ],
       "06/20": [
         {
-          "": "",
           "American English": "friend",
           "British English": "friend",
           "Chinese": "朋友",
@@ -2442,7 +2243,6 @@
       ],
       "07/20": [
         {
-          "": "",
           "American English": "sign",
           "British English": "sign",
           "Chinese": "手势",
@@ -2455,7 +2255,6 @@
       ],
       "08/20": [
         {
-          "": "",
           "American English": "language",
           "British English": "language",
           "Chinese": "语言",
@@ -2468,7 +2267,6 @@
       ],
       "09/20": [
         {
-          "": "",
           "American English": "understand",
           "British English": "understand",
           "Chinese": "理解",
@@ -2481,7 +2279,6 @@
       ],
       "10/20": [
         {
-          "": "",
           "American English": "know",
           "British English": "know",
           "Chinese": "知道",
@@ -2494,7 +2291,6 @@
       ],
       "11/20": [
         {
-          "": "",
           "American English": "don't know",
           "British English": "don't know",
           "Chinese": "不知道",
@@ -2507,7 +2303,6 @@
       ],
       "12/20": [
         {
-          "": "",
           "American English": "Be Right Back (BRB)",
           "British English": "Be back soon / (BRB)",
           "Chinese": "马上回来 (BRB)",
@@ -2520,7 +2315,6 @@
       ],
       "13/20": [
         {
-          "": "",
           "American English": "accept",
           "British English": "accept",
           "Chinese": "接受",
@@ -2533,7 +2327,6 @@
       ],
       "14/20": [
         {
-          "": "",
           "American English": "Deny (access)",
           "British English": "Deny / denied",
           "Chinese": "拒绝（访问）",
@@ -2546,7 +2339,6 @@
       ],
       "15/20": [
         {
-          "": "",
           "American English": "name",
           "British English": "name",
           "Chinese": "名称",
@@ -2559,7 +2351,6 @@
       ],
       "16/20": [
         {
-          "": "",
           "American English": "new",
           "British English": "new",
           "Chinese": "新",
@@ -2572,7 +2363,6 @@
       ],
       "17/20": [
         {
-          "": "",
           "American English": "old",
           "British English": "old",
           "Chinese": "旧",
@@ -2585,7 +2375,6 @@
       ],
       "18/20": [
         {
-          "": "",
           "American English": "very",
           "British English": "very",
           "Chinese": "非常",
@@ -2598,7 +2387,6 @@
       ],
       "19/20": [
         {
-          "": "",
           "American English": "joke",
           "British English": "joke/kidding",
           "Chinese": "笑话",
@@ -2611,7 +2399,6 @@
       ],
       "20/20": [
         {
-          "": "",
           "American English": "funny",
           "British English": "funny",
           "Chinese": "搞笑",
@@ -2626,7 +2413,6 @@
     "Common Signs Lesson Pt 2": {
       "01/23": [
         {
-          "": "",
           "American English": "play",
           "British English": "play",
           "Chinese": "游戏",
@@ -2639,7 +2425,6 @@
       ],
       "02/23": [
         {
-          "": "",
           "American English": "favorite",
           "British English": "Favourite",
           "Chinese": "最喜欢",
@@ -2652,7 +2437,6 @@
       ],
       "03/23": [
         {
-          "": "",
           "American English": "Draw/Tie (same score)",
           "British English": "Draw/Tie (same score)",
           "Chinese": "平局/平手（比分相同）",
@@ -2665,7 +2449,6 @@
       ],
       "04/23": [
         {
-          "": "",
           "American English": "stop",
           "British English": "stop",
           "Chinese": "停止",
@@ -2678,7 +2461,6 @@
       ],
       "05/23": [
         {
-          "": "",
           "American English": "read",
           "British English": "read",
           "Chinese": "阅读",
@@ -2691,7 +2473,6 @@
       ],
       "06/23": [
         {
-          "": "",
           "American English": "make",
           "British English": "make",
           "Chinese": "做",
@@ -2704,7 +2485,6 @@
       ],
       "07/23": [
         {
-          "": "",
           "American English": "write Slow",
           "British English": "write Slow",
           "Chinese": "写 慢",
@@ -2717,7 +2497,6 @@
       ],
       "08/23": [
         {
-          "": "",
           "American English": "again",
           "British English": "again",
           "Chinese": "再",
@@ -2730,7 +2509,6 @@
       ],
       "09/23": [
         {
-          "": "",
           "American English": "repeat",
           "British English": "repeat",
           "Chinese": "重复",
@@ -2743,7 +2521,6 @@
       ],
       "10/23": [
         {
-          "": "",
           "American English": "slow",
           "British English": "slow",
           "Chinese": "慢",
@@ -2756,7 +2533,6 @@
       ],
       "11/23": [
         {
-          "": "",
           "American English": "fast",
           "British English": "fast",
           "Chinese": "快",
@@ -2769,7 +2545,6 @@
       ],
       "12/23": [
         {
-          "": "",
           "American English": "rude",
           "British English": "rude",
           "Chinese": "粗鲁",
@@ -2782,7 +2557,6 @@
       ],
       "13/23": [
         {
-          "": "",
           "American English": "eat",
           "British English": "eat",
           "Chinese": "吃",
@@ -2795,7 +2569,6 @@
       ],
       "14/23": [
         {
-          "": "",
           "American English": "drink",
           "British English": "drink",
           "Chinese": "喝",
@@ -2808,7 +2581,6 @@
       ],
       "15/23": [
         {
-          "": "",
           "American English": "watch",
           "British English": "watch",
           "Chinese": "看",
@@ -2821,7 +2593,6 @@
       ],
       "16/23": [
         {
-          "": "",
           "American English": "work",
           "British English": "work",
           "Chinese": "工作",
@@ -2834,7 +2605,6 @@
       ],
       "17/23": [
         {
-          "": "",
           "American English": "live",
           "British English": "live",
           "Chinese": "生活",
@@ -2847,7 +2617,6 @@
       ],
       "18/23": [
         {
-          "": "",
           "American English": "play game",
           "British English": "play game",
           "Chinese": "玩游戏",
@@ -2860,7 +2629,6 @@
       ],
       "19/23": [
         {
-          "": "",
           "American English": "same",
           "British English": "same",
           "Chinese": "一样",
@@ -2873,7 +2641,6 @@
       ],
       "20/23": [
         {
-          "": "",
           "American English": "all right",
           "British English": "all right",
           "Chinese": "没事",
@@ -2886,7 +2653,6 @@
       ],
       "21/23": [
         {
-          "": "",
           "American English": "people",
           "British English": "people",
           "Chinese": "人",
@@ -2899,7 +2665,6 @@
       ],
       "22/23": [
         {
-          "": "",
           "American English": "browsing the internet (look internet)",
           "British English": "search (the) internet",
           "Chinese": "浏览互联网",
@@ -2912,7 +2677,6 @@
       ],
       "23/23": [
         {
-          "": "",
           "American English": "movie",
           "British English": "movie",
           "Chinese": "电影",
@@ -2927,7 +2691,6 @@
     "Court Lesson": {
       "01/14": [
         {
-          "": "",
           "American English": "Arrest / Under Arrest",
           "British English": "Arrest / Under Arrest",
           "Chinese": "逮捕 / 被捕",
@@ -2940,7 +2703,6 @@
       ],
       "02/14": [
         {
-          "": "",
           "American English": "Deny (Court)",
           "British English": "Deny (Court)",
           "Chinese": "拒绝（法院）",
@@ -2953,7 +2715,6 @@
       ],
       "03/14": [
         {
-          "": "",
           "American English": "Charge (court)",
           "British English": "Charge (court)",
           "Chinese": "指控（法院）",
@@ -2966,7 +2727,6 @@
       ],
       "04/14": [
         {
-          "": "",
           "American English": "Fine (Penalty)",
           "British English": "Fine (Penalty)",
           "Chinese": "罚款（处罚）",
@@ -2979,7 +2739,6 @@
       ],
       "05/14": [
         {
-          "": "",
           "American English": "Guilty",
           "British English": "Guilty",
           "Chinese": "有罪",
@@ -2992,7 +2751,6 @@
       ],
       "06/14": [
         {
-          "": "",
           "American English": "Handcuffs",
           "British English": "Handcuffs",
           "Chinese": "手铐",
@@ -3005,7 +2763,6 @@
       ],
       "07/14": [
         {
-          "": "",
           "American English": "Innocent",
           "British English": "Innocent",
           "Chinese": "无罪",
@@ -3018,7 +2775,6 @@
       ],
       "08/14": [
         {
-          "": "",
           "American English": "Jail/prison",
           "British English": "Jail/prison",
           "Chinese": "监狱",
@@ -3031,7 +2787,6 @@
       ],
       "09/14": [
         {
-          "": "",
           "American English": "Judge (person)",
           "British English": "Judge (person)",
           "Chinese": "法官（人）",
@@ -3044,7 +2799,6 @@
       ],
       "10/14": [
         {
-          "": "",
           "American English": "Jury",
           "British English": "Jury",
           "Chinese": "陪审团",
@@ -3057,7 +2811,6 @@
       ],
       "11/14": [
         {
-          "": "",
           "American English": "Lawyer (attorney)",
           "British English": "Lawyer (attorney)",
           "Chinese": "律师",
@@ -3070,7 +2823,6 @@
       ],
       "12/14": [
         {
-          "": "",
           "American English": "Police/Cop",
           "British English": "Police officer",
           "Chinese": "警察/协警",
@@ -3083,7 +2835,6 @@
       ],
       "13/14": [
         {
-          "": "",
           "American English": "Sentence (Court)",
           "British English": "Sentence (Court)",
           "Chinese": "判决（法院）",
@@ -3096,7 +2847,6 @@
       ],
       "14/14": [
         {
-          "": "",
           "American English": "Sheriff",
           "British English": "police inspector",
           "Chinese": "警长",
@@ -3111,7 +2861,6 @@
     "Daily Use Lesson Pt 2": {
       "01/21": [
         {
-          "": "",
           "American English": "Please",
           "British English": "Please",
           "Chinese": "请/拜托",
@@ -3124,7 +2873,6 @@
       ],
       "02/21": [
         {
-          "": "",
           "American English": "Sorry",
           "British English": "Sorry",
           "Chinese": "对不起",
@@ -3137,7 +2885,6 @@
       ],
       "03/21": [
         {
-          "": "",
           "American English": "Forget",
           "British English": "Forget",
           "Chinese": "忘记",
@@ -3150,7 +2897,6 @@
       ],
       "04/21": [
         {
-          "": "",
           "American English": "Sleep",
           "British English": "Sleep",
           "Chinese": "睡觉",
@@ -3163,7 +2909,6 @@
       ],
       "05/21": [
         {
-          "": "",
           "American English": "Bed",
           "British English": "Bed",
           "Chinese": "床",
@@ -3176,7 +2921,6 @@
       ],
       "06/21": [
         {
-          "": "",
           "American English": "Change world (VRC version)",
           "British English": "Change (VRC) World",
           "Chinese": "去传送门",
@@ -3189,7 +2933,6 @@
       ],
       "07/21": [
         {
-          "": "",
           "American English": "Thank you",
           "British English": "Thank you",
           "Chinese": "谢谢",
@@ -3202,7 +2945,6 @@
       ],
       "08/21": [
         {
-          "": "",
           "American English": "I love you",
           "British English": "I love you",
           "Chinese": "我爱你",
@@ -3215,7 +2957,6 @@
       ],
       "09/21": [
         {
-          "": "",
           "American English": "Go away",
           "British English": "Go away",
           "Chinese": "ILY （我爱你）",
@@ -3228,7 +2969,6 @@
       ],
       "10/21": [
         {
-          "": "",
           "American English": "Go-to",
           "British English": "Go-to",
           "Chinese": "走开",
@@ -3241,7 +2981,6 @@
       ],
       "11/21": [
         {
-          "": "",
           "American English": "Leave",
           "British English": "leave",
           "Chinese": "离开",
@@ -3254,7 +2993,6 @@
       ],
       "12/21": [
         {
-          "": "",
           "American English": "Follow",
           "British English": "Follow",
           "Chinese": "去",
@@ -3267,7 +3005,6 @@
       ],
       "13/21": [
         {
-          "": "",
           "American English": "Come",
           "British English": "Come",
           "Chinese": "跟随",
@@ -3280,7 +3017,6 @@
       ],
       "14/21": [
         {
-          "": "",
           "American English": "Write slow",
           "British English": "Write slow",
           "Chinese": "哑",
@@ -3293,7 +3029,6 @@
       ],
       "15/21": [
         {
-          "": "",
           "American English": "Can't Read",
           "British English": "Cannot read",
           "Chinese": "慢写",
@@ -3306,7 +3041,6 @@
       ],
       "16/21": [
         {
-          "": "",
           "American English": "Hearing",
           "British English": "Hearing",
           "Chinese": "听力",
@@ -3319,7 +3053,6 @@
       ],
       "17/21": [
         {
-          "": "",
           "American English": "Hard of Hearing",
           "British English": "Hard of Hearing",
           "Chinese": "耳聋",
@@ -3332,7 +3065,6 @@
       ],
       "18/21": [
         {
-          "": "",
           "American English": "Deaf",
           "British English": "Deaf",
           "Chinese": "耳聪",
@@ -3345,7 +3077,6 @@
       ],
       "19/21": [
         {
-          "": "",
           "American English": "Blind",
           "British English": "Blind",
           "Chinese": "盲人",
@@ -3358,7 +3089,6 @@
       ],
       "20/21": [
         {
-          "": "",
           "American English": "Mute",
           "British English": "Mute",
           "Chinese": "弱听",
@@ -3371,7 +3101,6 @@
       ],
       "21/21": [
         {
-          "": "",
           "American English": "DeafBlind",
           "British English": "DeafBlind",
           "Chinese": "聋盲人",
@@ -3386,7 +3115,6 @@
     "Daily use Lesson Pt 1": {
       "01/18": [
         {
-          "": "",
           "American English": "Hello / Good Bye",
           "British English": "Hello",
           "Chinese": "你好",
@@ -3399,7 +3127,6 @@
       ],
       "02/18": [
         {
-          "": "",
           "American English": "How you (How Are you)",
           "British English": "How are you",
           "Chinese": "你好吗",
@@ -3412,7 +3139,6 @@
       ],
       "03/18": [
         {
-          "": "",
           "American English": "What's Up?",
           "British English": "What’s up?",
           "Chinese": "怎么了",
@@ -3425,7 +3151,6 @@
       ],
       "04/18": [
         {
-          "": "",
           "American English": "Nice (to) Meet You",
           "British English": "Nice to meet you",
           "Chinese": "很高兴认识你",
@@ -3438,7 +3163,6 @@
       ],
       "05/18": [
         {
-          "": "",
           "American English": "Good",
           "British English": "Good",
           "Chinese": "好",
@@ -3451,7 +3175,6 @@
       ],
       "06/18": [
         {
-          "": "",
           "American English": "Bad",
           "British English": "Bad",
           "Chinese": "坏/不好",
@@ -3464,7 +3187,6 @@
       ],
       "07/18": [
         {
-          "": "",
           "American English": "Yes",
           "British English": "Yes",
           "Chinese": "是",
@@ -3477,7 +3199,6 @@
       ],
       "08/18": [
         {
-          "": "",
           "American English": "No",
           "British English": "No",
           "Chinese": "否/不是",
@@ -3490,7 +3211,6 @@
       ],
       "09/18": [
         {
-          "": "",
           "American English": "So-So",
           "British English": "So-So",
           "Chinese": "一般",
@@ -3503,7 +3223,6 @@
       ],
       "10/18": [
         {
-          "": "",
           "American English": "Sick",
           "British English": "Sick",
           "Chinese": "生病",
@@ -3516,7 +3235,6 @@
       ],
       "11/18": [
         {
-          "": "",
           "American English": "Hurt",
           "British English": "Hurt",
           "Chinese": "疼痛/伤害",
@@ -3529,7 +3247,6 @@
       ],
       "12/18": [
         {
-          "": "",
           "American English": "Welcome",
           "British English": "You’re welcome",
           "Chinese": "不客气",
@@ -3542,7 +3259,6 @@
       ],
       "13/18": [
         {
-          "": "",
           "American English": "Goodbye / Bye",
           "British English": "Good bye",
           "Chinese": "再见",
@@ -3555,7 +3271,6 @@
       ],
       "14/18": [
         {
-          "": "",
           "American English": "Good morning",
           "British English": "Good morning",
           "Chinese": "早安",
@@ -3568,7 +3283,6 @@
       ],
       "15/18": [
         {
-          "": "",
           "American English": "Good afternoon",
           "British English": "Good afternoon",
           "Chinese": "下午好",
@@ -3581,7 +3295,6 @@
       ],
       "16/18": [
         {
-          "": "",
           "American English": "Good evening",
           "British English": "Good evening",
           "Chinese": "晚上好",
@@ -3594,7 +3307,6 @@
       ],
       "17/18": [
         {
-          "": "",
           "American English": "Good night",
           "British English": "Good night",
           "Chinese": "晚安",
@@ -3607,7 +3319,6 @@
       ],
       "18/18": [
         {
-          "": "",
           "American English": "See (You) Later",
           "British English": "See you later",
           "Chinese": "回头见",
@@ -3622,7 +3333,6 @@
     "Day-to-Day Stores": {
       "01/15": [
         {
-          "": "",
           "American English": "Bakery",
           "British English": "Bakery",
           "Chinese": "面包店 (miànbāo diàn)",
@@ -3635,7 +3345,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Post Office",
           "British English": "Post Office",
           "Chinese": "邮局 (yóujú)",
@@ -3648,7 +3357,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Bank",
           "British English": "Bank",
           "Chinese": "银行 (yínháng)",
@@ -3661,7 +3369,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Pharmacy",
           "British English": "Pharmacy",
           "Chinese": "药店 (yàodiàn)",
@@ -3674,7 +3381,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Supermarket",
           "British English": "Supermarket",
           "Chinese": "超市 (chāoshì)",
@@ -3687,7 +3393,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Library",
           "British English": "Library",
           "Chinese": "图书馆 (túshūguǎn)",
@@ -3700,7 +3405,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Clothing Store",
           "British English": "Clothes Shop",
           "Chinese": "服装店 (fúzhuāng diàn)",
@@ -3713,7 +3417,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Bookstore",
           "British English": "Bookshop",
           "Chinese": "书店 (shūdiàn)",
@@ -3726,7 +3429,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Butcher",
           "British English": "Butcher",
           "Chinese": "肉店 (ròudiàn)",
@@ -3739,7 +3441,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Grocery Store",
           "British English": "Grocery Store",
           "Chinese": "杂货店 (záhuò diàn)",
@@ -3752,7 +3453,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Flower Shop",
           "British English": "Florist",
           "Chinese": "花店 (huādiàn)",
@@ -3765,7 +3465,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Toy Store",
           "British English": "Toy Shop",
           "Chinese": "玩具店 (wánjù diàn)",
@@ -3778,7 +3477,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Barber Shop",
           "British English": "Barbers",
           "Chinese": "理发店 (lǐfà diàn)",
@@ -3791,7 +3489,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Coffee Shop",
           "British English": "Coffee Shop",
           "Chinese": "咖啡店 (kāfēi diàn)",
@@ -3804,7 +3501,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Restaurant",
           "British English": "Restaurant",
           "Chinese": "餐厅 (cāntīng)",
@@ -3819,7 +3515,6 @@
     "Desserts Lesson": {
       "01/13": [
         {
-          "": "",
           "American English": "Cake",
           "British English": "Cake",
           "Chinese": "蛋糕",
@@ -3832,7 +3527,6 @@
       ],
       "02/13": [
         {
-          "": "",
           "American English": "Candy",
           "British English": "candy/sweet",
           "Chinese": "糖果",
@@ -3845,7 +3539,6 @@
       ],
       "03/13": [
         {
-          "": "",
           "American English": "Chocolate",
           "British English": "Chocolate",
           "Chinese": "巧克力",
@@ -3858,7 +3551,6 @@
       ],
       "04/13": [
         {
-          "": "",
           "American English": "Cookie",
           "British English": "Cookie",
           "Chinese": "饼干",
@@ -3871,7 +3563,6 @@
       ],
       "05/13": [
         {
-          "": "",
           "American English": "Delicious",
           "British English": "Delicious",
           "Chinese": "美味可口",
@@ -3884,7 +3575,6 @@
       ],
       "06/13": [
         {
-          "": "",
           "American English": "Dessert",
           "British English": "Dessert",
           "Chinese": "甜点",
@@ -3897,7 +3587,6 @@
       ],
       "07/13": [
         {
-          "": "",
           "American English": "Ice cream",
           "British English": "Ice cream",
           "Chinese": "冰淇淋",
@@ -3910,7 +3599,6 @@
       ],
       "08/13": [
         {
-          "": "",
           "American English": "Jam",
           "British English": "jam",
           "Chinese": "果冻",
@@ -3923,7 +3611,6 @@
       ],
       "09/13": [
         {
-          "": "",
           "American English": "Jello",
           "British English": "jelly",
           "Chinese": "果冻",
@@ -3936,7 +3623,6 @@
       ],
       "10/13": [
         {
-          "": "",
           "American English": "Pie",
           "British English": "Pie",
           "Chinese": "派",
@@ -3949,7 +3635,6 @@
       ],
       "11/13": [
         {
-          "": "",
           "American English": "Sweet",
           "British English": "Sweet",
           "Chinese": "甜点",
@@ -3962,7 +3647,6 @@
       ],
       "12/13": [
         {
-          "": "",
           "American English": "Syrup",
           "British English": "Syrup",
           "Chinese": "糖浆",
@@ -3975,7 +3659,6 @@
       ],
       "13/13": [
         {
-          "": "",
           "American English": "Vanilla",
           "British English": "Vanilla",
           "Chinese": "香草",
@@ -3990,7 +3673,6 @@
     "Disability Lesson": {
       "01/14": [
         {
-          "": "",
           "American English": "Ableism",
           "British English": "Ableism",
           "Chinese": "残疾主义",
@@ -4003,7 +3685,6 @@
       ],
       "02/14": [
         {
-          "": "",
           "American English": "Accessible/Accessibilty",
           "British English": "accessible/accessibility",
           "Chinese": "无障碍/无障碍",
@@ -4016,7 +3697,6 @@
       ],
       "03/14": [
         {
-          "": "",
           "American English": "Advocate",
           "British English": "Advocate",
           "Chinese": "倡导者",
@@ -4029,7 +3709,6 @@
       ],
       "04/14": [
         {
-          "": "",
           "American English": "Advocator",
           "British English": "Advocator",
           "Chinese": "倡导者",
@@ -4042,7 +3721,6 @@
       ],
       "05/14": [
         {
-          "": "",
           "American English": "Against",
           "British English": "Against",
           "Chinese": "反对",
@@ -4055,7 +3733,6 @@
       ],
       "06/14": [
         {
-          "": "",
           "American English": "Ally",
           "British English": "Ally",
           "Chinese": "盟友",
@@ -4068,7 +3745,6 @@
       ],
       "07/14": [
         {
-          "": "",
           "American English": "Audism (audio)",
           "British English": "Audism (audio)",
           "Chinese": "听觉（音频）",
@@ -4081,7 +3757,6 @@
       ],
       "08/14": [
         {
-          "": "",
           "American English": "Deprivation",
           "British English": "Deprivation",
           "Chinese": "剥夺",
@@ -4094,7 +3769,6 @@
       ],
       "09/14": [
         {
-          "": "",
           "American English": "Disabled/Disability",
           "British English": "Disabled/Disability",
           "Chinese": "残疾人/残疾",
@@ -4107,7 +3781,6 @@
       ],
       "10/14": [
         {
-          "": "",
           "American English": "Discrimination",
           "British English": "Discrimination",
           "Chinese": "歧视",
@@ -4120,7 +3793,6 @@
       ],
       "11/14": [
         {
-          "": "",
           "American English": "Language",
           "British English": "Language",
           "Chinese": "语言",
@@ -4133,7 +3805,6 @@
       ],
       "12/14": [
         {
-          "": "",
           "American English": "Oppression/Oppressive",
           "British English": "Oppression/Oppressive",
           "Chinese": "压迫/压迫性",
@@ -4146,7 +3817,6 @@
       ],
       "13/14": [
         {
-          "": "",
           "American English": "Prejudice",
           "British English": "Prejudice",
           "Chinese": "偏见",
@@ -4159,7 +3829,6 @@
       ],
       "14/14": [
         {
-          "": "",
           "American English": "Rights",
           "British English": "Rights",
           "Chinese": "权利",
@@ -4174,7 +3843,6 @@
     "Family Lesson": {
       "01/16": [
         {
-          "": "",
           "American English": "Family",
           "British English": "Family",
           "Chinese": "家庭 (jiātíng)",
@@ -4187,7 +3855,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Father",
           "British English": "Father",
           "Chinese": "父亲 (fùqīn)",
@@ -4200,7 +3867,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Mother",
           "British English": "Mother",
           "Chinese": "母亲 (mǔqīn)",
@@ -4213,7 +3879,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Parent",
           "British English": "Parent",
           "Chinese": "父母 (fùmǔ)",
@@ -4226,7 +3891,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Brother",
           "British English": "Brother",
           "Chinese": "兄弟 (xiōngdì)",
@@ -4239,7 +3903,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Sister",
           "British English": "Sister",
           "Chinese": "姐妹 (jiěmèi)",
@@ -4252,7 +3915,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Son",
           "British English": "Son",
           "Chinese": "儿子 (érzi)",
@@ -4265,7 +3927,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Daughter",
           "British English": "Daughter",
           "Chinese": "女儿 (nǚ'ér)",
@@ -4278,7 +3939,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Grandfather",
           "British English": "Grandfather",
           "Chinese": "祖父 (zǔfù)",
@@ -4291,7 +3951,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Grandmother",
           "British English": "Grandmother",
           "Chinese": "祖母 (zǔmǔ)",
@@ -4304,7 +3963,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Grandchild",
           "British English": "Grandchild",
           "Chinese": "孙子/孙女 (sūnzi/sūnnǚ)",
@@ -4317,7 +3975,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Uncle",
           "British English": "Uncle",
           "Chinese": "叔叔/舅舅 (shūshu/jiùjiu)",
@@ -4330,7 +3987,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Aunt",
           "British English": "Aunt",
           "Chinese": "阿姨/姑姑 (āyí/gūgu)",
@@ -4343,7 +3999,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Cousin",
           "British English": "Cousin",
           "Chinese": "堂兄弟姐妹 (táng xiōngdì jiěmèi)",
@@ -4356,7 +4011,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Nephew",
           "British English": "Nephew",
           "Chinese": "侄子 (zhízi)",
@@ -4369,7 +4023,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Niece",
           "British English": "Niece",
           "Chinese": "侄女 (zhínǚ)",
@@ -4384,7 +4037,6 @@
     "Fantasy": {
       "01/16": [
         {
-          "": "",
           "American English": "Bow",
           "British English": "Bow",
           "Chinese": "弓",
@@ -4397,7 +4049,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Sword",
           "British English": "Sword",
           "Chinese": "剑",
@@ -4410,7 +4061,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Shield",
           "British English": "Shield",
           "Chinese": "盾",
@@ -4423,7 +4073,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Staff / Wand",
           "British English": "Staff / Wand",
           "Chinese": "法杖 / 魔杖",
@@ -4436,7 +4085,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Gun (shoot)",
           "British English": "Gun (shoot)",
           "Chinese": "枪",
@@ -4449,7 +4097,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Power",
           "British English": "Power",
           "Chinese": "力量",
@@ -4462,7 +4109,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Healing",
           "British English": "Healing",
           "Chinese": "治愈",
@@ -4475,7 +4121,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Resurrect",
           "British English": "Resurrect",
           "Chinese": "复活",
@@ -4488,7 +4133,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Angel",
           "British English": "Angel",
           "Chinese": "天使",
@@ -4501,7 +4145,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Demon",
           "British English": "Demon",
           "Chinese": "恶魔",
@@ -4514,7 +4157,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Dragon",
           "British English": "Dragon",
           "Chinese": "龙",
@@ -4527,7 +4169,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Elf",
           "British English": "Elf",
           "Chinese": "精灵",
@@ -4540,7 +4181,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Ghost / Soul / Spirit",
           "British English": "Ghost / Soul / Spirit",
           "Chinese": "鬼魂 / 灵魂 / 精灵",
@@ -4553,7 +4193,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Human",
           "British English": "Human",
           "Chinese": "人类",
@@ -4566,7 +4205,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Monster",
           "British English": "Monster",
           "Chinese": "怪物",
@@ -4579,7 +4217,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Zombie",
           "British English": "Zombie",
           "Chinese": "僵尸",
@@ -4594,7 +4231,6 @@
     "Feelings Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "Happy",
           "British English": "Happy",
           "Chinese": "开心 (kāixīn)",
@@ -4607,7 +4243,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Sad",
           "British English": "Sad",
           "Chinese": "伤心 (shāngxīn)",
@@ -4620,7 +4255,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Angry",
           "British English": "Angry",
           "Chinese": "生气 (shēngqì)",
@@ -4633,7 +4267,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Excited",
           "British English": "Excited",
           "Chinese": "兴奋 (xīngfèn)",
@@ -4646,7 +4279,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Tired",
           "British English": "Tired",
           "Chinese": "累 (lèi)",
@@ -4659,7 +4291,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Afraid",
           "British English": "Afraid",
           "Chinese": "害怕 (hàipà)",
@@ -4672,7 +4303,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Confused",
           "British English": "Confused",
           "Chinese": "困惑 (kùnhuò)",
@@ -4685,7 +4315,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Embarrassed",
           "British English": "Embarrassed",
           "Chinese": "尴尬 (gāngà)",
@@ -4698,7 +4327,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Proud",
           "British English": "Proud",
           "Chinese": "自豪 (zìháo)",
@@ -4711,7 +4339,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Lonely",
           "British English": "Lonely",
           "Chinese": "孤独 (gūdú)",
@@ -4724,7 +4351,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Jealous",
           "British English": "Jealous",
           "Chinese": "嫉妒 (jídù)",
@@ -4737,7 +4363,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Grateful",
           "British English": "Grateful",
           "Chinese": "感激 (gǎnjī)",
@@ -4750,7 +4375,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Surprised",
           "British English": "Surprised",
           "Chinese": "惊讶 (jīngyà)",
@@ -4763,7 +4387,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Bored",
           "British English": "Bored",
           "Chinese": "无聊 (wúliáo)",
@@ -4776,7 +4399,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Calm",
           "British English": "Calm",
           "Chinese": "冷静 (lěngjìng)",
@@ -4791,7 +4413,6 @@
     "Fire Drill Lesson": {
       "01/14": [
         {
-          "": "",
           "American English": "Alarm",
           "British English": "Alarm",
           "Chinese": "警报",
@@ -4804,7 +4425,6 @@
       ],
       "02/14": [
         {
-          "": "",
           "American English": "burn",
           "British English": "burn",
           "Chinese": "烧伤",
@@ -4817,7 +4437,6 @@
       ],
       "03/14": [
         {
-          "": "",
           "American English": "damage",
           "British English": "damage",
           "Chinese": "损坏",
@@ -4830,7 +4449,6 @@
       ],
       "04/14": [
         {
-          "": "",
           "American English": "emergency contact",
           "British English": "emergency contact",
           "Chinese": "紧急联系",
@@ -4843,7 +4461,6 @@
       ],
       "05/14": [
         {
-          "": "",
           "American English": "exit",
           "British English": "exit",
           "Chinese": "出口",
@@ -4856,7 +4473,6 @@
       ],
       "06/14": [
         {
-          "": "",
           "American English": "fire",
           "British English": "fire",
           "Chinese": "火灾",
@@ -4869,7 +4485,6 @@
       ],
       "07/14": [
         {
-          "": "",
           "American English": "fire drill",
           "British English": "fire drill",
           "Chinese": "消防演习",
@@ -4882,7 +4497,6 @@
       ],
       "08/14": [
         {
-          "": "",
           "American English": "fire extinguisher",
           "British English": "fire extinguisher",
           "Chinese": "灭火器",
@@ -4895,7 +4509,6 @@
       ],
       "09/14": [
         {
-          "": "",
           "American English": "fire hydrant",
           "British English": "fire hydrant",
           "Chinese": "消防栓",
@@ -4908,7 +4521,6 @@
       ],
       "10/14": [
         {
-          "": "",
           "American English": "fire truck",
           "British English": "fire engine",
           "Chinese": "消防车",
@@ -4921,7 +4533,6 @@
       ],
       "11/14": [
         {
-          "": "",
           "American English": "firefighter",
           "British English": "fireman",
           "Chinese": "消防员",
@@ -4934,7 +4545,6 @@
       ],
       "12/14": [
         {
-          "": "",
           "American English": "safety",
           "British English": "safety",
           "Chinese": "安全",
@@ -4947,7 +4557,6 @@
       ],
       "13/14": [
         {
-          "": "",
           "American English": "smoke",
           "British English": "smoke",
           "Chinese": "烟雾",
@@ -4960,7 +4569,6 @@
       ],
       "14/14": [
         {
-          "": "",
           "American English": "stop, drop, and roll",
           "British English": "stop, drop, and roll",
           "Chinese": "停、降、滚",
@@ -4975,7 +4583,6 @@
     "Food & Drinks Lesson Pt 2": {
       "01/19": [
         {
-          "": "",
           "American English": "Ice Cream",
           "British English": "Ice Cream",
           "Chinese": "冰淇淋",
@@ -4988,7 +4595,6 @@
       ],
       "02/19": [
         {
-          "": "",
           "American English": "Juice",
           "British English": "Juice",
           "Chinese": "果汁",
@@ -5001,7 +4607,6 @@
       ],
       "03/19": [
         {
-          "": "",
           "American English": "Meat",
           "British English": "Meat",
           "Chinese": "肉类",
@@ -5014,7 +4619,6 @@
       ],
       "04/19": [
         {
-          "": "",
           "American English": "Milk",
           "British English": "Milk",
           "Chinese": "牛奶",
@@ -5027,7 +4631,6 @@
       ],
       "05/19": [
         {
-          "": "",
           "American English": "Noodles",
           "British English": "Noodles",
           "Chinese": "面条",
@@ -5040,7 +4643,6 @@
       ],
       "06/19": [
         {
-          "": "",
           "American English": "Nuts/Peanuts",
           "British English": "Nuts/Peanuts",
           "Chinese": "坚果/花生",
@@ -5053,7 +4655,6 @@
       ],
       "07/19": [
         {
-          "": "",
           "American English": "Pie",
           "British English": "Pie",
           "Chinese": "派",
@@ -5066,7 +4667,6 @@
       ],
       "08/19": [
         {
-          "": "",
           "American English": "Pizza",
           "British English": "Pizza",
           "Chinese": "披萨",
@@ -5079,7 +4679,6 @@
       ],
       "09/19": [
         {
-          "": "",
           "American English": "Pop/Soda",
           "British English": "fizzy drink/soft drink",
           "Chinese": "汽水",
@@ -5092,7 +4691,6 @@
       ],
       "10/19": [
         {
-          "": "",
           "American English": "Salt",
           "British English": "Salt",
           "Chinese": "盐",
@@ -5105,7 +4703,6 @@
       ],
       "11/19": [
         {
-          "": "",
           "American English": "Sandwich",
           "British English": "Sandwich",
           "Chinese": "三明治",
@@ -5118,7 +4715,6 @@
       ],
       "12/19": [
         {
-          "": "",
           "American English": "Spaghetti",
           "British English": "Spaghetti",
           "Chinese": "意大利面",
@@ -5131,7 +4727,6 @@
       ],
       "13/19": [
         {
-          "": "",
           "American English": "Sugar",
           "British English": "Sugar",
           "Chinese": "糖",
@@ -5144,7 +4739,6 @@
       ],
       "14/19": [
         {
-          "": "",
           "American English": "Sushi",
           "British English": "Sushi",
           "Chinese": "寿司",
@@ -5157,7 +4751,6 @@
       ],
       "15/19": [
         {
-          "": "",
           "American English": "Taco",
           "British English": "Taco",
           "Chinese": "玉米卷",
@@ -5170,7 +4763,6 @@
       ],
       "16/19": [
         {
-          "": "",
           "American English": "Turkey (meat)",
           "British English": "Turkey (meat)",
           "Chinese": "火鸡肉（肉类）",
@@ -5183,7 +4775,6 @@
       ],
       "17/19": [
         {
-          "": "",
           "American English": "Water",
           "British English": "Water",
           "Chinese": "水",
@@ -5196,7 +4787,6 @@
       ],
       "18/19": [
         {
-          "": "",
           "American English": "Wine",
           "British English": "Wine",
           "Chinese": "葡萄酒",
@@ -5209,7 +4799,6 @@
       ],
       "19/19": [
         {
-          "": "",
           "American English": "Yogurt",
           "British English": "Yogurt",
           "Chinese": "酸奶",
@@ -5224,7 +4813,6 @@
     "Food & Drinks Lesson pt 1": {
       "01/18": [
         {
-          "": "",
           "American English": "Apple Juice",
           "British English": "Apple Juice",
           "Chinese": "苹果汁",
@@ -5237,7 +4825,6 @@
       ],
       "02/18": [
         {
-          "": "",
           "American English": "Beer",
           "British English": "Beer",
           "Chinese": "啤酒",
@@ -5250,7 +4837,6 @@
       ],
       "03/18": [
         {
-          "": "",
           "American English": "Bread",
           "British English": "Bread",
           "Chinese": "面包",
@@ -5263,7 +4849,6 @@
       ],
       "04/18": [
         {
-          "": "",
           "American English": "Butter",
           "British English": "Butter",
           "Chinese": "黄油",
@@ -5276,7 +4861,6 @@
       ],
       "05/18": [
         {
-          "": "",
           "American English": "Cake",
           "British English": "Cake",
           "Chinese": "蛋糕",
@@ -5289,7 +4873,6 @@
       ],
       "06/18": [
         {
-          "": "",
           "American English": "Champagne",
           "British English": "Champagne",
           "Chinese": "香槟酒",
@@ -5302,7 +4885,6 @@
       ],
       "07/18": [
         {
-          "": "",
           "American English": "Cheese",
           "British English": "Cheese",
           "Chinese": "奶酪",
@@ -5315,7 +4897,6 @@
       ],
       "08/18": [
         {
-          "": "",
           "American English": "Chocolate",
           "British English": "Chocolate",
           "Chinese": "巧克力",
@@ -5328,7 +4909,6 @@
       ],
       "09/18": [
         {
-          "": "",
           "American English": "Chocolate Milk",
           "British English": "Milk Chocolate",
           "Chinese": "牛奶巧克力",
@@ -5341,7 +4921,6 @@
       ],
       "10/18": [
         {
-          "": "",
           "American English": "Coffee",
           "British English": "Coffee",
           "Chinese": "咖啡",
@@ -5354,7 +4933,6 @@
       ],
       "11/18": [
         {
-          "": "",
           "American English": "Cookie",
           "British English": "Cookie/Biscuit",
           "Chinese": "饼干",
@@ -5367,7 +4945,6 @@
       ],
       "12/18": [
         {
-          "": "",
           "American English": "Drink",
           "British English": "Drink",
           "Chinese": "饮料",
@@ -5380,7 +4957,6 @@
       ],
       "13/18": [
         {
-          "": "",
           "American English": "Eat/Food",
           "British English": "Eat/Food",
           "Chinese": "吃/食物",
@@ -5393,7 +4969,6 @@
       ],
       "14/18": [
         {
-          "": "",
           "American English": "Eggs",
           "British English": "Eggs",
           "Chinese": "鸡蛋",
@@ -5406,7 +4981,6 @@
       ],
       "15/18": [
         {
-          "": "",
           "American English": "Fish (meat)",
           "British English": "Fish (meat)",
           "Chinese": "鱼（肉）",
@@ -5419,7 +4993,6 @@
       ],
       "16/18": [
         {
-          "": "",
           "American English": "Hamburger",
           "British English": "Burger",
           "Chinese": "汉堡",
@@ -5432,7 +5005,6 @@
       ],
       "17/18": [
         {
-          "": "",
           "American English": "Hot Chocolate (Hot cocoa)",
           "British English": "Hot Chocolate (Hot cocoa)",
           "Chinese": "热巧克力（热可可）",
@@ -5445,7 +5017,6 @@
       ],
       "18/18": [
         {
-          "": "",
           "American English": "Hot Dog",
           "British English": "Hot Dog",
           "Chinese": "热狗",
@@ -5460,7 +5031,6 @@
     "Food Lesson: Fruits & Vegetables Pt 1": {
       "01/15": [
         {
-          "": "",
           "American English": "Fruit",
           "British English": "Fruit",
           "Chinese": "水果",
@@ -5473,7 +5043,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Apple",
           "British English": "Apple",
           "Chinese": "苹果",
@@ -5486,7 +5055,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Banana",
           "British English": "Banana",
           "Chinese": "香蕉",
@@ -5499,7 +5067,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Blackberry (Fruit)",
           "British English": "Blackberry (Fruit)",
           "Chinese": "黑莓（水果）",
@@ -5512,7 +5079,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Blueberry",
           "British English": "Blueberry",
           "Chinese": "蓝莓",
@@ -5525,7 +5091,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Cherry",
           "British English": "Cherry",
           "Chinese": "樱桃",
@@ -5538,7 +5103,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Coconut",
           "British English": "Coconut",
           "Chinese": "椰子",
@@ -5551,7 +5115,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Grapefruit",
           "British English": "Grapefruit",
           "Chinese": "葡萄柚",
@@ -5564,7 +5127,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Grape",
           "British English": "Grape",
           "Chinese": "葡萄",
@@ -5577,7 +5139,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Lemon",
           "British English": "Lemon",
           "Chinese": "柠檬",
@@ -5590,7 +5151,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Melon/Pumpkin",
           "British English": "Melon/Pumpkin",
           "Chinese": "甜瓜/南瓜",
@@ -5603,7 +5163,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Orange (fruit)",
           "British English": "Orange (fruit)",
           "Chinese": "橙子（水果）",
@@ -5616,7 +5175,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Peach",
           "British English": "Peach",
           "Chinese": "桃子",
@@ -5629,7 +5187,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Pear",
           "British English": "Pear",
           "Chinese": "梨",
@@ -5642,7 +5199,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Pineapple",
           "British English": "Pineapple",
           "Chinese": "菠萝",
@@ -5657,7 +5213,6 @@
     "Food Lesson: Fruits & Vegetables Pt 2": {
       "01/15": [
         {
-          "": "",
           "American English": "Strawberry",
           "British English": "Strawberry",
           "Chinese": "草莓",
@@ -5670,7 +5225,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Watermelon",
           "British English": "Watermelon",
           "Chinese": "西瓜",
@@ -5683,7 +5237,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Tomato",
           "British English": "Tomato",
           "Chinese": "番茄",
@@ -5696,7 +5249,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Vegetable",
           "British English": "Vegetable",
           "Chinese": "蔬菜",
@@ -5709,7 +5261,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Broccoli",
           "British English": "Broccoli",
           "Chinese": "西兰花",
@@ -5722,7 +5273,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Cabbage",
           "British English": "Cabbage",
           "Chinese": "卷心菜",
@@ -5735,7 +5285,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Carrot",
           "British English": "Carrot",
           "Chinese": "胡萝卜",
@@ -5748,7 +5297,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Cauliflower",
           "British English": "Cauliflower",
           "Chinese": "花椰菜",
@@ -5761,7 +5309,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Corns",
           "British English": "Corns",
           "Chinese": "玉米",
@@ -5774,7 +5321,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Lettuce",
           "British English": "Lettuce",
           "Chinese": "生菜",
@@ -5787,7 +5333,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Mushroom",
           "British English": "Mushroom",
           "Chinese": "蘑菇",
@@ -5800,7 +5345,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Onion",
           "British English": "Onion",
           "Chinese": "洋葱",
@@ -5813,7 +5357,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Peas",
           "British English": "Peas",
           "Chinese": "豌豆",
@@ -5826,7 +5369,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Pepper",
           "British English": "Pepper",
           "Chinese": "辣椒",
@@ -5839,7 +5381,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Tomato",
           "British English": "Tomato",
           "Chinese": "番茄",
@@ -5854,7 +5395,6 @@
     "Grocery Store Lesson": {
       "01/17": [
         {
-          "": "",
           "American English": "Aisle",
           "British English": "Aisle",
           "Chinese": "过道",
@@ -5867,7 +5407,6 @@
       ],
       "02/17": [
         {
-          "": "",
           "American English": "Basket",
           "British English": "Basket",
           "Chinese": "篮子",
@@ -5880,7 +5419,6 @@
       ],
       "03/17": [
         {
-          "": "",
           "American English": "Bottle",
           "British English": "Bottle",
           "Chinese": "瓶子",
@@ -5893,7 +5431,6 @@
       ],
       "04/17": [
         {
-          "": "",
           "American English": "Can (canned food)",
           "British English": "Can (canned food)",
           "Chinese": "罐头（罐装食品）",
@@ -5906,7 +5443,6 @@
       ],
       "05/17": [
         {
-          "": "",
           "American English": "Cart",
           "British English": "shopping trolly",
           "Chinese": "手推车",
@@ -5919,7 +5455,6 @@
       ],
       "06/17": [
         {
-          "": "",
           "American English": "Cashier",
           "British English": "Cashier",
           "Chinese": "收银员",
@@ -5932,7 +5467,6 @@
       ],
       "07/17": [
         {
-          "": "",
           "American English": "food store/market",
           "British English": "indoor market",
           "Chinese": "食品店/市场",
@@ -5945,7 +5479,6 @@
       ],
       "08/17": [
         {
-          "": "",
           "American English": "frozen food",
           "British English": "frozen food",
           "Chinese": "冷冻食品",
@@ -5958,7 +5491,6 @@
       ],
       "09/17": [
         {
-          "": "",
           "American English": "fruit",
           "British English": "fruit",
           "Chinese": "水果",
@@ -5971,7 +5503,6 @@
       ],
       "10/17": [
         {
-          "": "",
           "American English": "meat",
           "British English": "meat",
           "Chinese": "肉类",
@@ -5984,7 +5515,6 @@
       ],
       "11/17": [
         {
-          "": "",
           "American English": "medicine",
           "British English": "medicine",
           "Chinese": "药品",
@@ -5997,7 +5527,6 @@
       ],
       "12/17": [
         {
-          "": "",
           "American English": "shelf",
           "British English": "shelf",
           "Chinese": "货架",
@@ -6010,7 +5539,6 @@
       ],
       "13/17": [
         {
-          "": "",
           "American English": "soap",
           "British English": "soap",
           "Chinese": "肥皂",
@@ -6023,7 +5551,6 @@
       ],
       "14/17": [
         {
-          "": "",
           "American English": "toothbrush",
           "British English": "toothbrush",
           "Chinese": "牙刷",
@@ -6036,7 +5563,6 @@
       ],
       "15/17": [
         {
-          "": "",
           "American English": "toothpaste",
           "British English": "toothpaste",
           "Chinese": "牙膏",
@@ -6049,7 +5575,6 @@
       ],
       "16/17": [
         {
-          "": "",
           "American English": "vegetable",
           "British English": "vegetable",
           "Chinese": "蔬菜",
@@ -6062,7 +5587,6 @@
       ],
       "17/17": [
         {
-          "": "",
           "American English": "vitamin",
           "British English": "vitamin",
           "Chinese": "维生素",
@@ -6077,7 +5601,6 @@
     "Hospital Lesson": {
       "01/19": [
         {
-          "": "",
           "American English": "Ambulance",
           "British English": "Ambulance",
           "Chinese": "救护车",
@@ -6090,7 +5613,6 @@
       ],
       "02/19": [
         {
-          "": "",
           "American English": "Bandage",
           "British English": "Bandage / cast",
           "Chinese": "绷带",
@@ -6103,7 +5625,6 @@
       ],
       "03/19": [
         {
-          "": "",
           "American English": "Bleed",
           "British English": "Bleed",
           "Chinese": "出血",
@@ -6116,7 +5637,6 @@
       ],
       "04/19": [
         {
-          "": "",
           "American English": "Blood",
           "British English": "Blood",
           "Chinese": "血液",
@@ -6129,7 +5649,6 @@
       ],
       "05/19": [
         {
-          "": "",
           "American English": "Cast (hospital)",
           "British English": "Cast (hospital)",
           "Chinese": "石膏（医院）",
@@ -6142,7 +5661,6 @@
       ],
       "06/19": [
         {
-          "": "",
           "American English": "Crutches",
           "British English": "Crutches",
           "Chinese": "拐杖",
@@ -6155,7 +5673,6 @@
       ],
       "07/19": [
         {
-          "": "",
           "American English": "Doctor",
           "British English": "Doctor",
           "Chinese": "医生",
@@ -6168,7 +5685,6 @@
       ],
       "08/19": [
         {
-          "": "",
           "American English": "Emergency Room (ER)",
           "British English": "Accident and Emergency (A&E)",
           "Chinese": "急诊室",
@@ -6181,7 +5697,6 @@
       ],
       "09/19": [
         {
-          "": "",
           "American English": "Hurt/Injury/Pain",
           "British English": "Hurt/Injury/Pain",
           "Chinese": "受伤/疼痛",
@@ -6194,7 +5709,6 @@
       ],
       "10/19": [
         {
-          "": "",
           "American English": "Medical",
           "British English": "Medical",
           "Chinese": "医疗",
@@ -6207,7 +5721,6 @@
       ],
       "11/19": [
         {
-          "": "",
           "American English": "Medicine",
           "British English": "Medicine",
           "Chinese": "药物",
@@ -6220,7 +5733,6 @@
       ],
       "12/19": [
         {
-          "": "",
           "American English": "Pill",
           "British English": "Pill",
           "Chinese": "药片",
@@ -6233,7 +5745,6 @@
       ],
       "13/19": [
         {
-          "": "",
           "American English": "Nurse",
           "British English": "Nurse",
           "Chinese": "护士",
@@ -6246,7 +5757,6 @@
       ],
       "14/19": [
         {
-          "": "",
           "American English": "Patient",
           "British English": "Patient",
           "Chinese": "病人",
@@ -6259,7 +5769,6 @@
       ],
       "15/19": [
         {
-          "": "",
           "American English": "Surgery",
           "British English": "Surgery",
           "Chinese": "手术",
@@ -6272,7 +5781,6 @@
       ],
       "16/19": [
         {
-          "": "",
           "American English": "Vaccine Shot",
           "British English": "Vaccine",
           "Chinese": "疫苗注射",
@@ -6285,7 +5793,6 @@
       ],
       "17/19": [
         {
-          "": "",
           "American English": "Injection",
           "British English": "Injection",
           "Chinese": "注射",
@@ -6298,7 +5805,6 @@
       ],
       "18/19": [
         {
-          "": "",
           "American English": "Waiting Room",
           "British English": "Waiting Room",
           "Chinese": "候诊室",
@@ -6311,7 +5817,6 @@
       ],
       "19/19": [
         {
-          "": "",
           "American English": "Wheelchair",
           "British English": "Wheelchair",
           "Chinese": "轮椅",
@@ -6326,7 +5831,6 @@
     "Journey Lesson": {
       "01/13": [
         {
-          "": "",
           "American English": "Adventure",
           "British English": "Adventure",
           "Chinese": "探险",
@@ -6339,7 +5843,6 @@
       ],
       "02/13": [
         {
-          "": "",
           "American English": "Camera",
           "British English": "Camera",
           "Chinese": "照相机",
@@ -6352,7 +5855,6 @@
       ],
       "03/13": [
         {
-          "": "",
           "American English": "Explore",
           "British English": "Explore",
           "Chinese": "探险",
@@ -6365,7 +5867,6 @@
       ],
       "04/13": [
         {
-          "": "",
           "American English": "Group picture",
           "British English": "Group picture",
           "Chinese": "合影",
@@ -6378,7 +5879,6 @@
       ],
       "05/13": [
         {
-          "": "",
           "American English": "Loading",
           "British English": "Loading",
           "Chinese": "加载中",
@@ -6391,7 +5891,6 @@
       ],
       "06/13": [
         {
-          "": "",
           "American English": "Picture/photo",
           "British English": "Picture/photo",
           "Chinese": "图片/照片",
@@ -6404,7 +5903,6 @@
       ],
       "07/13": [
         {
-          "": "",
           "American English": "Portal",
           "British English": "Portal (VR)",
           "Chinese": "门户网站",
@@ -6417,7 +5915,6 @@
       ],
       "08/13": [
         {
-          "": "",
           "American English": "Private",
           "British English": "Private",
           "Chinese": "私人",
@@ -6430,7 +5927,6 @@
       ],
       "09/13": [
         {
-          "": "",
           "American English": "Public",
           "British English": "Public",
           "Chinese": "公开",
@@ -6443,7 +5939,6 @@
       ],
       "10/13": [
         {
-          "": "",
           "American English": "Respawn",
           "British English": "Respawn (VR)",
           "Chinese": "重生",
@@ -6456,7 +5951,6 @@
       ],
       "11/13": [
         {
-          "": "",
           "American English": "Search",
           "British English": "Search",
           "Chinese": "搜索",
@@ -6469,7 +5963,6 @@
       ],
       "12/13": [
         {
-          "": "",
           "American English": "Take (a) picture",
           "British English": "Take (a) Picture",
           "Chinese": "拍照",
@@ -6482,7 +5975,6 @@
       ],
       "13/13": [
         {
-          "": "",
           "American English": "World hopping",
           "British English": "World traveling (IRL)",
           "Chinese": "跳转世界",
@@ -6497,7 +5989,6 @@
     "Kitchen Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "Apron",
           "British English": "Apron",
           "Chinese": "围裙",
@@ -6510,7 +6001,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Bake",
           "British English": "Bake",
           "Chinese": "烤箱",
@@ -6523,7 +6013,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Bowl",
           "British English": "Bowl",
           "Chinese": "碗",
@@ -6536,7 +6025,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Cook",
           "British English": "Cook",
           "Chinese": "炊具",
@@ -6549,7 +6037,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Fork",
           "British English": "Fork",
           "Chinese": "叉子",
@@ -6562,7 +6049,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Kitchen",
           "British English": "Kitchen",
           "Chinese": "厨房",
@@ -6575,7 +6061,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Knife",
           "British English": "Knife",
           "Chinese": "刀",
@@ -6588,7 +6073,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Microwave",
           "British English": "Microwave",
           "Chinese": "微波炉",
@@ -6601,7 +6085,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Napkin",
           "British English": "Napkin",
           "Chinese": "餐巾纸",
@@ -6614,7 +6097,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Oven",
           "British English": "Oven",
           "Chinese": "烤箱",
@@ -6627,7 +6109,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Plate",
           "British English": "Plate",
           "Chinese": "盘子",
@@ -6640,7 +6121,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Spoon",
           "British English": "Spoon",
           "Chinese": "汤匙",
@@ -6653,7 +6133,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Stove",
           "British English": "Stove",
           "Chinese": "炉灶",
@@ -6666,7 +6145,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Toaster",
           "British English": "Toaster",
           "Chinese": "烤面包机",
@@ -6679,7 +6157,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Tray",
           "British English": "Tray",
           "Chinese": "托盘",
@@ -6694,7 +6171,6 @@
     "LGBT": {
       "01/16": [
         {
-          "": "",
           "American English": "Ally",
           "British English": "Ally",
           "Chinese": "盟友",
@@ -6707,7 +6183,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Asexual",
           "British English": "Asexual",
           "Chinese": "无性恋",
@@ -6720,7 +6195,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Awareness",
           "British English": "Awareness",
           "Chinese": "意识",
@@ -6733,7 +6207,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Banner",
           "British English": "Banner (Sign)",
           "Chinese": "旗帜",
@@ -6746,7 +6219,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Bisexual",
           "British English": "Bisexual",
           "Chinese": "双性恋",
@@ -6759,7 +6231,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Flag",
           "British English": "Flag",
           "Chinese": "旗帜",
@@ -6772,7 +6243,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Gay",
           "British English": "Gay",
           "Chinese": "同性恋",
@@ -6785,7 +6255,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "History",
           "British English": "History",
           "Chinese": "历史",
@@ -6798,7 +6267,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Intersex",
           "British English": "Intersex",
           "Chinese": "双性恋",
@@ -6811,7 +6279,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Lesbian",
           "British English": "Lesbian",
           "Chinese": "女同性恋",
@@ -6824,7 +6291,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Pansexual",
           "British English": "Pansexual",
           "Chinese": "泛双性恋",
@@ -6837,7 +6303,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Parade",
           "British English": "Parade",
           "Chinese": "游行",
@@ -6850,7 +6315,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Pride",
           "British English": "Pride",
           "Chinese": "骄傲",
@@ -6863,7 +6327,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Queer",
           "British English": "Queer",
           "Chinese": "同性恋",
@@ -6876,7 +6339,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Rainbow",
           "British English": "Rainbow",
           "Chinese": "彩虹",
@@ -6889,7 +6351,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Transgender",
           "British English": "Transgender",
           "Chinese": "变性人",
@@ -6904,7 +6365,6 @@
     "Literature Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "Book",
           "British English": "Book",
           "Chinese": "书籍",
@@ -6917,7 +6377,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Chapter",
           "British English": "Chapter",
           "Chinese": "章节",
@@ -6930,7 +6389,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Comprehension",
           "British English": "Comprehension",
           "Chinese": "理解",
@@ -6943,7 +6401,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Conclusion",
           "British English": "Conclusion",
           "Chinese": "结论",
@@ -6956,7 +6413,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Dictionary",
           "British English": "Dictionary",
           "Chinese": "词典",
@@ -6969,7 +6425,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Grammar",
           "British English": "Grammar",
           "Chinese": "语法",
@@ -6982,7 +6437,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Introduction",
           "British English": "Introduction",
           "Chinese": "简介",
@@ -6995,7 +6449,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Knowledge",
           "British English": "Knowledge",
           "Chinese": "知识",
@@ -7008,7 +6461,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Paragraph",
           "British English": "Paragraph",
           "Chinese": "段落",
@@ -7021,7 +6473,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Revise",
           "British English": "Revise",
           "Chinese": "复习",
@@ -7034,7 +6485,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Sentence",
           "British English": "Sentence",
           "Chinese": "句子",
@@ -7047,7 +6497,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Story",
           "British English": "Story",
           "Chinese": "故事",
@@ -7060,7 +6509,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Thesaurus",
           "British English": "Thesaurus",
           "Chinese": "词库",
@@ -7073,7 +6521,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Vocabulary",
           "British English": "Vocabulary",
           "Chinese": "词汇",
@@ -7086,7 +6533,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Word",
           "British English": "Word",
           "Chinese": "单词",
@@ -7101,7 +6547,6 @@
     "Machine": {
       "01/15": [
         {
-          "": "",
           "American English": "Rocket",
           "British English": "Rocket",
           "Chinese": "火箭",
@@ -7114,7 +6559,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Car",
           "British English": "Car",
           "Chinese": "汽车",
@@ -7127,7 +6571,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Truck",
           "British English": "Truck",
           "Chinese": "卡车",
@@ -7140,7 +6583,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Bicycle",
           "British English": "Bicycle",
           "Chinese": "自行车",
@@ -7153,7 +6595,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Motorcycle",
           "British English": "Motorcycle",
           "Chinese": "摩托车",
@@ -7166,7 +6607,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Robot",
           "British English": "Robot",
           "Chinese": "机器人",
@@ -7179,7 +6619,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Helicopter",
           "British English": "Helicopter",
           "Chinese": "直升机",
@@ -7192,7 +6631,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Boat",
           "British English": "Boat",
           "Chinese": "船",
@@ -7205,7 +6643,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Machine / Engine",
           "British English": "Machine / Engine",
           "Chinese": "机器 / 发动机",
@@ -7218,7 +6655,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Drill",
           "British English": "Drill",
           "Chinese": "钻机",
@@ -7231,7 +6667,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Elevator",
           "British English": "Elevator",
           "Chinese": "电梯",
@@ -7244,7 +6679,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Tank",
           "British English": "Tank",
           "Chinese": "坦克",
@@ -7257,7 +6691,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Submarine",
           "British English": "Submarine",
           "Chinese": "潜艇",
@@ -7270,7 +6703,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Excavator",
           "British English": "Excavator",
           "Chinese": "挖掘机",
@@ -7283,7 +6715,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Crane",
           "British English": "Crane",
           "Chinese": "起重机",
@@ -7298,7 +6729,6 @@
     "Materials Lesson": {
       "01/16": [
         {
-          "": "",
           "American English": "Air",
           "British English": "Air",
           "Chinese": "空气",
@@ -7311,7 +6741,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Clay",
           "British English": "Clay",
           "Chinese": "粘土",
@@ -7324,7 +6753,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Fabric/cloth",
           "British English": "Fabric/cloth",
           "Chinese": "织物/布料",
@@ -7337,7 +6765,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Gas",
           "British English": "Gas",
           "Chinese": "气体",
@@ -7350,7 +6777,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Gel",
           "British English": "Gel",
           "Chinese": "凝胶",
@@ -7363,7 +6789,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Glass",
           "British English": "Glass",
           "Chinese": "玻璃",
@@ -7376,7 +6801,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Metal",
           "British English": "Metal",
           "Chinese": "金属",
@@ -7389,7 +6813,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Oil",
           "British English": "Oil",
           "Chinese": "油类",
@@ -7402,7 +6825,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Paper",
           "British English": "Paper",
           "Chinese": "纸张",
@@ -7415,7 +6837,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Plastic",
           "British English": "Plastic",
           "Chinese": "塑料",
@@ -7428,7 +6849,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Rope",
           "British English": "Rope",
           "Chinese": "绳索",
@@ -7441,7 +6861,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Rubber",
           "British English": " Elastic Band",
           "Chinese": "橡胶",
@@ -7454,7 +6873,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Sticker",
           "British English": "Sticker",
           "Chinese": "贴纸",
@@ -7467,7 +6885,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Water",
           "British English": "Water",
           "Chinese": "水",
@@ -7480,7 +6897,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Wire",
           "British English": "Wire",
           "Chinese": "电线",
@@ -7493,7 +6909,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Wood",
           "British English": "Wood",
           "Chinese": "木材",
@@ -7508,7 +6923,6 @@
     "Math Lesson": {
       "01/17": [
         {
-          "": "",
           "American English": "Add",
           "British English": "Add",
           "Chinese": "",
@@ -7521,7 +6935,6 @@
       ],
       "02/17": [
         {
-          "": "",
           "American English": "Calculator",
           "British English": "Calculator",
           "Chinese": "",
@@ -7534,7 +6947,6 @@
       ],
       "03/17": [
         {
-          "": "",
           "American English": "Chart",
           "British English": "Chart",
           "Chinese": "",
@@ -7547,7 +6959,6 @@
       ],
       "04/17": [
         {
-          "": "",
           "American English": "Decimal",
           "British English": "Decimal",
           "Chinese": "",
@@ -7560,7 +6971,6 @@
       ],
       "05/17": [
         {
-          "": "",
           "American English": "Decrease",
           "British English": "Decrease",
           "Chinese": "",
@@ -7573,7 +6983,6 @@
       ],
       "06/17": [
         {
-          "": "",
           "American English": "Divide",
           "British English": "Divide",
           "Chinese": "",
@@ -7586,7 +6995,6 @@
       ],
       "07/17": [
         {
-          "": "",
           "American English": "Equal",
           "British English": "Equal",
           "Chinese": "",
@@ -7599,7 +7007,6 @@
       ],
       "08/17": [
         {
-          "": "",
           "American English": "Equation",
           "British English": "Equation",
           "Chinese": "",
@@ -7612,7 +7019,6 @@
       ],
       "09/17": [
         {
-          "": "",
           "American English": "Formula",
           "British English": "Formula",
           "Chinese": "",
@@ -7625,7 +7031,6 @@
       ],
       "10/17": [
         {
-          "": "",
           "American English": "Fraction",
           "British English": "Fraction",
           "Chinese": "",
@@ -7638,7 +7043,6 @@
       ],
       "11/17": [
         {
-          "": "",
           "American English": "Increase",
           "British English": "Increase",
           "Chinese": "",
@@ -7651,7 +7055,6 @@
       ],
       "12/17": [
         {
-          "": "",
           "American English": "Minus",
           "British English": "Minus",
           "Chinese": "",
@@ -7664,7 +7067,6 @@
       ],
       "13/17": [
         {
-          "": "",
           "American English": "Multiply",
           "British English": "Multiply",
           "Chinese": "",
@@ -7677,7 +7079,6 @@
       ],
       "14/17": [
         {
-          "": "",
           "American English": "Percent",
           "British English": "Percent",
           "Chinese": "",
@@ -7690,7 +7091,6 @@
       ],
       "15/17": [
         {
-          "": "",
           "American English": "Plus",
           "British English": "Plus",
           "Chinese": "",
@@ -7703,7 +7103,6 @@
       ],
       "16/17": [
         {
-          "": "",
           "American English": "Solve",
           "British English": "Solve",
           "Chinese": "",
@@ -7716,7 +7115,6 @@
       ],
       "17/17": [
         {
-          "": "",
           "American English": "Subtract",
           "British English": "Subtract",
           "Chinese": "",
@@ -7731,7 +7129,6 @@
     "New Year Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "New Year",
           "British English": "New Year",
           "Chinese": "新年",
@@ -7744,7 +7141,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Happy New Year",
           "British English": "Happy New Year",
           "Chinese": "新年快乐",
@@ -7757,7 +7153,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Good health",
           "British English": "Good health",
           "Chinese": "身体健康",
@@ -7770,7 +7165,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Happy holidays",
           "British English": "Happy holidays",
           "Chinese": "节日快乐",
@@ -7783,7 +7177,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Good resolutions",
           "British English": "Good resolutions",
           "Chinese": "好的决心",
@@ -7796,7 +7189,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Best wishes",
           "British English": "Best wishes",
           "Chinese": "最好的祝愿",
@@ -7809,7 +7201,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Fireworks",
           "British English": "Fireworks",
           "Chinese": "烟花",
@@ -7822,7 +7213,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "End of the year",
           "British English": "End of the year",
           "Chinese": "年终",
@@ -7835,7 +7225,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Champagne",
           "British English": "Champagne",
           "Chinese": "香槟",
@@ -7848,7 +7237,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "King's cake/Epiphany cake",
           "British English": "King's cake/Epiphany cake",
           "Chinese": "国王蛋糕",
@@ -7861,7 +7249,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Countdown",
           "British English": "Countdown",
           "Chinese": "倒计时",
@@ -7874,7 +7261,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Midnight",
           "British English": "Midnight",
           "Chinese": "午夜",
@@ -7887,7 +7273,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Confetti",
           "British English": "Confetti",
           "Chinese": "五彩纸屑",
@@ -7900,7 +7285,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Toast",
           "British English": "Toast",
           "Chinese": "敬酒",
@@ -7913,7 +7297,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Celebration",
           "British English": "Celebration",
           "Chinese": "庆祝",
@@ -7928,7 +7311,6 @@
     "Personal Needs Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "Bathroom",
           "British English": "Toilet",
           "Chinese": "厕所 (cèsuǒ)",
@@ -7941,7 +7323,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Water",
           "British English": "Water",
           "Chinese": "水 (shuǐ)",
@@ -7954,7 +7335,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Food",
           "British English": "Food",
           "Chinese": "食物 (shíwù)",
@@ -7967,7 +7347,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Help",
           "British English": "Help",
           "Chinese": "帮助 (bāngzhù)",
@@ -7980,7 +7359,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Medicine",
           "British English": "Medicine",
           "Chinese": "药 (yào)",
@@ -7993,7 +7371,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Sleep",
           "British English": "Sleep",
           "Chinese": "睡觉 (shuìjiào)",
@@ -8006,7 +7383,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Shower",
           "British English": "Shower",
           "Chinese": "淋浴 (línyù)",
@@ -8019,7 +7395,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Toothbrush",
           "British English": "Toothbrush",
           "Chinese": "牙刷 (yáshuā)",
@@ -8032,7 +7407,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Soap",
           "British English": "Soap",
           "Chinese": "肥皂 (féizào)",
@@ -8045,7 +7419,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Doctor",
           "British English": "Doctor",
           "Chinese": "医生 (yīshēng)",
@@ -8058,7 +7431,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Pain",
           "British English": "Pain",
           "Chinese": "疼痛 (téngtòng)",
@@ -8071,7 +7443,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Lost",
           "British English": "Lost",
           "Chinese": "迷路 (mílù)",
@@ -8084,7 +7455,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Phone",
           "British English": "Phone",
           "Chinese": "电话 (diànhuà)",
@@ -8097,7 +7467,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Clothing",
           "British English": "Clothes",
           "Chinese": "衣服 (yīfú)",
@@ -8110,7 +7479,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Transportation",
           "British English": "Transportation",
           "Chinese": "交通 (jiāotōng)",
@@ -8125,7 +7493,6 @@
     "Postal Office Lesson": {
       "01/16": [
         {
-          "": "",
           "American English": "Arrive/Arrival",
           "British English": "Arrive/Arrival",
           "Chinese": "",
@@ -8138,7 +7505,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Delay",
           "British English": "Delay",
           "Chinese": "",
@@ -8151,7 +7517,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Deliver/Delivery",
           "British English": "Deliver/Delivery",
           "Chinese": "",
@@ -8164,7 +7529,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Envelope",
           "British English": "Envelope",
           "Chinese": "",
@@ -8177,7 +7541,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Estimated",
           "British English": "Estimated",
           "Chinese": "",
@@ -8190,7 +7553,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Mail",
           "British English": "Mail",
           "Chinese": "",
@@ -8203,7 +7565,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Mail Carrier",
           "British English": "Postman",
           "Chinese": "",
@@ -8216,7 +7577,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Mailbox",
           "British English": "Red Post Box",
           "Chinese": "",
@@ -8229,7 +7589,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "On the way",
           "British English": "On the way",
           "Chinese": "",
@@ -8242,7 +7601,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Order",
           "British English": "Order",
           "Chinese": "",
@@ -8255,7 +7613,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Package",
           "British English": "Package",
           "Chinese": "",
@@ -8268,7 +7625,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Pick up",
           "British English": "Pick up",
           "Chinese": "",
@@ -8281,7 +7637,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Post office",
           "British English": "Post office",
           "Chinese": "",
@@ -8294,7 +7649,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Receipt",
           "British English": "Receipt",
           "Chinese": "",
@@ -8307,7 +7661,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Ship(send)",
           "British English": "Ship(send)",
           "Chinese": "",
@@ -8320,7 +7673,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Tracking Number",
           "British English": "Tracking Number",
           "Chinese": "",
@@ -8335,7 +7687,6 @@
     "Public Transportation Lesson": {
       "01/15": [
         {
-          "": "",
           "American English": "Bus",
           "British English": "Bus",
           "Chinese": "公交车 (gōngjiāochē)",
@@ -8348,7 +7699,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Train",
           "British English": "Train",
           "Chinese": "火车 (huǒchē)",
@@ -8361,7 +7711,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Subway",
           "British English": "Underground",
           "Chinese": "地铁 (dìtiě)",
@@ -8374,7 +7723,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Taxi",
           "British English": "Taxi",
           "Chinese": "出租车 (chūzūchē)",
@@ -8387,7 +7735,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Tram",
           "British English": "Tram",
           "Chinese": "电车 (diànchē)",
@@ -8400,7 +7747,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Ferry",
           "British English": "Ferry",
           "Chinese": "渡轮 (dùlún)",
@@ -8413,7 +7759,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Airport",
           "British English": "Airport",
           "Chinese": "机场 (jīchǎng)",
@@ -8426,7 +7771,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Station",
           "British English": "Station",
           "Chinese": "车站 (chēzhàn)",
@@ -8439,7 +7783,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Ticket",
           "British English": "Ticket",
           "Chinese": "票 (piào)",
@@ -8452,7 +7795,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Platform",
           "British English": "Platform",
           "Chinese": "站台 (zhàntái)",
@@ -8465,7 +7807,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Schedule",
           "British English": "Timetable",
           "Chinese": "时间表 (shíjiān biǎo)",
@@ -8478,7 +7819,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Route",
           "British English": "Route",
           "Chinese": "路线 (lùxiàn)",
@@ -8491,7 +7831,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Map",
           "British English": "Map",
           "Chinese": "地图 (dìtú)",
@@ -8504,7 +7843,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Driver",
           "British English": "Driver",
           "Chinese": "司机 (sījī)",
@@ -8517,7 +7855,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Passenger",
           "British English": "Passenger",
           "Chinese": "乘客 (chéngkè)",
@@ -8532,7 +7869,6 @@
     "School Courses Lesson": {
       "01/21": [
         {
-          "": "",
           "American English": "Art",
           "British English": "Art",
           "Chinese": "",
@@ -8545,7 +7881,6 @@
       ],
       "02/21": [
         {
-          "": "",
           "American English": "Course",
           "British English": "Course",
           "Chinese": "",
@@ -8558,7 +7893,6 @@
       ],
       "03/21": [
         {
-          "": "",
           "American English": "Credit",
           "British English": "Credit",
           "Chinese": "",
@@ -8571,7 +7905,6 @@
       ],
       "04/21": [
         {
-          "": "",
           "American English": "Fail",
           "British English": "Fail",
           "Chinese": "",
@@ -8584,7 +7917,6 @@
       ],
       "05/21": [
         {
-          "": "",
           "American English": "Grade",
           "British English": "Grade",
           "Chinese": "",
@@ -8597,7 +7929,6 @@
       ],
       "06/21": [
         {
-          "": "",
           "American English": "Gym",
           "British English": "Gym",
           "Chinese": "",
@@ -8610,7 +7941,6 @@
       ],
       "07/21": [
         {
-          "": "",
           "American English": "History",
           "British English": "History",
           "Chinese": "",
@@ -8623,7 +7953,6 @@
       ],
       "08/21": [
         {
-          "": "",
           "American English": "Homework",
           "British English": "Homework",
           "Chinese": "",
@@ -8636,7 +7965,6 @@
       ],
       "09/21": [
         {
-          "": "",
           "American English": "Lesson",
           "British English": "Lesson",
           "Chinese": "",
@@ -8649,7 +7977,6 @@
       ],
       "10/21": [
         {
-          "": "",
           "American English": "Level",
           "British English": "Level",
           "Chinese": "",
@@ -8662,7 +7989,6 @@
       ],
       "11/21": [
         {
-          "": "",
           "American English": "Major",
           "British English": "",
           "Chinese": "",
@@ -8675,7 +8001,6 @@
       ],
       "12/21": [
         {
-          "": "",
           "American English": "Math",
           "British English": "Maths",
           "Chinese": "",
@@ -8688,7 +8013,6 @@
       ],
       "13/21": [
         {
-          "": "",
           "American English": "Minor",
           "British English": "",
           "Chinese": "",
@@ -8701,7 +8025,6 @@
       ],
       "14/21": [
         {
-          "": "",
           "American English": "Pass",
           "British English": "Pass",
           "Chinese": "",
@@ -8714,7 +8037,6 @@
       ],
       "15/21": [
         {
-          "": "",
           "American English": "Physical Education (PE)",
           "British English": "Physical Education (PE)",
           "Chinese": "",
@@ -8727,7 +8049,6 @@
       ],
       "16/21": [
         {
-          "": "",
           "American English": "Reading",
           "British English": "Reading",
           "Chinese": "",
@@ -8740,7 +8061,6 @@
       ],
       "17/21": [
         {
-          "": "",
           "American English": "Science",
           "British English": "Science",
           "Chinese": "",
@@ -8753,7 +8073,6 @@
       ],
       "18/21": [
         {
-          "": "",
           "American English": "Semester",
           "British English": "",
           "Chinese": "",
@@ -8766,7 +8085,6 @@
       ],
       "19/21": [
         {
-          "": "",
           "American English": "Study",
           "British English": "Study",
           "Chinese": "",
@@ -8779,7 +8097,6 @@
       ],
       "20/21": [
         {
-          "": "",
           "American English": "Test/exam",
           "British English": "Test/exam",
           "Chinese": "",
@@ -8792,7 +8109,6 @@
       ],
       "21/21": [
         {
-          "": "",
           "American English": "Writing",
           "British English": "Writing",
           "Chinese": "",
@@ -8807,7 +8123,6 @@
     "Science Lesson": {
       "01/18": [
         {
-          "": "",
           "American English": "Astronomy",
           "British English": "Astronomy",
           "Chinese": "",
@@ -8820,7 +8135,6 @@
       ],
       "02/18": [
         {
-          "": "",
           "American English": "Biology",
           "British English": "Biology",
           "Chinese": "",
@@ -8833,7 +8147,6 @@
       ],
       "03/18": [
         {
-          "": "",
           "American English": "Chemistry",
           "British English": "Chemistry",
           "Chinese": "",
@@ -8846,7 +8159,6 @@
       ],
       "04/18": [
         {
-          "": "",
           "American English": "Equipment",
           "British English": "Equipment",
           "Chinese": "",
@@ -8859,7 +8171,6 @@
       ],
       "05/18": [
         {
-          "": "",
           "American English": "Experiment",
           "British English": "Experiment",
           "Chinese": "",
@@ -8872,7 +8183,6 @@
       ],
       "06/18": [
         {
-          "": "",
           "American English": "Face Mask",
           "British English": "Face Mask",
           "Chinese": "",
@@ -8885,7 +8195,6 @@
       ],
       "07/18": [
         {
-          "": "",
           "American English": "Gloves",
           "British English": "Gloves",
           "Chinese": "",
@@ -8898,7 +8207,6 @@
       ],
       "08/18": [
         {
-          "": "",
           "American English": "Goggles",
           "British English": "Goggles",
           "Chinese": "",
@@ -8911,7 +8219,6 @@
       ],
       "09/18": [
         {
-          "": "",
           "American English": "Hazard",
           "British English": "Hazard",
           "Chinese": "",
@@ -8924,7 +8231,6 @@
       ],
       "10/18": [
         {
-          "": "",
           "American English": "Lab Coat",
           "British English": "Lab Coat",
           "Chinese": "",
@@ -8937,7 +8243,6 @@
       ],
       "11/18": [
         {
-          "": "",
           "American English": "Laboratory",
           "British English": "Laboratory",
           "Chinese": "",
@@ -8950,7 +8255,6 @@
       ],
       "12/18": [
         {
-          "": "",
           "American English": "Periodic Table",
           "British English": "Periodic Table",
           "Chinese": "",
@@ -8963,7 +8267,6 @@
       ],
       "13/18": [
         {
-          "": "",
           "American English": "Physics",
           "British English": "Physics",
           "Chinese": "",
@@ -8976,7 +8279,6 @@
       ],
       "14/18": [
         {
-          "": "",
           "American English": "Scientist",
           "British English": "Scientist",
           "Chinese": "",
@@ -8989,7 +8291,6 @@
       ],
       "15/18": [
         {
-          "": "",
           "American English": "Technology",
           "British English": "Technology",
           "Chinese": "",
@@ -9002,7 +8303,6 @@
       ],
       "16/18": [
         {
-          "": "",
           "American English": "Gas",
           "British English": "Gas",
           "Chinese": "",
@@ -9015,7 +8315,6 @@
       ],
       "17/18": [
         {
-          "": "",
           "American English": "Liquid",
           "British English": "Liquid",
           "Chinese": "",
@@ -9028,7 +8327,6 @@
       ],
       "18/18": [
         {
-          "": "",
           "American English": "Solid",
           "British English": "Solid",
           "Chinese": "",
@@ -9043,7 +8341,6 @@
     "Time part 1": {
       "01/15": [
         {
-          "": "",
           "American English": "Sunrise",
           "British English": "Sunrise",
           "Chinese": "日出",
@@ -9056,7 +8353,6 @@
       ],
       "02/15": [
         {
-          "": "",
           "American English": "Morning",
           "British English": "Morning",
           "Chinese": "早上",
@@ -9069,7 +8365,6 @@
       ],
       "03/15": [
         {
-          "": "",
           "American English": "Noon",
           "British English": "Noon",
           "Chinese": "中午",
@@ -9082,7 +8377,6 @@
       ],
       "04/15": [
         {
-          "": "",
           "American English": "Afternoon",
           "British English": "Afternoon",
           "Chinese": "下午",
@@ -9095,7 +8389,6 @@
       ],
       "05/15": [
         {
-          "": "",
           "American English": "Evening",
           "British English": "Evening",
           "Chinese": "晚上",
@@ -9108,7 +8401,6 @@
       ],
       "06/15": [
         {
-          "": "",
           "American English": "Sunset",
           "British English": "Sunset",
           "Chinese": "日落",
@@ -9121,7 +8413,6 @@
       ],
       "07/15": [
         {
-          "": "",
           "American English": "Night",
           "British English": "Night",
           "Chinese": "夜晚",
@@ -9134,7 +8425,6 @@
       ],
       "08/15": [
         {
-          "": "",
           "American English": "Midnight",
           "British English": "Midnight",
           "Chinese": "午夜",
@@ -9147,7 +8437,6 @@
       ],
       "09/15": [
         {
-          "": "",
           "American English": "Day",
           "British English": "Day",
           "Chinese": "白天",
@@ -9160,7 +8449,6 @@
       ],
       "10/15": [
         {
-          "": "",
           "American English": "Yesterday",
           "British English": "Yesterday",
           "Chinese": "昨天",
@@ -9173,7 +8461,6 @@
       ],
       "11/15": [
         {
-          "": "",
           "American English": "Tomorrow",
           "British English": "Tomorrow",
           "Chinese": "明天",
@@ -9186,7 +8473,6 @@
       ],
       "12/15": [
         {
-          "": "",
           "American English": "Week",
           "British English": "Week",
           "Chinese": "星期",
@@ -9199,7 +8485,6 @@
       ],
       "13/15": [
         {
-          "": "",
           "American English": "Month",
           "British English": "Month",
           "Chinese": "月份",
@@ -9212,7 +8497,6 @@
       ],
       "14/15": [
         {
-          "": "",
           "American English": "Year",
           "British English": "Year",
           "Chinese": "年",
@@ -9225,7 +8509,6 @@
       ],
       "15/15": [
         {
-          "": "",
           "American English": "Now",
           "British English": "Now",
           "Chinese": "现在",
@@ -9240,7 +8523,6 @@
     "Time part 2": {
       "01/16": [
         {
-          "": "",
           "American English": "Hour",
           "British English": "Hour",
           "Chinese": "小时",
@@ -9253,7 +8535,6 @@
       ],
       "02/16": [
         {
-          "": "",
           "American English": "Minute",
           "British English": "Minute",
           "Chinese": "分钟",
@@ -9266,7 +8547,6 @@
       ],
       "03/16": [
         {
-          "": "",
           "American English": "Second",
           "British English": "Second",
           "Chinese": "秒",
@@ -9279,7 +8559,6 @@
       ],
       "04/16": [
         {
-          "": "",
           "American English": "Time",
           "British English": "Time",
           "Chinese": "时间",
@@ -9292,7 +8571,6 @@
       ],
       "05/16": [
         {
-          "": "",
           "American English": "Soon",
           "British English": "Soon",
           "Chinese": "很快",
@@ -9305,7 +8583,6 @@
       ],
       "06/16": [
         {
-          "": "",
           "American English": "Now",
           "British English": "Now",
           "Chinese": "现在",
@@ -9318,7 +8595,6 @@
       ],
       "07/16": [
         {
-          "": "",
           "American English": "Never",
           "British English": "Never",
           "Chinese": "从不",
@@ -9331,7 +8607,6 @@
       ],
       "08/16": [
         {
-          "": "",
           "American English": "Future",
           "British English": "Future",
           "Chinese": "未来",
@@ -9344,7 +8619,6 @@
       ],
       "09/16": [
         {
-          "": "",
           "American English": "Past",
           "British English": "Past",
           "Chinese": "過去",
@@ -9357,7 +8631,6 @@
       ],
       "10/16": [
         {
-          "": "",
           "American English": "Monday",
           "British English": "Monday",
           "Chinese": "星期一",
@@ -9370,7 +8643,6 @@
       ],
       "11/16": [
         {
-          "": "",
           "American English": "Tuesday",
           "British English": "Tuesday",
           "Chinese": "星期二",
@@ -9383,7 +8655,6 @@
       ],
       "12/16": [
         {
-          "": "",
           "American English": "Wednesday",
           "British English": "Wednesday",
           "Chinese": "星期三",
@@ -9396,7 +8667,6 @@
       ],
       "13/16": [
         {
-          "": "",
           "American English": "Thursday",
           "British English": "Thursday",
           "Chinese": "星期四",
@@ -9409,7 +8679,6 @@
       ],
       "14/16": [
         {
-          "": "",
           "American English": "Friday",
           "British English": "Friday",
           "Chinese": "星期五",
@@ -9422,7 +8691,6 @@
       ],
       "15/16": [
         {
-          "": "",
           "American English": "Saturday",
           "British English": "Saturday",
           "Chinese": "星期六",
@@ -9435,7 +8703,6 @@
       ],
       "16/16": [
         {
-          "": "",
           "American English": "Sunday",
           "British English": "Sunday",
           "Chinese": "星期日",
@@ -9450,7 +8717,6 @@
     "Weather Lesson": {
       "01/20": [
         {
-          "": "",
           "American English": "Rain",
           "British English": "Rain",
           "Chinese": "雨 (yǔ)",
@@ -9463,7 +8729,6 @@
       ],
       "02/20": [
         {
-          "": "",
           "American English": "Sunny",
           "British English": "Sunny",
           "Chinese": "晴朗 (qínglǎng)",
@@ -9476,7 +8741,6 @@
       ],
       "03/20": [
         {
-          "": "",
           "American English": "Cloudy",
           "British English": "Cloudy",
           "Chinese": "多云 (duōyún)",
@@ -9489,7 +8753,6 @@
       ],
       "04/20": [
         {
-          "": "",
           "American English": "Windy",
           "British English": "Windy",
           "Chinese": "有风 (yǒu fēng)",
@@ -9502,7 +8765,6 @@
       ],
       "05/20": [
         {
-          "": "",
           "American English": "Snow",
           "British English": "Snow",
           "Chinese": "雪 (xuě)",
@@ -9515,7 +8777,6 @@
       ],
       "06/20": [
         {
-          "": "",
           "American English": "Storm",
           "British English": "Storm",
           "Chinese": "暴风 (bàofēng)",
@@ -9528,7 +8789,6 @@
       ],
       "07/20": [
         {
-          "": "",
           "American English": "Foggy",
           "British English": "Foggy",
           "Chinese": "有雾 (yǒu wù)",
@@ -9541,7 +8801,6 @@
       ],
       "08/20": [
         {
-          "": "",
           "American English": "Hot",
           "British English": "Hot",
           "Chinese": "热 (rè)",
@@ -9554,7 +8813,6 @@
       ],
       "09/20": [
         {
-          "": "",
           "American English": "Cold",
           "British English": "Cold",
           "Chinese": "冷 (lěng)",
@@ -9567,7 +8825,6 @@
       ],
       "10/20": [
         {
-          "": "",
           "American English": "Humid",
           "British English": "Humid",
           "Chinese": "潮湿 (cháoshī)",
@@ -9580,7 +8837,6 @@
       ],
       "11/20": [
         {
-          "": "",
           "American English": "Dry",
           "British English": "Dry",
           "Chinese": "干燥 (gānzào)",
@@ -9593,7 +8849,6 @@
       ],
       "12/20": [
         {
-          "": "",
           "American English": "Hail",
           "British English": "Hail",
           "Chinese": "冰雹 (bīngbáo)",
@@ -9606,7 +8861,6 @@
       ],
       "13/20": [
         {
-          "": "",
           "American English": "Lightning",
           "British English": "Lightning",
           "Chinese": "闪电 (shǎndiàn)",
@@ -9619,7 +8873,6 @@
       ],
       "14/20": [
         {
-          "": "",
           "American English": "Thunder",
           "British English": "Thunder",
           "Chinese": "雷声 (léishēng)",
@@ -9632,7 +8885,6 @@
       ],
       "15/20": [
         {
-          "": "",
           "American English": "Rainbow",
           "British English": "Rainbow",
           "Chinese": "彩虹 (cǎihóng)",
@@ -9645,7 +8897,6 @@
       ],
       "16/20": [
         {
-          "": "",
           "American English": "Spring",
           "British English": "Spring",
           "Chinese": "春天 (chūntiān)",
@@ -9658,7 +8909,6 @@
       ],
       "17/20": [
         {
-          "": "",
           "American English": "Summer",
           "British English": "Summer",
           "Chinese": "夏天 (xiàtiān)",
@@ -9671,7 +8921,6 @@
       ],
       "18/20": [
         {
-          "": "",
           "American English": "Autumn",
           "British English": "Autumn",
           "Chinese": "秋天 (qiūtiān)",
@@ -9684,7 +8933,6 @@
       ],
       "19/20": [
         {
-          "": "",
           "American English": "Winter",
           "British English": "Winter",
           "Chinese": "冬天 (dōngtiān)",
@@ -9697,7 +8945,6 @@
       ],
       "20/20": [
         {
-          "": "",
           "American English": "Season",
           "British English": "Season",
           "Chinese": "季节 (jìjié)",
