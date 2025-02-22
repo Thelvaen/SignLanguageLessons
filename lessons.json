@@ -786,6 +786,188 @@
         }
       ]
     },
+    "Basic Furniture": {
+      "01/15": [
+        {
+          "American English": "Chair",
+          "British English": "Chair",
+          "Chinese": "椅子",
+          "Deutsche": "Stuhl",
+          "Français": "Chaise",
+          "Japanese": "椅子",
+          "Nederlands": "Stoel",
+          "한국어": "의자"
+        }
+      ],
+      "02/15": [
+        {
+          "American English": "Desk, Table",
+          "British English": "Desk, Table",
+          "Chinese": "书桌, 桌子",
+          "Deutsche": "Schreibtisch, Tisch",
+          "Français": "Bureau, Table",
+          "Japanese": "机, テーブル",
+          "Nederlands": "Bureau, Tafel",
+          "한국어": "책상, 테이블"
+        }
+      ],
+      "03/15": [
+        {
+          "American English": "Wardrobe",
+          "British English": "Wardrobe",
+          "Chinese": "衣柜",
+          "Deutsche": "Kleiderschrank",
+          "Français": "Armoire",
+          "Japanese": "ワードローブ",
+          "Nederlands": "Garderobe",
+          "한국어": "옷장"
+        }
+      ],
+      "04/15": [
+        {
+          "American English": "Drawer",
+          "British English": "Drawer",
+          "Chinese": "抽屉",
+          "Deutsche": "Schublade",
+          "Français": "Tiroir",
+          "Japanese": "引き出し",
+          "Nederlands": "Lade",
+          "한국어": "서랍"
+        }
+      ],
+      "05/15": [
+        {
+          "American English": "Shoe rack",
+          "British English": "Shoe rack",
+          "Chinese": "鞋架",
+          "Deutsche": "Schuhregal",
+          "Français": "Meuble à chaussures",
+          "Japanese": "靴箱",
+          "Nederlands": "Schoenenrek",
+          "한국어": "신발장"
+        }
+      ],
+      "06/15": [
+        {
+          "American English": "Coat rack",
+          "British English": "Coat rack",
+          "Chinese": "衣帽架",
+          "Deutsche": "Garderobenständer",
+          "Français": "Porte-manteau",
+          "Japanese": "コートラック",
+          "Nederlands": "Kapstok",
+          "한국어": "옷걸이"
+        }
+      ],
+      "07/15": [
+        {
+          "American English": "Refrigerator",
+          "British English": "Refrigerator",
+          "Chinese": "冰箱",
+          "Deutsche": "Kühlschrank",
+          "Français": "Réfrigérateur",
+          "Japanese": "冷蔵庫",
+          "Nederlands": "Koelkast",
+          "한국어": "냉장고"
+        }
+      ],
+      "08/15": [
+        {
+          "American English": "Sink",
+          "British English": "Sink",
+          "Chinese": "水槽",
+          "Deutsche": "Spüle",
+          "Français": "Évier",
+          "Japanese": "シンク",
+          "Nederlands": "Gootsteen",
+          "한국어": "싱크대"
+        }
+      ],
+      "09/15": [
+        {
+          "American English": "Fan",
+          "British English": "Fan",
+          "Chinese": "风扇",
+          "Deutsche": "Ventilator",
+          "Français": "Ventilateur",
+          "Japanese": "扇風機",
+          "Nederlands": "Ventilator",
+          "한국어": "선풍기"
+        }
+      ],
+      "10/15": [
+        {
+          "American English": "Air Conditioner",
+          "British English": "Air Conditioner",
+          "Chinese": "空调",
+          "Deutsche": "Klimaanlage",
+          "Français": "Climatiseur",
+          "Japanese": "エアコン",
+          "Nederlands": "Airco",
+          "한국어": "에어컨"
+        }
+      ],
+      "11/15": [
+        {
+          "American English": "Lamp",
+          "British English": "Lamp",
+          "Chinese": "灯",
+          "Deutsche": "Lampe",
+          "Français": "Lampe",
+          "Japanese": "ランプ",
+          "Nederlands": "Lamp",
+          "한국어": "램프"
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "Sofa",
+          "British English": "Sofa",
+          "Chinese": "沙发",
+          "Deutsche": "Sofa",
+          "Français": "Canapé",
+          "Japanese": "ソファ",
+          "Nederlands": "Bank",
+          "한국어": "소파"
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "Bed",
+          "British English": "Bed",
+          "Chinese": "床",
+          "Deutsche": "Bett",
+          "Français": "Lit",
+          "Japanese": "ベッド",
+          "Nederlands": "Bed",
+          "한국어": "침대"
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "TV",
+          "British English": "TV",
+          "Chinese": "电视",
+          "Deutsche": "Fernseher",
+          "Français": "Télévision",
+          "Japanese": "テレビ",
+          "Nederlands": "Televisie",
+          "한국어": "텔레비전"
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "Shelf",
+          "British English": "Shelf",
+          "Chinese": "架子",
+          "Deutsche": "Regal",
+          "Français": "Étagère",
+          "Japanese": "棚",
+          "Nederlands": "Plank",
+          "한국어": "선반"
+        }
+      ]
+    },
     "Basic Part 1": {
       "01/15": [
         {
