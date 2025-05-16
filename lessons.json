@@ -4337,7 +4337,7 @@
       ]
     },
     "Family Lesson": {
-      "01/16": [
+      "01/17": [
         {
           "American English": "Family",
           "British English": "Family",
@@ -4349,7 +4349,7 @@
           "한국어": "가족"
         }
       ],
-      "02/16": [
+      "02/17": [
         {
           "American English": "Father",
           "British English": "Father",
@@ -4361,7 +4361,7 @@
           "한국어": "아버지"
         }
       ],
-      "03/16": [
+      "03/17": [
         {
           "American English": "Mother",
           "British English": "Mother",
@@ -4373,7 +4373,7 @@
           "한국어": "어머니"
         }
       ],
-      "04/16": [
+      "04/17": [
         {
           "American English": "Parent",
           "British English": "Parent",
@@ -4385,7 +4385,7 @@
           "한국어": "부모"
         }
       ],
-      "05/16": [
+      "05/17": [
         {
           "American English": "Brother",
           "British English": "Brother",
@@ -4397,7 +4397,7 @@
           "한국어": "형/오빠/남동생"
         }
       ],
-      "06/16": [
+      "06/17": [
         {
           "American English": "Sister",
           "British English": "Sister",
@@ -4409,7 +4409,19 @@
           "한국어": "누나/언니/여동생"
         }
       ],
-      "07/16": [
+      "07/17": [
+        {
+          "American English": "Sister",
+          "British English": "Sister",
+          "Chinese": "姐妹 (jiěmèi)",
+          "Deutsche": "Schwester",
+          "Français": "Sœur",
+          "Japanese": "姉妹 (shimai)",
+          "Nederlands": "Zus",
+          "한국어": "누나/언니/여동생"
+        }
+      ],
+      "08/17": [
         {
           "American English": "Son",
           "British English": "Son",
@@ -4421,7 +4433,7 @@
           "한국어": "아들"
         }
       ],
-      "08/16": [
+      "09/17": [
         {
           "American English": "Daughter",
           "British English": "Daughter",
@@ -4433,7 +4445,7 @@
           "한국어": "딸"
         }
       ],
-      "09/16": [
+      "10/17": [
         {
           "American English": "Grandfather",
           "British English": "Grandfather",
@@ -4445,7 +4457,7 @@
           "한국어": "할아버지"
         }
       ],
-      "10/16": [
+      "11/17": [
         {
           "American English": "Grandmother",
           "British English": "Grandmother",
@@ -4457,7 +4469,7 @@
           "한국어": "할머니"
         }
       ],
-      "11/16": [
+      "12/17": [
         {
           "American English": "Grandchild",
           "British English": "Grandchild",
@@ -4469,7 +4481,7 @@
           "한국어": "손주"
         }
       ],
-      "12/16": [
+      "13/17": [
         {
           "American English": "Uncle",
           "British English": "Uncle",
@@ -4481,7 +4493,7 @@
           "한국어": "삼촌/외삼촌"
         }
       ],
-      "13/16": [
+      "14/17": [
         {
           "American English": "Aunt",
           "British English": "Aunt",
@@ -4493,7 +4505,7 @@
           "한국어": "이모/고모"
         }
       ],
-      "14/16": [
+      "15/17": [
         {
           "American English": "Cousin",
           "British English": "Cousin",
@@ -4505,7 +4517,7 @@
           "한국어": "사촌"
         }
       ],
-      "15/16": [
+      "16/17": [
         {
           "American English": "Nephew",
           "British English": "Nephew",
@@ -4517,7 +4529,7 @@
           "한국어": "조카(남자)"
         }
       ],
-      "16/16": [
+      "17/17": [
         {
           "American English": "Niece",
           "British English": "Niece",
