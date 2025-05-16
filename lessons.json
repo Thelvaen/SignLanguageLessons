@@ -10,100 +10,314 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/07": [
-        {
-          "American English": "B",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/07": [
-        {
-          "American English": "C",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "03/07": [
-        {
-          "American English": "D",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "04/07": [
-        {
-          "American English": "E",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "05/07": [
-        {
-          "American English": "F",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "06/07": [
-        {
-          "American English": "G",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "07/07": [
-        {
-          "American English": "H",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Alphabet": {
-      "01/01": [
+      "01/26": [
         {
           "American English": "A",
-          "British English": "",
+          "British English": "A",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "",
+          "Français": "A",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/26": [
+        {
+          "American English": "B",
+          "British English": "B",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "B",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "03/26": [
+        {
+          "American English": "C",
+          "British English": "C",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "C",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "04/26": [
+        {
+          "American English": "D",
+          "British English": "D",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "D",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "05/26": [
+        {
+          "American English": "E",
+          "British English": "E",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "E",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/26": [
+        {
+          "American English": "F",
+          "British English": "F",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "F",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "07/26": [
+        {
+          "American English": "G",
+          "British English": "G",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "G",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "08/26": [
+        {
+          "American English": "H",
+          "British English": "H",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "H",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/26": [
+        {
+          "American English": "I",
+          "British English": "I",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "I",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/26": [
+        {
+          "American English": "J",
+          "British English": "J",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "J",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "11/26": [
+        {
+          "American English": "K",
+          "British English": "K",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "K",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "12/26": [
+        {
+          "American English": "L",
+          "British English": "L",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "L",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "13/26": [
+        {
+          "American English": "M",
+          "British English": "M",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "M",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "14/26": [
+        {
+          "American English": "N",
+          "British English": "N",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "N",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "15/26": [
+        {
+          "American English": "O",
+          "British English": "O",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "O",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "16/26": [
+        {
+          "American English": "P",
+          "British English": "P",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "P",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "17/26": [
+        {
+          "American English": "Q",
+          "British English": "Q",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Q",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "18/26": [
+        {
+          "American English": "R",
+          "British English": "R",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "R",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "19/26": [
+        {
+          "American English": "S",
+          "British English": "S",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "S",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "20/26": [
+        {
+          "American English": "T",
+          "British English": "T",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "T",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "21/26": [
+        {
+          "American English": "U",
+          "British English": "U",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "U",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "22/26": [
+        {
+          "American English": "V",
+          "British English": "V",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "V",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "23/26": [
+        {
+          "American English": "W",
+          "British English": "W",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "W",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "24/26": [
+        {
+          "American English": "X",
+          "British English": "X",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "X",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "25/26": [
+        {
+          "American English": "Y",
+          "British English": "Y",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Y",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "26/26": [
+        {
+          "American English": "Z",
+          "British English": "Z",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Z",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
