@@ -6097,8 +6097,8 @@
     "Halloween": {
       "01/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Halloween",
+          "British English": "Halloween",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Halloween",
@@ -6109,8 +6109,8 @@
       ],
       "02/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Fall Party",
+          "British English": "Fall Party",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Fête Automne",
@@ -6121,8 +6121,20 @@
       ],
       "03/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Doorbell",
+          "British English": "Doorbell",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Sonner à la porte",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "04/16": [
+        {
+          "American English": "Candy",
+          "British English": "Candy",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Des bonbons",
@@ -6131,10 +6143,10 @@
           "한국어": ""
         }
       ],
-      "04/16": [
+      "05/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Trick or Treat",
+          "British English": "Trick or Treat",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Un bonbon ou un sort",
@@ -6143,10 +6155,10 @@
           "한국어": ""
         }
       ],
-      "05/16": [
+      "06/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Pumpkin",
+          "British English": "Pumpkin",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Citrouille",
@@ -6155,10 +6167,10 @@
           "한국어": ""
         }
       ],
-      "06/16": [
+      "07/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Blood",
+          "British English": "Blood",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Sang",
@@ -6167,10 +6179,10 @@
           "한국어": ""
         }
       ],
-      "07/16": [
+      "08/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Horror",
+          "British English": "Horror",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Horreur",
@@ -6179,10 +6191,10 @@
           "한국어": ""
         }
       ],
-      "08/16": [
+      "09/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Fear",
+          "British English": "Fear",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Peur",
@@ -6191,10 +6203,10 @@
           "한국어": ""
         }
       ],
-      "09/16": [
+      "10/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Costume/Disguise",
+          "British English": "Costume/Disguise",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Costume/Déguisement",
@@ -6203,10 +6215,10 @@
           "한국어": ""
         }
       ],
-      "10/16": [
+      "11/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Bat",
+          "British English": "Bat",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Chauve-souris",
@@ -6215,10 +6227,10 @@
           "한국어": ""
         }
       ],
-      "11/16": [
+      "12/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Ghost",
+          "British English": "Ghost",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Fantôme",
@@ -6227,10 +6239,10 @@
           "한국어": ""
         }
       ],
-      "12/16": [
+      "13/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Spider",
+          "British English": "Spider",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Araigné",
@@ -6239,10 +6251,10 @@
           "한국어": ""
         }
       ],
-      "13/16": [
+      "14/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Zombie",
+          "British English": "Zombie",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Zombie",
@@ -6251,10 +6263,10 @@
           "한국어": ""
         }
       ],
-      "14/16": [
+      "15/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Vampire",
+          "British English": "Vampire",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Vampire",
@@ -6263,25 +6275,13 @@
           "한국어": ""
         }
       ],
-      "15/16": [
+      "16/16": [
         {
-          "American English": "",
-          "British English": "",
+          "American English": "Werewolf",
+          "British English": "Werewolf",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Loup-garou",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "16/16": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Sonner à la porte",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
