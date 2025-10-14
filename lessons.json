@@ -6095,7 +6095,7 @@
       ]
     },
     "Halloween": {
-      "01/11": [
+      "01/15": [
         {
           "American English": "",
           "British English": "",
@@ -6107,7 +6107,7 @@
           "한국어": ""
         }
       ],
-      "02/11": [
+      "02/15": [
         {
           "American English": "",
           "British English": "",
@@ -6119,7 +6119,7 @@
           "한국어": ""
         }
       ],
-      "03/11": [
+      "03/15": [
         {
           "American English": "",
           "British English": "",
@@ -6131,7 +6131,7 @@
           "한국어": ""
         }
       ],
-      "04/11": [
+      "04/15": [
         {
           "American English": "",
           "British English": "",
@@ -6143,7 +6143,7 @@
           "한국어": ""
         }
       ],
-      "05/11": [
+      "05/15": [
         {
           "American English": "",
           "British English": "",
@@ -6155,7 +6155,7 @@
           "한국어": ""
         }
       ],
-      "06/11": [
+      "06/15": [
         {
           "American English": "",
           "British English": "",
@@ -6167,7 +6167,7 @@
           "한국어": ""
         }
       ],
-      "07/11": [
+      "07/15": [
         {
           "American English": "",
           "British English": "",
@@ -6179,7 +6179,7 @@
           "한국어": ""
         }
       ],
-      "08/11": [
+      "08/15": [
         {
           "American English": "",
           "British English": "",
@@ -6191,7 +6191,7 @@
           "한국어": ""
         }
       ],
-      "09/11": [
+      "09/15": [
         {
           "American English": "",
           "British English": "",
@@ -6203,7 +6203,7 @@
           "한국어": ""
         }
       ],
-      "10/11": [
+      "10/15": [
         {
           "American English": "",
           "British English": "",
@@ -6215,13 +6215,61 @@
           "한국어": ""
         }
       ],
-      "11/11": [
+      "11/15": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Zombie",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "12/15": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Vampire",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "13/15": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Loup-garou",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "14/15": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Fête",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "15/15": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Sang",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
