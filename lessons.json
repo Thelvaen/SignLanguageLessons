@@ -10,6 +10,20 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/01": [
+        {
+          "American English": "Monster",
+          "British English": "Monster",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Monstre",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Alphabet": {
       "01/26": [
         {
@@ -6095,7 +6109,7 @@
       ]
     },
     "Halloween": {
-      "01/18": [
+      "01/19": [
         {
           "American English": "Halloween",
           "British English": "Halloween",
@@ -6107,7 +6121,7 @@
           "한국어": ""
         }
       ],
-      "02/18": [
+      "02/19": [
         {
           "American English": "Autumn party",
           "British English": "Autumn party",
@@ -6119,7 +6133,7 @@
           "한국어": ""
         }
       ],
-      "03/18": [
+      "03/19": [
         {
           "American English": "Doorbell",
           "British English": "Doorbell",
@@ -6131,7 +6145,7 @@
           "한국어": ""
         }
       ],
-      "04/18": [
+      "04/19": [
         {
           "American English": "Candy",
           "British English": "Candy",
@@ -6143,7 +6157,7 @@
           "한국어": ""
         }
       ],
-      "05/18": [
+      "05/19": [
         {
           "American English": "Trick or Treat",
           "British English": "Trick or Treat",
@@ -6155,7 +6169,7 @@
           "한국어": ""
         }
       ],
-      "06/18": [
+      "06/19": [
         {
           "American English": "Pumpkin",
           "British English": "Pumpkin",
@@ -6167,7 +6181,7 @@
           "한국어": ""
         }
       ],
-      "07/18": [
+      "07/19": [
         {
           "American English": "Blood",
           "British English": "Blood",
@@ -6179,7 +6193,7 @@
           "한국어": ""
         }
       ],
-      "08/18": [
+      "08/19": [
         {
           "American English": "Horror",
           "British English": "Horror",
@@ -6191,7 +6205,7 @@
           "한국어": ""
         }
       ],
-      "09/18": [
+      "09/19": [
         {
           "American English": "Fear",
           "British English": "Fear",
@@ -6203,7 +6217,7 @@
           "한국어": ""
         }
       ],
-      "10/18": [
+      "10/19": [
         {
           "American English": "Costume/Disguise",
           "British English": "Costume/Disguise",
@@ -6215,7 +6229,7 @@
           "한국어": ""
         }
       ],
-      "11/18": [
+      "11/19": [
         {
           "American English": "Bat",
           "British English": "Bat",
@@ -6227,7 +6241,7 @@
           "한국어": ""
         }
       ],
-      "12/18": [
+      "12/19": [
         {
           "American English": "Ghost",
           "British English": "Ghost",
@@ -6239,7 +6253,7 @@
           "한국어": ""
         }
       ],
-      "13/18": [
+      "13/19": [
         {
           "American English": "Spider",
           "British English": "Spider",
@@ -6251,7 +6265,7 @@
           "한국어": ""
         }
       ],
-      "14/18": [
+      "14/19": [
         {
           "American English": "Zombie",
           "British English": "Zombie",
@@ -6263,7 +6277,7 @@
           "한국어": ""
         }
       ],
-      "15/18": [
+      "15/19": [
         {
           "American English": "Vampire",
           "British English": "Vampire",
@@ -6275,7 +6289,7 @@
           "한국어": ""
         }
       ],
-      "16/18": [
+      "16/19": [
         {
           "American English": "Werewolf",
           "British English": "Werewolf",
@@ -6287,7 +6301,7 @@
           "한국어": ""
         }
       ],
-      "17/18": [
+      "17/19": [
         {
           "American English": "Witch",
           "British English": "Witch",
@@ -6299,13 +6313,25 @@
           "한국어": ""
         }
       ],
-      "18/18": [
+      "18/19": [
         {
           "American English": "Skeleton",
           "British English": "Skeleton",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Squelette",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "19/19": [
+        {
+          "American English": "Devil",
+          "British English": "Devil",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Diable",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
