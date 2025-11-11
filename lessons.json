@@ -10,20 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/01": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Inviter",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Alphabet": {
       "01/26": [
         {
@@ -1637,7 +1623,7 @@
       ]
     },
     "Birthday": {
-      "01/10": [
+      "01/12": [
         {
           "American English": "",
           "British English": "",
@@ -1649,7 +1635,7 @@
           "한국어": ""
         }
       ],
-      "02/10": [
+      "02/12": [
         {
           "American English": "",
           "British English": "",
@@ -1661,7 +1647,7 @@
           "한국어": ""
         }
       ],
-      "03/10": [
+      "03/12": [
         {
           "American English": "",
           "British English": "",
@@ -1673,7 +1659,7 @@
           "한국어": ""
         }
       ],
-      "04/10": [
+      "04/12": [
         {
           "American English": "",
           "British English": "",
@@ -1685,7 +1671,19 @@
           "한국어": ""
         }
       ],
-      "05/10": [
+      "05/12": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Souffler les bougies",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/12": [
         {
           "American English": "",
           "British English": "",
@@ -1697,7 +1695,7 @@
           "한국어": ""
         }
       ],
-      "06/10": [
+      "07/12": [
         {
           "American English": "",
           "British English": "",
@@ -1709,7 +1707,7 @@
           "한국어": ""
         }
       ],
-      "07/10": [
+      "08/12": [
         {
           "American English": "",
           "British English": "",
@@ -1721,7 +1719,19 @@
           "한국어": ""
         }
       ],
-      "08/10": [
+      "09/12": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Inviter",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/12": [
         {
           "American English": "",
           "British English": "",
@@ -1733,7 +1743,7 @@
           "한국어": ""
         }
       ],
-      "09/10": [
+      "11/12": [
         {
           "American English": "",
           "British English": "",
@@ -1745,7 +1755,7 @@
           "한국어": ""
         }
       ],
-      "10/10": [
+      "12/12": [
         {
           "American English": "",
           "British English": "",
