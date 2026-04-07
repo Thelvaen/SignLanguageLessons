@@ -10,32 +10,6 @@
     "Chinese"
   ],
   "lessons": {
-    "": {
-      "01/02": [
-        {
-          "American English": "Decoration",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Décoration",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "02/02": [
-        {
-          "American English": "Costume",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Costume",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ]
-    },
     "Alphabet": {
       "01/26": [
         {
@@ -4521,7 +4495,7 @@
       ]
     },
     "Easter egg": {
-      "01/10": [
+      "01/12": [
         {
           "American English": "Easter egg",
           "British English": "Easter egg",
@@ -4533,10 +4507,10 @@
           "한국어": ""
         }
       ],
-      "02/10": [
+      "02/12": [
         {
           "American English": "Chocolate",
-          "British English": "",
+          "British English": "Chocolate",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Chocolat",
@@ -4545,10 +4519,10 @@
           "한국어": ""
         }
       ],
-      "03/10": [
+      "03/12": [
         {
           "American English": "Egg",
-          "British English": "",
+          "British English": "Egg",
           "Chinese": "",
           "Deutsche": "",
           "Français": "œuf ",
@@ -4557,10 +4531,10 @@
           "한국어": ""
         }
       ],
-      "04/10": [
+      "04/12": [
         {
           "American English": "Rabbit",
-          "British English": "",
+          "British English": "Rabbit",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Lapin",
@@ -4569,10 +4543,10 @@
           "한국어": ""
         }
       ],
-      "05/10": [
+      "05/12": [
         {
           "American English": "Search",
-          "British English": "",
+          "British English": "Search",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Chercher",
@@ -4581,10 +4555,10 @@
           "한국어": ""
         }
       ],
-      "06/10": [
+      "06/12": [
         {
           "American English": "Garden",
-          "British English": "",
+          "British English": "Garden",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Jardin",
@@ -4593,10 +4567,10 @@
           "한국어": ""
         }
       ],
-      "07/10": [
+      "07/12": [
         {
           "American English": "Color",
-          "British English": "",
+          "British English": "Color",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Couleur",
@@ -4605,10 +4579,10 @@
           "한국어": ""
         }
       ],
-      "08/10": [
+      "08/12": [
         {
           "American English": "Basket",
-          "British English": "",
+          "British English": "Basket",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Panier",
@@ -4617,10 +4591,10 @@
           "한국어": ""
         }
       ],
-      "09/10": [
+      "09/12": [
         {
           "American English": "Eat",
-          "British English": "",
+          "British English": "Eat",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Manger",
@@ -4629,13 +4603,37 @@
           "한국어": ""
         }
       ],
-      "10/10": [
+      "10/12": [
         {
           "American English": "Party",
-          "British English": "",
+          "British English": "Party",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Fête",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "11/12": [
+        {
+          "American English": "Decoration",
+          "British English": "Decoration",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Décoration",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "12/12": [
+        {
+          "American English": "Costume",
+          "British English": "Costume",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Costume",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
