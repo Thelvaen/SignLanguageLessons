@@ -4495,7 +4495,7 @@
       ]
     },
     "Easter egg": {
-      "01/03": [
+      "01/05": [
         {
           "American English": "Easter egg",
           "British English": "Easter egg",
@@ -4507,7 +4507,7 @@
           "한국어": ""
         }
       ],
-      "02/03": [
+      "02/05": [
         {
           "American English": "",
           "British English": "",
@@ -4519,13 +4519,37 @@
           "한국어": ""
         }
       ],
-      "03/03": [
+      "03/05": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "Oeuf",
+          "Français": "œuf ",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "04/05": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Lapin",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "05/05": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Chercher",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
