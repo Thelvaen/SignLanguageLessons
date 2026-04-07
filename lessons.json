@@ -4495,13 +4495,37 @@
       ]
     },
     "Easter egg": {
-      "01/01": [
+      "01/03": [
         {
-          "American English": "Egg",
-          "British English": "Egg",
+          "American English": "Easter egg",
+          "British English": "Easter egg",
           "Chinese": "",
           "Deutsche": "",
-          "Français": "œuf",
+          "Français": "œuf de pâques",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/03": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Chocolat",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "03/03": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Oeuf",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
