@@ -10,6 +10,32 @@
     "Chinese"
   ],
   "lessons": {
+    "": {
+      "01/02": [
+        {
+          "American English": "Decoration",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Décoration",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "02/02": [
+        {
+          "American English": "Costume",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Costume",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ]
+    },
     "Alphabet": {
       "01/26": [
         {
@@ -4495,7 +4521,7 @@
       ]
     },
     "Easter egg": {
-      "01/09": [
+      "01/10": [
         {
           "American English": "Easter egg",
           "British English": "Easter egg",
@@ -4507,9 +4533,9 @@
           "한국어": ""
         }
       ],
-      "02/09": [
+      "02/10": [
         {
-          "American English": "",
+          "American English": "Chocolate",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4519,9 +4545,9 @@
           "한국어": ""
         }
       ],
-      "03/09": [
+      "03/10": [
         {
-          "American English": "",
+          "American English": "Egg",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4531,9 +4557,9 @@
           "한국어": ""
         }
       ],
-      "04/09": [
+      "04/10": [
         {
-          "American English": "",
+          "American English": "Rabbit",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4543,9 +4569,9 @@
           "한국어": ""
         }
       ],
-      "05/09": [
+      "05/10": [
         {
-          "American English": "",
+          "American English": "Search",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4555,9 +4581,9 @@
           "한국어": ""
         }
       ],
-      "06/09": [
+      "06/10": [
         {
-          "American English": "",
+          "American English": "Garden",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4567,9 +4593,9 @@
           "한국어": ""
         }
       ],
-      "07/09": [
+      "07/10": [
         {
-          "American English": "",
+          "American English": "Color",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4579,9 +4605,9 @@
           "한국어": ""
         }
       ],
-      "08/09": [
+      "08/10": [
         {
-          "American English": "",
+          "American English": "Basket",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
@@ -4591,13 +4617,25 @@
           "한국어": ""
         }
       ],
-      "09/09": [
+      "09/10": [
         {
-          "American English": "",
+          "American English": "Eat",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Manger",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/10": [
+        {
+          "American English": "Party",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Fête",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
