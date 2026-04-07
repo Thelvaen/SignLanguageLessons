@@ -4495,7 +4495,7 @@
       ]
     },
     "Easter egg": {
-      "01/05": [
+      "01/09": [
         {
           "American English": "Easter egg",
           "British English": "Easter egg",
@@ -4507,7 +4507,7 @@
           "한국어": ""
         }
       ],
-      "02/05": [
+      "02/09": [
         {
           "American English": "",
           "British English": "",
@@ -4519,7 +4519,7 @@
           "한국어": ""
         }
       ],
-      "03/05": [
+      "03/09": [
         {
           "American English": "",
           "British English": "",
@@ -4531,7 +4531,7 @@
           "한국어": ""
         }
       ],
-      "04/05": [
+      "04/09": [
         {
           "American English": "",
           "British English": "",
@@ -4543,13 +4543,61 @@
           "한국어": ""
         }
       ],
-      "05/05": [
+      "05/09": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Chercher",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "06/09": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Jardin",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "07/09": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Couleur",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "08/09": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Panier",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/09": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Manger",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
