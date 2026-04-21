@@ -11,7 +11,7 @@
   ],
   "lessons": {
     "": {
-      "01/12": [
+      "01/18": [
         {
           "American English": "",
           "British English": "",
@@ -23,7 +23,7 @@
           "한국어": ""
         }
       ],
-      "02/12": [
+      "02/18": [
         {
           "American English": "",
           "British English": "",
@@ -35,7 +35,7 @@
           "한국어": ""
         }
       ],
-      "03/12": [
+      "03/18": [
         {
           "American English": "",
           "British English": "",
@@ -47,7 +47,7 @@
           "한국어": ""
         }
       ],
-      "04/12": [
+      "04/18": [
         {
           "American English": "",
           "British English": "",
@@ -59,7 +59,7 @@
           "한국어": ""
         }
       ],
-      "05/12": [
+      "05/18": [
         {
           "American English": "",
           "British English": "",
@@ -71,7 +71,7 @@
           "한국어": ""
         }
       ],
-      "06/12": [
+      "06/18": [
         {
           "American English": "",
           "British English": "",
@@ -83,31 +83,7 @@
           "한국어": ""
         }
       ],
-      "07/12": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Chambre",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "08/12": [
-        {
-          "American English": "",
-          "British English": "",
-          "Chinese": "",
-          "Deutsche": "",
-          "Français": "Bureau / Table",
-          "Japanese": "",
-          "Nederlands": "",
-          "한국어": ""
-        }
-      ],
-      "09/12": [
+      "07/18": [
         {
           "American English": "",
           "British English": "",
@@ -119,7 +95,31 @@
           "한국어": ""
         }
       ],
-      "10/12": [
+      "08/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Bureau / Table",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "09/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Chambre",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "10/18": [
         {
           "American English": "",
           "British English": "",
@@ -131,7 +131,7 @@
           "한국어": ""
         }
       ],
-      "11/12": [
+      "11/18": [
         {
           "American English": "",
           "British English": "",
@@ -143,13 +143,85 @@
           "한국어": ""
         }
       ],
-      "12/12": [
+      "12/18": [
         {
           "American English": "",
           "British English": "",
           "Chinese": "",
           "Deutsche": "",
           "Français": "Toilette",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "13/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Garage",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "14/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Cave",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "15/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Grenier",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "16/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Jardin",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "17/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Terrasse",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "18/18": [
+        {
+          "American English": "",
+          "British English": "",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Balcon",
           "Japanese": "",
           "Nederlands": "",
           "한국어": ""
