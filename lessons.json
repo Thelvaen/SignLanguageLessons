@@ -5405,7 +5405,7 @@
       ]
     },
     "Food & Drinks Lesson Pt 2": {
-      "01/19": [
+      "01/20": [
         {
           "American English": "Ice Cream",
           "British English": "Ice Cream",
@@ -5417,7 +5417,7 @@
           "한국어": "아이스크림"
         }
       ],
-      "02/19": [
+      "02/20": [
         {
           "American English": "Juice",
           "British English": "Juice",
@@ -5429,7 +5429,7 @@
           "한국어": "주스"
         }
       ],
-      "03/19": [
+      "03/20": [
         {
           "American English": "Meat",
           "British English": "Meat",
@@ -5441,7 +5441,7 @@
           "한국어": "고기"
         }
       ],
-      "04/19": [
+      "04/20": [
         {
           "American English": "Milk",
           "British English": "Milk",
@@ -5453,7 +5453,7 @@
           "한국어": "우유"
         }
       ],
-      "05/19": [
+      "05/20": [
         {
           "American English": "Noodles",
           "British English": "Noodles",
@@ -5465,7 +5465,19 @@
           "한국어": "국수"
         }
       ],
-      "06/19": [
+      "06/20": [
+        {
+          "American English": "Pasta",
+          "British English": "Pasta",
+          "Chinese": "",
+          "Deutsche": "",
+          "Français": "Pâtes",
+          "Japanese": "",
+          "Nederlands": "",
+          "한국어": ""
+        }
+      ],
+      "07/20": [
         {
           "American English": "Nuts/Peanuts",
           "British English": "Nuts/Peanuts",
@@ -5477,7 +5489,7 @@
           "한국어": "견과류"
         }
       ],
-      "07/19": [
+      "08/20": [
         {
           "American English": "Pie",
           "British English": "Pie",
@@ -5489,7 +5501,7 @@
           "한국어": "파이"
         }
       ],
-      "08/19": [
+      "09/20": [
         {
           "American English": "Pizza",
           "British English": "Pizza",
@@ -5501,7 +5513,7 @@
           "한국어": "피자"
         }
       ],
-      "09/19": [
+      "10/20": [
         {
           "American English": "Pop/Soda",
           "British English": "fizzy drink/soft drink",
@@ -5513,7 +5525,7 @@
           "한국어": "탄산음료"
         }
       ],
-      "10/19": [
+      "11/20": [
         {
           "American English": "Salt",
           "British English": "Salt",
@@ -5525,7 +5537,7 @@
           "한국어": "소금"
         }
       ],
-      "11/19": [
+      "12/20": [
         {
           "American English": "Sandwich",
           "British English": "Sandwich",
@@ -5537,7 +5549,7 @@
           "한국어": "샌드위치"
         }
       ],
-      "12/19": [
+      "13/20": [
         {
           "American English": "Spaghetti",
           "British English": "Spaghetti",
@@ -5549,7 +5561,7 @@
           "한국어": "스파게티"
         }
       ],
-      "13/19": [
+      "14/20": [
         {
           "American English": "Sugar",
           "British English": "Sugar",
@@ -5561,7 +5573,7 @@
           "한국어": "설탕"
         }
       ],
-      "14/19": [
+      "15/20": [
         {
           "American English": "Sushi",
           "British English": "Sushi",
@@ -5573,7 +5585,7 @@
           "한국어": "초밥"
         }
       ],
-      "15/19": [
+      "16/20": [
         {
           "American English": "Taco",
           "British English": "Taco",
@@ -5585,7 +5597,7 @@
           "한국어": "타코"
         }
       ],
-      "16/19": [
+      "17/20": [
         {
           "American English": "Turkey (meat)",
           "British English": "Turkey (meat)",
@@ -5597,7 +5609,7 @@
           "한국어": "칠면조"
         }
       ],
-      "17/19": [
+      "18/20": [
         {
           "American English": "Water",
           "British English": "Water",
@@ -5609,7 +5621,7 @@
           "한국어": "물"
         }
       ],
-      "18/19": [
+      "19/20": [
         {
           "American English": "Wine",
           "British English": "Wine",
@@ -5621,7 +5633,7 @@
           "한국어": "와인"
         }
       ],
-      "19/19": [
+      "20/20": [
         {
           "American English": "Yogurt",
           "British English": "Yogurt",
