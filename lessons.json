@@ -3788,7 +3788,7 @@
           "Français": "Ça va / Comment tu vas ",
           "Japanese": "お元気ですか?",
           "Nederlands": "Hoe gaat het met je",
-          "한국어": "어떻게 지냈어요?"
+          "한국어": "어떻게 지내세요?"
         }
       ],
       "03/18": [
@@ -3908,7 +3908,7 @@
           "Français": "De rien",
           "Japanese": "どういたしまして",
           "Nederlands": "Je bent welkom",
-          "한국어": "환영합니다"
+          "한국어": "환영하다"
         }
       ],
       "13/18": [
@@ -3920,7 +3920,7 @@
           "Français": "Au revoir",
           "Japanese": "さようなら",
           "Nederlands": "Goedendag",
-          "한국어": "잘 가요"
+          "한국어": "안녕히 계세요 / 잘가"
         }
       ],
       "14/18": [
@@ -3968,7 +3968,7 @@
           "Français": "Bonne nuit",
           "Japanese": "おやすみなさい",
           "Nederlands": "Goede nacht",
-          "한국어": "잘 자요"
+          "한국어": "잘 자"
         }
       ],
       "18/18": [
@@ -3980,7 +3980,7 @@
           "Français": "à plus tard",
           "Japanese": "じゃあまたね",
           "Nederlands": "Tot ziens",
-          "한국어": "나중에 봐요"
+          "한국어": "나중에 봐"
         }
       ]
     },
